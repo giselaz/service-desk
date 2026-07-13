@@ -1,0 +1,4 @@
+ID,title,description,status_code,urgency_code,priority_code,serviceType_code,category_ID,assignedTo,createdBy
+d0000000-0000-0000-0000-000000000001,Laptop wont boot,Black screen on startup,NEW,HIGH,HIGH,INCIDENT,b0000000-0000-0000-0000-000000000001,,erin
+d0000000-0000-0000-0000-000000000002,Need Photoshop license,Requesting Adobe CC,ASSIGNED,LOW,MEDIUM,REQUEST,b0000000-0000-0000-0000-000000000002,aiden,erin
+d0000000-0000-0000-0000-000000000003,VPN drops hourly,Unstable since Monday,IN_PROCESS,HIGH,HIGH,INCIDENT,b0000000-0000-0000-0000-000000000003,aiden,admin

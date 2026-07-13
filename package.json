@@ -1,0 +1,81 @@
+{
+  "name": "service-desk",
+  "version": "1.0.0",
+  "dependencies": {
+    "@cap-js/hana": "^2",
+    "@sap/cds": "^9",
+    "@sap/xssec": "^4",
+    "axios": "^1.18.1",
+    "jest": "^30.4.2",
+    "tar": "^7.5.20"
+  },
+  "devDependencies": {
+    "@cap-js/cds-test": "^1.0.1",
+    "@cap-js/sqlite": "^2.4",
+    "@sap/cds-dk": "^9",
+    "cds-plugin-ui5": "^0.17.0",
+    "mbt": "^1.2.49",
+    "rimraf": "^5.0.5"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "watch-tickets": "cds watch --open itsm.tickets.tickets/index.html?sap-ui-xx-viewCache=false --livereload false",
+    "undeploy": "cf undeploy service-desk --delete-services --delete-service-keys --delete-service-brokers",
+    "build": "rimraf resources mta_archives && mbt build --mtar archive",
+    "deploy": "cf deploy mta_archives/archive.mtar --retries 1",
+    "watch-service-desk": "cds watch --open com.tickets.servicedesk/index.html?sap-ui-xx-viewCache=false --livereload false"
+  },
+  "private": true,
+  "cds": {
+    "requires": {
+      "[production]": {
+        "auth": "xsuaa",
+        "db": "hana"
+      },
+      "[development]": {
+        "auth": {
+          "kind": "mocked",
+          "users": {
+            "erin": {
+              "roles": [
+                "viewer"
+              ],
+              "attr": {
+                "firstName": "Erin",
+                "lastName": "Smith"
+              }
+            },
+            "aiden": {
+              "roles": [
+                "agent"
+              ],
+              "attrs": {
+                "firstName": "Aiden",
+                "lastName": "Johnson"
+              }
+            },
+            "admin": {
+              "roles": [
+                "admin"
+              ]
+            }
+          }
+        },
+        "kind": "sqlite",
+        "credentials": {
+          "url": "db.sqlite"
+        }
+      },
+      "destinations": true,
+      "html5-repo": true,
+      "workzone": true
+    }
+  },
+  "workspaces": [
+    "app/*"
+  ],
+  "sapux": [
+    "app/tickets",
+    "app/service-desk"
+  ]
+}

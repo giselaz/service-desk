@@ -1,0 +1,11 @@
+NAME:
+   logs - Tail or show recent logs for an app
+
+USAGE:
+   cf logs APP_NAME
+
+OPTIONS:
+   --recent      Dump recent logs instead of tailing
+
+SEE ALSO:
+   app, apps, ssh

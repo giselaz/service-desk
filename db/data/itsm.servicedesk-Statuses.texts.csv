@@ -1,0 +1,7 @@
+code,locale,name,descr
+NEW,en,New,Ticket created
+ASSIGNED,en,Assigned,Assigned to an agent
+IN_PROCESS,en,In Process,Agent working on it
+STANDBY,en,Stand By,Waiting
+USER_RESPONDED,en,User Responded,Requester replied
+CLOSED,en,Closed,Resolved and closed

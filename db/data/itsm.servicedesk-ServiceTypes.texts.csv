@@ -1,0 +1,4 @@
+code,locale,name,descr
+INCIDENT,en,Incident,Something is broken
+REQUEST,en,Service Request,Request for something new
+CHANGE,en,Change,Planned change

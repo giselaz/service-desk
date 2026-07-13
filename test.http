@@ -1,0 +1,41 @@
+@server = http://localhost:4004/odata/v4/service-desk
+
+### Erin (requester) — should see only her own tickets
+GET {{server}}/Operations
+Authorization: Basic erin:
+### As erin, try to update a ticket she owns
+GET http://localhost:4004/odata/v4/service-desk/Operations(ID=d0000000-0000-0000-0000-000000000003,IsActiveEntity=true)
+Authorization: Basic erin:
+
+GET http://localhost:4004/odata/v4/service-desk/Comments
+Authorization: Basic erin:
+
+
+### Aiden (agent) — should see the whole queue
+GET {{server}}/Operations
+Authorization: Basic aiden:
+
+### Admin — should see everything
+GET {{server}}/Operations
+Authorization: Basic admin:
+
+### A code list — any logged-in user can read
+GET {{server}}/Statuses
+Authorization: Basic erin:
+
+### Create a ticket as Erin
+POST {{server}}/Operations
+Authorization: Basic erin:
+Content-Type: application/json
+
+{
+  "title": "Printer not working",
+  "description": "Paper jam on floor 3",
+  "urgency_code": "HIGH"
+}
+GET http://localhost:4004/odata/v4/service-desk/Configuration
+GET http://localhost:4004/odata/v4/service-desk/$metadata
+
+
+
+{ "text": "Any update on this?" }
