@@ -23,7 +23,8 @@
     "undeploy": "cf undeploy service-desk --delete-services --delete-service-keys --delete-service-brokers",
     "build": "rimraf resources mta_archives && mbt build --mtar archive",
     "deploy": "cf deploy mta_archives/archive.mtar --retries 1",
-    "watch-service-desk": "cds watch --open com.tickets.servicedesk/index.html?sap-ui-xx-viewCache=false --livereload false"
+    "watch-service-desk": "cds watch --open com.tickets.servicedesk/index.html?sap-ui-xx-viewCache=false --livereload false",
+    "test":"npx jest test/service.test.js"
   },
   "private": true,
   "cds": {
@@ -38,7 +39,7 @@
           "users": {
             "erin": {
               "roles": [
-                "viewer"
+                "admin"
               ],
               "attr": {
                 "firstName": "Erin",

@@ -31,11 +31,7 @@ Content-Type: application/json
 {
   "title": "Printer not working",
   "description": "Paper jam on floor 3",
-  "urgency_code": "HIGH"
+  "urgency_code": "HIGH",
+   "serviceType_code":"INCIDENT"
 }
-GET http://localhost:4004/odata/v4/service-desk/Configuration
-GET http://localhost:4004/odata/v4/service-desk/$metadata
 
-
-
-{ "text": "Any update on this?" }

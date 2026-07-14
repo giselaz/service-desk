@@ -1,0 +1,5 @@
+ID,name,description,timeToSpend,remainingTime
+a0000000-0000-0000-0000-000000000001,Contoso Ltd,Primary corporate customer,2400,2400
+a0000000-0000-0000-0000-000000000002,Northwind Traders,Retail partner,1200,1200
+a0000000-0000-0000-0000-000000000003,Globex Corporation,Enterprise client,4800,4800
+a0000000-0000-0000-0000-000000000004,Initech,Small business account,600,600

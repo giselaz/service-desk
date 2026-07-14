@@ -13,7 +13,13 @@ service ServiceDeskService @(impl: './service.js') {
     @(restrict:[{grant:'*',to: 'admin'},{grant:'READ',to:'viewer'},
     {grant:'READ',to:'agent'}])
     entity Categories as projection on sd.Categories;
+    @(restrict:[{grant:'*',to: 'admin'},{grant:'READ',to:'viewer'},
+    {grant:'READ',to:'agent'}])
+    entity Companies as projection on sd.Companies;
     entity Comments as projection on sd.Comments;
+     @(restrict:[{grant:'*',to: 'admin'},
+    {grant:['*'],to:'agent',where:'createdBy = $user'}])
+     entity Worklogs as projection on sd.Worklogs;
 
     @odata.singleton @cds.persistence.skip
   entity Configuration {
@@ -22,7 +28,12 @@ service ServiceDeskService @(impl: './service.js') {
     isRequester : Boolean;
   }
 }
+extend projection ServiceDeskService.Operations with {
 
+  virtual null as companyRemainingTime : String,
+  virtual null as OverDue: Integer
+
+};
 annotate ServiceDeskService.Operations with @(restrict: [
   { grant: 'CREATE',                        to: 'viewer' },
   { grant: 'CREATE',                        to: 'agent' },

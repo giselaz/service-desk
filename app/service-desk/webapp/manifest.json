@@ -141,7 +141,14 @@
           "options": {
             "settings": {
               "editableHeaderContent": false,
-              "contextPath": "/Operations"
+              "contextPath": "/Operations",
+              "controlConfiguration": {
+                "worklogs/@com.sap.vocabularies.UI.v1.LineItem#Worklogs": {
+                  "tableSettings": {
+                    "type": "ResponsiveTable"
+                  }
+                }
+              }
             }
           }
         }

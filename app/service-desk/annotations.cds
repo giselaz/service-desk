@@ -47,6 +47,16 @@ annotate service.Operations with @(
                 Label : 'Requester User',
                 Value : createdBy,
             },
+            {
+                $Type : 'UI.DataField',
+                Value : company_ID,
+                Label : 'Company',
+            },
+            {
+                $Type : 'UI.DataField',
+                Label : 'Client Remaining Time',
+                Value : companyRemainingTime,
+            },
         ],
     },
     
@@ -68,6 +78,13 @@ annotate service.Operations with @(
             ID : 'GeneratedFacet2',
             Label : 'Comments',
             Target : 'comments/@UI.LineItem',
+        },
+        {
+            $Type : 'UI.ReferenceFacet',
+            Label : 'Worklogs',
+            ID : 'Worklogs',
+            Target : 'worklogs/@UI.LineItem#Worklogs',
+             @UI.Hidden: { $edmJson: { $Not: { $Path: '/Configuration/isAgent' } } }
         },
     ],
     UI.LineItem : [
@@ -143,7 +160,7 @@ annotate ServiceDeskService.Operations with @(UI.HeaderInfo: {
   TypeNamePlural: 'Tickets',
   Title         : { Value: title },
   Description   : { Value: status_code },
-    TypeImageUrl : 'sap-icon://request',
+  TypeImageUrl : 'sap-icon://request',
 });
 
 annotate service.Comments with @(UI.LineItem: [
@@ -158,6 +175,7 @@ annotate ServiceDeskService.Operations with {
     Common.FieldControl : #Mandatory,
 );
 };
+
 annotate ServiceDeskService.Operations with @(UI.Identification: [
   {
     $Type : 'UI.DataFieldForAction',
@@ -173,6 +191,7 @@ annotate ServiceDeskService.Operations with @(UI.Identification: [
         Label : 'Description',
     },
 ]);
+
 annotate ServiceDeskService.Operations actions {
   addComment @(Common.SideEffects #afterComment: { TargetEntities: [ comments ] });
 };
@@ -187,16 +206,66 @@ annotate service.Operations with {
 annotate service.Operations with {
     title @(
         Common.FieldControl : #Mandatory,
-        )
+        );
 };
+
 annotate ServiceDeskService.Operations with actions {
   addComment ( description @UI.MultiLineText: true );
 };
 annotate ServiceDeskService.Operations with {
   priority   @UI.Hidden: { $edmJson: { $Not: { $Path: '/Configuration/isAgent' } } };
   assignedTo @UI.Hidden: { $edmJson: { $Not: { $Path: '/Configuration/isAgent' } } };
+//   companyRemainingTime @UI.Hidden: { $edmJson: { $Not: { $Path: '/Configuration/isAgent' } } };
 };
 annotate service.Operations with {
     status @Common.Label : 'Status'
 };
+
+annotate service.Worklogs with @(
+    UI.LineItem #Worklogs : [
+        {
+            $Type : 'UI.DataField',
+            Value : createdBy,
+        },
+        {
+            $Type : 'UI.DataField',
+            Value : description,
+            Label : 'description',
+        },
+        {
+            $Type : 'UI.DataField',
+            Value : durationInHours,
+            Label : 'Duration in Hours',
+        },
+        {
+            $Type : 'UI.DataField',
+            Value : startedAt,
+            Label : 'startedAt',
+        },
+    ]
+);
+
+annotate service.Operations with {
+    company @(
+        Common.ValueList : {
+            $Type : 'Common.ValueListType',
+            CollectionPath : 'Companies',
+            Parameters : [
+                {
+                    $Type : 'Common.ValueListParameterInOut',
+                    LocalDataProperty : company_ID,
+                    ValueListProperty : 'ID',
+                },
+                {
+                    $Type : 'Common.ValueListParameterDisplayOnly',
+                    ValueListProperty : 'name',
+                },
+            ],
+        },
+        Common.ExternalID : company.name,
+        Common.FieldControl : #Mandatory,
+    )
+};
+
+
 
