@@ -5,6 +5,7 @@ module.exports = (srv) => {
         operation.status_code = "NEW"; 
 
     })
+    // trigger operation creation by requester users
     srv.on('addComment','Operations',async(req)=> {
         const {Comments} = srv.entities;
         const operationId = req.params[0].ID;
@@ -25,13 +26,13 @@ module.exports = (srv) => {
         }
         return comment;
     })
-
+    // set the configuration values for the UI elements hidden properties
     srv.on('READ', 'Configuration', (req) => {
     const isAgent = req.user.is('agent') || req.user.is('admin');
       req.reply({  isAgent:isAgent, isRequester: !isAgent });
     });
    
-
+    // recalculate the remaining time of the company every time a worklog is created/updated
   srv.after(['CREATE', 'UPDATE'], 'Operations', async (data, req) => {
         const ticketData = data;
         if (!ticketData || !ticketData.company_ID) return;
@@ -55,6 +56,7 @@ module.exports = (srv) => {
             .set({ remainingTime: remaining })
             .where({ ID: ticketData.company_ID });
     });
+    // format the total time of the company in hours and minutes for the UI
     srv.after('READ', 'Operations', async (operations, req) => {
         const rows = [operations].flat().filter(Boolean);  
         if (rows.length !== 1) return;

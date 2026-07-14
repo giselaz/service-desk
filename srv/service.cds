@@ -38,7 +38,7 @@ annotate ServiceDeskService.Operations with @(restrict: [
   { grant: 'CREATE',                        to: 'viewer' },
   { grant: 'CREATE',                        to: 'agent' },
   { grant: ['READ','addComment']  ,         to: 'viewer', where: 'createdBy = $user' },
-  { grant: ['READ','UPDATE'],               to: 'agent' ,where: 'assignedTo = $user'},
+  { grant: ['READ','UPDATE'],               to: 'agent' ,where: 'assignedTo = $user  or createdBy = $user'},
   { grant: '*',                             to: 'admin' },
 ]);
 
