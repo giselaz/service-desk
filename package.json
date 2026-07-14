@@ -39,7 +39,7 @@
           "users": {
             "erin": {
               "roles": [
-                "admin"
+                "viewer"
               ],
               "attr": {
                 "firstName": "Erin",

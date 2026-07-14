@@ -215,7 +215,7 @@ annotate ServiceDeskService.Operations with actions {
 annotate ServiceDeskService.Operations with {
   priority   @UI.Hidden: { $edmJson: { $Not: { $Path: '/Configuration/isAgent' } } };
   assignedTo @UI.Hidden: { $edmJson: { $Not: { $Path: '/Configuration/isAgent' } } };
-//   companyRemainingTime @UI.Hidden: { $edmJson: { $Not: { $Path: '/Configuration/isAgent' } } };
+  companyRemainingTime @UI.Hidden: { $edmJson: { $Not: { $Path: '/Configuration/isAgent' } } };
 };
 annotate service.Operations with {
     status @Common.Label : 'Status'
