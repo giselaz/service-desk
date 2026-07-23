@@ -30,8 +30,7 @@ service ServiceDeskService @(impl: './service.js') {
 }
 extend projection ServiceDeskService.Operations with {
 
-  virtual null as companyRemainingTime : String,
-  virtual null as OverDue: Integer
+  virtual null as companyRemainingTime : String
 
 };
 annotate ServiceDeskService.Operations with @(restrict: [
