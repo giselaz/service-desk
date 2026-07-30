@@ -42,10 +42,16 @@ annotate ServiceDeskService.Operations with @(restrict: [
 ]);
 
 annotate ServiceDeskService.Operations with {
-  status      @Common.Text: status.name      @Common.TextArrangement: #TextOnly;
-  urgency     @Common.Text: urgency.name      @Common.TextArrangement: #TextOnly;
-  priority    @Common.Text: priority.name     @Common.TextArrangement: #TextOnly;
-  serviceType @Common.Text: serviceType.name  @Common.TextArrangement: #TextOnly;
-};
+  status      @Common.Text: status.name      @Common.TextArrangement: #TextOnly
+              @Common.ValueList: { entity: 'Statuses' }   @Common.ValueListWithFixedValues;
 
+  urgency     @Common.Text: urgency.name      @Common.TextArrangement: #TextOnly
+              @Common.ValueList: { entity: 'Urgencies' }  @Common.ValueListWithFixedValues;
+
+  priority    @Common.Text: priority.name     @Common.TextArrangement: #TextOnly
+              @Common.ValueList: { entity: 'Priorities' }  @Common.ValueListWithFixedValues;
+
+  serviceType @Common.Text: serviceType.name  @Common.TextArrangement: #TextOnly
+               @Common.ValueList: { entity: 'ServiceTypes' }  @Common.ValueListWithFixedValues;
+};
 

@@ -152,6 +152,7 @@ annotate service.Operations with {
         Common.Text : category.name,
         Common.TextArrangement : #TextOnly
     )
+   
 };
 
 
