@@ -96,7 +96,7 @@ annotate service.Operations with @(
         {
             $Type : 'UI.DataField',
             Label : 'service Type',
-            Value : serviceType.name,
+            Value : serviceType_code,
         },
         {
             $Type : 'UI.DataField',
@@ -117,7 +117,7 @@ annotate service.Operations with @(
         {
             $Type : 'UI.DataField',
             Label : 'Urgency',
-            Value : urgency_code.name,
+            Value : urgency_code,
             Criticality: urgency.criticality,
         },
     ],
@@ -263,7 +263,7 @@ annotate service.Operations with {
 annotate service.Operations with {
     urgency @(
         Common.FieldControl : #Mandatory,
-        Common.Text: urgency_code,
+        Common.Text: urgency.name,
         Common.TextArrangement: textOnly,
         Common.ValueListWithFixedValues
     )
@@ -274,7 +274,8 @@ annotate service.Operations with {
     status @(
         Common.FieldControl : #Mandatory,
         Text: status.name,
-        Common.ValueListWithFixedValues
+        Common.ValueListWithFixedValues,
+        Common.Text : status.name,
     )
     
 };
@@ -290,7 +291,8 @@ annotate service.Operations with {
     serviceType @(
         Common.FieldControl : #Mandatory,
         Text: serviceType.name,
-        Common.ValueListWithFixedValues
+        Common.ValueListWithFixedValues,
+        Common.Text : serviceType.name,
     )
     
 };
