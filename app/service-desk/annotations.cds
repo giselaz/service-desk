@@ -117,7 +117,7 @@ annotate service.Operations with @(
         {
             $Type : 'UI.DataField',
             Label : 'Urgency',
-            Value : urgency_code,
+            Value : urgency_code.name,
             Criticality: urgency.criticality,
         },
     ],
@@ -132,28 +132,6 @@ annotate service.Operations with @(
 );
 
 
-annotate service.Operations with {
-    category @(
-        Common.ValueList : {
-            $Type : 'Common.ValueListType',
-            CollectionPath : 'Categories',
-            Parameters : [
-                {
-                    $Type : 'Common.ValueListParameterInOut',
-                    LocalDataProperty : category_ID,
-                    ValueListProperty : 'ID',
-                },
-                {
-                    $Type : 'Common.ValueListParameterDisplayOnly',
-                    ValueListProperty : 'name',
-                },
-            ],
-        },
-        Common.Text : category.name,
-        Common.TextArrangement : #TextOnly
-    )
-   
-};
 
 
 annotate ServiceDeskService.Operations with @(UI.HeaderInfo: {
@@ -169,6 +147,29 @@ annotate service.Comments with @(UI.LineItem: [
   { $Type: 'UI.DataField', Value: createdBy,   Label: 'Author'  },
   { $Type: 'UI.DataField', Value: createdAt,   Label: 'When'    }
 ],);
+annotate service.Worklogs with @(
+    UI.LineItem #Worklogs : [
+        {
+            $Type : 'UI.DataField',
+            Value : createdBy,
+        },
+        {
+            $Type : 'UI.DataField',
+            Value : description,
+            Label : 'description',
+        },
+        {
+            $Type : 'UI.DataField',
+            Value : durationInHours,
+            Label : 'Duration in Hours',
+        },
+        {
+            $Type : 'UI.DataField',
+            Value : startedAt,
+            Label : 'startedAt',
+        },
+    ]
+);
 
 annotate ServiceDeskService.Operations with {
   description @(
@@ -196,13 +197,7 @@ annotate ServiceDeskService.Operations with @(UI.Identification: [
 annotate ServiceDeskService.Operations actions {
   addComment @(Common.SideEffects #afterComment: { TargetEntities: [ comments ] });
 };
-annotate service.Operations with {
-    serviceType @Common.FieldControl : #Mandatory
-};
 
-annotate service.Operations with {
-    urgency @Common.FieldControl : #Mandatory
-};
 
 annotate service.Operations with {
     title @(
@@ -214,37 +209,14 @@ annotate ServiceDeskService.Operations with actions {
   addComment ( description @UI.MultiLineText: true );
 };
 annotate ServiceDeskService.Operations with {
-  priority   @UI.Hidden: { $edmJson: { $Not: { $Path: '/Configuration/isAgent' } } };
+  priority   @(
+    UI.Hidden: { $edmJson: { $Not: { $Path: '/Configuration/isAgent' } } },
+    );
   assignedTo @UI.Hidden: { $edmJson: { $Not: { $Path: '/Configuration/isAgent' } } };
   companyRemainingTime @UI.Hidden: { $edmJson: { $Not: { $Path: '/Configuration/isAgent' } } };
 };
-annotate service.Operations with {
-    status @Common.Label : 'Status'
-};
 
-annotate service.Worklogs with @(
-    UI.LineItem #Worklogs : [
-        {
-            $Type : 'UI.DataField',
-            Value : createdBy,
-        },
-        {
-            $Type : 'UI.DataField',
-            Value : description,
-            Label : 'description',
-        },
-        {
-            $Type : 'UI.DataField',
-            Value : durationInHours,
-            Label : 'Duration in Hours',
-        },
-        {
-            $Type : 'UI.DataField',
-            Value : startedAt,
-            Label : 'startedAt',
-        },
-    ]
-);
+
 
 annotate service.Operations with {
     company @(
@@ -257,16 +229,68 @@ annotate service.Operations with {
                     LocalDataProperty : company_ID,
                     ValueListProperty : 'ID',
                 },
-                {
-                    $Type : 'Common.ValueListParameterDisplayOnly',
-                    ValueListProperty : 'name',
-                },
+               
             ],
         },
         Common.ExternalID : company.name,
         Common.FieldControl : #Mandatory,
     )
 };
+annotate service.Operations with {
+    category @(
+        Common.ValueList : {
+            $Type : 'Common.ValueListType',
+            CollectionPath : 'Categories',
+            Parameters : [
+                {
+                    $Type : 'Common.ValueListParameterInOut',
+                    LocalDataProperty : category_ID,
+                    ValueListProperty : 'ID',
+                },
+                {
+                    $Type : 'Common.ValueListParameterDisplayOnly',
+                    ValueListProperty : 'name',
+                },
+            ],
+        },
+        Common.Text : category.name,
+        Common.TextArrangement : #TextOnly
+    )
+   
+};
 
 
+annotate service.Operations with {
+    urgency @(
+        Common.FieldControl : #Mandatory,
+        Common.Text: urgency_code,
+        Common.TextArrangement: textOnly,
+        Common.ValueListWithFixedValues
+    )
+    
+};
 
+annotate service.Operations with {
+    status @(
+        Common.FieldControl : #Mandatory,
+        Text: status.name,
+        Common.ValueListWithFixedValues
+    )
+    
+};
+annotate service.Operations with {
+    priority @(
+        Common.FieldControl : #Mandatory,
+        Text: priority.name,
+        Common.ValueListWithFixedValues
+    )
+    
+};
+annotate service.Operations with {
+    serviceType @(
+        Common.FieldControl : #Mandatory,
+        Text: serviceType.name,
+        Common.ValueListWithFixedValues
+    )
+    
+};
