@@ -1,1 +1,646 @@
 ID,description,operation_ID,createdAt,createdBy,modifiedAt,modifiedBy
+244651eb-d72c-453f-9dd9-2a101fbe8c41,Closing after 48h with no further reports.,e36977b4-8ef2-46ba-865a-35a125a91b5b,2025-12-18T09:42:59Z,d.garcia@example.com,2025-12-18T09:42:59Z,d.garcia@example.com
+5096d529-915c-4965-a9e2-1613f660cdb7,Change scheduled for the next maintenance window.,e36977b4-8ef2-46ba-865a-35a125a91b5b,2026-03-27T15:41:30Z,f.haddad@example.com,2026-03-27T15:41:30Z,f.haddad@example.com
+49280d96-232c-4bdb-94da-ecfefde6b200,Change scheduled for the next maintenance window.,e36977b4-8ef2-46ba-865a-35a125a91b5b,2025-09-24T22:43:45Z,l.martin@example.com,2025-09-24T22:43:45Z,l.martin@example.com
+c260ca2d-6c6a-4b9c-bbda-5db93c2b479f,Workaround provided in the meantime.,e36977b4-8ef2-46ba-865a-35a125a91b5b,2025-10-13T03:25:49Z,t.mueller@example.com,2025-10-13T03:25:49Z,t.mueller@example.com
+3ff8121d-df3b-4725-bd6f-60e0f40a3213,Assigned to the responsible team.,e36977b4-8ef2-46ba-865a-35a125a91b5b,2026-04-22T08:07:21Z,o.olsen@example.com,2026-04-22T08:07:21Z,o.olsen@example.com
+b73fe533-80fc-40ee-a065-e08ee7184d4c,User confirmed the problem is resolved.,bef81e27-2a8d-4432-875c-c22d8d351623,2026-06-19T11:20:18Z,m.brown@example.com,2026-06-19T11:20:18Z,m.brown@example.com
+6df9b319-1524-45c4-9fe5-c2c8466b232a,User confirmed the problem is resolved.,bef81e27-2a8d-4432-875c-c22d8d351623,2026-06-16T11:01:01Z,a.jones@example.com,2026-06-16T11:01:01Z,a.jones@example.com
+3fe4c201-b758-441b-ad52-0bbea1267902,Closing after 48h with no further reports.,bef81e27-2a8d-4432-875c-c22d8d351623,2026-05-26T14:31:14Z,e.dubois@example.com,2026-05-26T14:31:14Z,e.dubois@example.com
+5c2b8dae-66fd-4948-a3de-7254da3914bf,Duplicate of an earlier related ticket.,bef81e27-2a8d-4432-875c-c22d8d351623,2026-06-09T22:12:32Z,d.garcia@example.com,2026-06-09T22:12:32Z,d.garcia@example.com
+684cf459-edc5-4747-a96f-cf3bc47f9d8d,Assigned to the responsible team.,bef81e27-2a8d-4432-875c-c22d8d351623,2026-04-20T16:02:09Z,t.mueller@example.com,2026-04-20T16:02:09Z,t.mueller@example.com
+3c46f387-2352-4716-8c6f-b92c343aa122,Workaround provided in the meantime.,bef81e27-2a8d-4432-875c-c22d8d351623,2026-06-10T16:30:53Z,p.novak@example.com,2026-06-10T16:30:53Z,p.novak@example.com
+a5070b57-eed6-4572-9734-d18eb67811f5,Closing after 48h with no further reports.,0c2cea12-7764-4c7f-94d9-9bcc16ebd366,2025-04-14T12:19:25Z,t.mueller@example.com,2025-04-14T12:19:25Z,t.mueller@example.com
+59a936e1-68f6-498d-98a3-50d90bc30aa9,Workaround provided in the meantime.,0c2cea12-7764-4c7f-94d9-9bcc16ebd366,2026-03-07T20:00:54Z,m.brown@example.com,2026-03-07T20:00:54Z,m.brown@example.com
+0df8bf5d-15ff-471a-98e0-47ca4238e402,Priority raised after business impact review.,0c2cea12-7764-4c7f-94d9-9bcc16ebd366,2026-02-18T15:29:08Z,f.haddad@example.com,2026-02-18T15:29:08Z,f.haddad@example.com
+9c7bbff9-ee26-42a3-8184-feb369aeea55,Duplicate of an earlier related ticket.,0c2cea12-7764-4c7f-94d9-9bcc16ebd366,2025-11-29T10:47:46Z,s.wilson@example.com,2025-11-29T10:47:46Z,s.wilson@example.com
+d1825e1b-57eb-4832-b1e9-d63fd56b66eb,Workaround provided in the meantime.,0c2cea12-7764-4c7f-94d9-9bcc16ebd366,2025-06-10T00:39:39Z,c.silva@example.com,2025-06-10T00:39:39Z,c.silva@example.com
+7d2e074b-ced4-43b2-a4da-1335913ff456,Change scheduled for the next maintenance window.,0c2cea12-7764-4c7f-94d9-9bcc16ebd366,2025-11-10T16:41:19Z,t.mueller@example.com,2025-11-10T16:41:19Z,t.mueller@example.com
+df027f44-5d6d-4069-aeb3-e70a32695baf,User confirmed the problem is resolved.,5cc64e97-161a-413d-af93-21c586b3005b,2026-02-20T02:45:46Z,r.lee@example.com,2026-02-20T02:45:46Z,r.lee@example.com
+d83ea292-9211-4a5c-8bec-5f110e237985,User reports the issue persists intermittently.,5cc64e97-161a-413d-af93-21c586b3005b,2026-03-14T00:06:33Z,f.haddad@example.com,2026-03-14T00:06:33Z,f.haddad@example.com
+b346ca0f-2395-416b-8277-bdc0c5d51491,Assigned to the responsible team.,5cc64e97-161a-413d-af93-21c586b3005b,2026-04-23T01:43:22Z,t.mueller@example.com,2026-04-23T01:43:22Z,t.mueller@example.com
+37bea6b7-26d3-422f-859e-9d0221bc58bc,Change scheduled for the next maintenance window.,5cc64e97-161a-413d-af93-21c586b3005b,2025-12-25T02:05:31Z,r.lee@example.com,2025-12-25T02:05:31Z,r.lee@example.com
+9a8bc6cd-0bb6-4444-841a-bc0a12eae2ab,Assigned to the responsible team.,5cc64e97-161a-413d-af93-21c586b3005b,2026-05-17T18:38:53Z,f.haddad@example.com,2026-05-17T18:38:53Z,f.haddad@example.com
+656ebba4-4acf-44a1-8845-0b9c90d047b3,Root cause identified as a config drift.,5cc64e97-161a-413d-af93-21c586b3005b,2026-01-30T14:26:21Z,s.wilson@example.com,2026-01-30T14:26:21Z,s.wilson@example.com
+625d5ee9-c9f9-4d9d-8e60-8bcdd5bfaca4,Awaiting user confirmation.,5cc64e97-161a-413d-af93-21c586b3005b,2026-03-27T10:53:21Z,k.patel@example.com,2026-03-27T10:53:21Z,k.patel@example.com
+8faec8af-06ed-4450-94b6-52589ad64ec7,Workaround provided in the meantime.,5cc64e97-161a-413d-af93-21c586b3005b,2026-03-05T05:43:39Z,m.brown@example.com,2026-03-05T05:43:39Z,m.brown@example.com
+41e3f571-d78b-4fb3-9315-ba132c1990af,Assigned to the responsible team.,002e42db-38da-46e6-b93a-c925918ff714,2025-04-11T11:49:30Z,n.rossi@example.com,2025-04-11T11:49:30Z,n.rossi@example.com
+c4557d93-1604-4529-a8d6-a69a50371931,Priority raised after business impact review.,002e42db-38da-46e6-b93a-c925918ff714,2025-04-11T21:12:52Z,a.jones@example.com,2025-04-11T21:12:52Z,a.jones@example.com
+498a6a41-9ba3-42bc-b8e9-df50c49a6c4e,Root cause identified as a config drift.,002e42db-38da-46e6-b93a-c925918ff714,2025-04-11T12:37:55Z,t.mueller@example.com,2025-04-11T12:37:55Z,t.mueller@example.com
+c1151672-65a3-438a-b57c-4b637a76bf74,Priority raised after business impact review.,002e42db-38da-46e6-b93a-c925918ff714,2025-04-12T13:05:07Z,a.jones@example.com,2025-04-12T13:05:07Z,a.jones@example.com
+9fdd5b4e-f22a-43df-8e45-2a9b7b559c91,Priority raised after business impact review.,002e42db-38da-46e6-b93a-c925918ff714,2025-04-12T01:36:43Z,e.dubois@example.com,2025-04-12T01:36:43Z,e.dubois@example.com
+60bd76af-6354-4d49-a75f-8a8447a7c489,Assigned to the responsible team.,002e42db-38da-46e6-b93a-c925918ff714,2025-04-11T10:34:38Z,e.dubois@example.com,2025-04-11T10:34:38Z,e.dubois@example.com
+33371976-39c6-4791-8335-dbc688efbb8c,Assigned to the responsible team.,3717d1cf-a189-486a-8ae3-1dacb4c71319,2025-09-27T01:12:56Z,a.jones@example.com,2025-09-27T01:12:56Z,a.jones@example.com
+0218d2ea-8392-47f6-a943-dbcd26aed664,Awaiting user confirmation.,3717d1cf-a189-486a-8ae3-1dacb4c71319,2025-09-29T22:49:20Z,n.rossi@example.com,2025-09-29T22:49:20Z,n.rossi@example.com
+ea88d392-cf70-40c0-80b0-09ddc76abf92,Priority raised after business impact review.,3717d1cf-a189-486a-8ae3-1dacb4c71319,2025-09-27T02:21:48Z,d.garcia@example.com,2025-09-27T02:21:48Z,d.garcia@example.com
+7ccf957b-bf45-4e6c-a564-b5aa9a6e61a0,Change scheduled for the next maintenance window.,3717d1cf-a189-486a-8ae3-1dacb4c71319,2025-09-26T17:22:30Z,c.silva@example.com,2025-09-26T17:22:30Z,c.silva@example.com
+d3d2b4c4-0c54-4630-8a57-fee9c6399d2b,Workaround provided in the meantime.,3717d1cf-a189-486a-8ae3-1dacb4c71319,2025-09-26T16:21:03Z,t.mueller@example.com,2025-09-26T16:21:03Z,t.mueller@example.com
+4a5022e7-14f2-4720-a6b7-587fb954bfc7,Workaround provided in the meantime.,3717d1cf-a189-486a-8ae3-1dacb4c71319,2025-09-28T12:18:19Z,k.patel@example.com,2025-09-28T12:18:19Z,k.patel@example.com
+3a5e8ab1-aa7f-4241-81e5-16ffd7128c5f,User reports the issue persists intermittently.,5496935a-e560-434e-937b-0cc2482594be,2025-12-13T01:05:24Z,f.haddad@example.com,2025-12-13T01:05:24Z,f.haddad@example.com
+b09e3e1c-894f-4ce2-8bc9-022a2440c47d,Root cause identified as a config drift.,5496935a-e560-434e-937b-0cc2482594be,2025-12-14T02:45:54Z,s.wilson@example.com,2025-12-14T02:45:54Z,s.wilson@example.com
+c9efeb23-2cf9-4e7e-b8d2-cf9e18df30cd,Workaround provided in the meantime.,5496935a-e560-434e-937b-0cc2482594be,2025-12-13T23:44:22Z,l.martin@example.com,2025-12-13T23:44:22Z,l.martin@example.com
+2828f34e-dc87-4610-a9dc-56c6c3de232b,User reports the issue persists intermittently.,5496935a-e560-434e-937b-0cc2482594be,2025-12-11T03:57:31Z,s.wilson@example.com,2025-12-11T03:57:31Z,s.wilson@example.com
+31e9e7ea-d6c5-467e-932c-2c5a78a692b8,User confirmed the problem is resolved.,5496935a-e560-434e-937b-0cc2482594be,2025-12-16T09:54:54Z,s.wilson@example.com,2025-12-16T09:54:54Z,s.wilson@example.com
+dee84584-9c50-4f45-a6a7-bca5a3183b38,Workaround provided in the meantime.,6bb7eb7d-b3e5-4c5f-ac51-e6a598e45fd6,2026-06-07T19:01:06Z,c.silva@example.com,2026-06-07T19:01:06Z,c.silva@example.com
+8a7a5f74-e4d0-4d92-9fc0-62ca31011d9d,Root cause identified as a config drift.,6bb7eb7d-b3e5-4c5f-ac51-e6a598e45fd6,2026-06-08T06:05:15Z,m.brown@example.com,2026-06-08T06:05:15Z,m.brown@example.com
+047b40f8-ccd6-49a1-9ee9-500e50c34087,User confirmed the problem is resolved.,6bb7eb7d-b3e5-4c5f-ac51-e6a598e45fd6,2026-06-07T20:19:57Z,t.mueller@example.com,2026-06-07T20:19:57Z,t.mueller@example.com
+82e5e399-3f58-400e-b1fa-45d7e54f4428,Awaiting user confirmation.,6bb7eb7d-b3e5-4c5f-ac51-e6a598e45fd6,2026-06-08T15:02:14Z,c.silva@example.com,2026-06-08T15:02:14Z,c.silva@example.com
+6bb9daee-5eb8-43c1-85e1-a179d70eab9a,Workaround provided in the meantime.,6bb7eb7d-b3e5-4c5f-ac51-e6a598e45fd6,2026-06-08T10:32:13Z,e.dubois@example.com,2026-06-08T10:32:13Z,e.dubois@example.com
+a588f51a-040c-41cb-b572-9e32c3901a1f,User reports the issue persists intermittently.,6bb7eb7d-b3e5-4c5f-ac51-e6a598e45fd6,2026-06-07T19:17:10Z,n.rossi@example.com,2026-06-07T19:17:10Z,n.rossi@example.com
+335107c4-b794-4542-afb1-90178b2db355,Root cause identified as a config drift.,6bb7eb7d-b3e5-4c5f-ac51-e6a598e45fd6,2026-06-07T11:50:38Z,d.garcia@example.com,2026-06-07T11:50:38Z,d.garcia@example.com
+2d85627a-5fc6-4d61-bbe2-9ae3d5189a71,Duplicate of an earlier related ticket.,39abbf92-388c-405d-bcf6-81fda471881a,2026-04-04T00:42:03Z,m.brown@example.com,2026-04-04T00:42:03Z,m.brown@example.com
+16d77f64-14f5-46db-b432-d3559c4f83b7,Duplicate of an earlier related ticket.,39abbf92-388c-405d-bcf6-81fda471881a,2026-04-09T23:50:11Z,j.smith@example.com,2026-04-09T23:50:11Z,j.smith@example.com
+4ac5ccfd-a598-40c3-9633-0c80ee48ae3c,Assigned to the responsible team.,39abbf92-388c-405d-bcf6-81fda471881a,2026-04-04T18:23:06Z,o.olsen@example.com,2026-04-04T18:23:06Z,o.olsen@example.com
+9e948ae8-5012-447c-8107-cde0ced1a798,Closing after 48h with no further reports.,39abbf92-388c-405d-bcf6-81fda471881a,2026-04-09T19:07:29Z,m.brown@example.com,2026-04-09T19:07:29Z,m.brown@example.com
+160e1229-7c23-42ee-8ef3-71d7024c41a2,Duplicate of an earlier related ticket.,39abbf92-388c-405d-bcf6-81fda471881a,2026-04-14T22:06:31Z,n.rossi@example.com,2026-04-14T22:06:31Z,n.rossi@example.com
+84d8377c-6f8a-4333-ac5d-32f772a58aa9,Closing after 48h with no further reports.,39abbf92-388c-405d-bcf6-81fda471881a,2026-04-13T04:05:34Z,l.martin@example.com,2026-04-13T04:05:34Z,l.martin@example.com
+aee8a9cd-3482-4467-9d4f-f258c3befbdc,Duplicate of an earlier related ticket.,39abbf92-388c-405d-bcf6-81fda471881a,2026-04-13T14:06:45Z,f.haddad@example.com,2026-04-13T14:06:45Z,f.haddad@example.com
+3abce536-c9ff-4ea6-8b15-f2bff3ea51ff,Duplicate of an earlier related ticket.,39abbf92-388c-405d-bcf6-81fda471881a,2026-04-09T01:48:40Z,f.haddad@example.com,2026-04-09T01:48:40Z,f.haddad@example.com
+0d23c888-133b-4a2e-a16e-c274e857c6b7,User reports the issue persists intermittently.,113b1f65-ea7c-454c-8e76-e83957134c43,2025-09-14T08:45:23Z,k.patel@example.com,2025-09-14T08:45:23Z,k.patel@example.com
+fc4ddfaf-b2a2-4a88-a628-f50af9403453,User confirmed the problem is resolved.,113b1f65-ea7c-454c-8e76-e83957134c43,2025-09-14T01:54:53Z,l.martin@example.com,2025-09-14T01:54:53Z,l.martin@example.com
+93d61b11-e95a-47be-b8ab-a797f0ff99b7,Closing after 48h with no further reports.,113b1f65-ea7c-454c-8e76-e83957134c43,2025-09-16T02:44:59Z,m.brown@example.com,2025-09-16T02:44:59Z,m.brown@example.com
+209704ba-7af2-439f-bd7e-695931856e08,Duplicate of an earlier related ticket.,113b1f65-ea7c-454c-8e76-e83957134c43,2025-09-12T11:52:13Z,e.dubois@example.com,2025-09-12T11:52:13Z,e.dubois@example.com
+edf63b31-9c0a-4295-b0a0-780dd530cf5e,User confirmed the problem is resolved.,113b1f65-ea7c-454c-8e76-e83957134c43,2025-09-11T21:12:38Z,o.olsen@example.com,2025-09-11T21:12:38Z,o.olsen@example.com
+0188e010-ce28-49e4-b385-010d6adc1097,User reports the issue persists intermittently.,113b1f65-ea7c-454c-8e76-e83957134c43,2025-09-15T07:29:02Z,e.dubois@example.com,2025-09-15T07:29:02Z,e.dubois@example.com
+5a96ac48-9b84-4cdf-bfb6-df4a1204b65f,User confirmed the problem is resolved.,113b1f65-ea7c-454c-8e76-e83957134c43,2025-09-12T05:30:32Z,t.mueller@example.com,2025-09-12T05:30:32Z,t.mueller@example.com
+c2ccbd66-16ec-4e07-9cf1-dabe9aae649f,Awaiting user confirmation.,77019be2-4c73-4c9f-a20b-75d190753c9a,2026-06-03T15:52:44Z,f.haddad@example.com,2026-06-03T15:52:44Z,f.haddad@example.com
+63a8ef35-d9c3-4523-99dd-d5320f47dccf,Priority raised after business impact review.,77019be2-4c73-4c9f-a20b-75d190753c9a,2025-12-04T09:25:34Z,a.jones@example.com,2025-12-04T09:25:34Z,a.jones@example.com
+18b67346-ad25-4356-b0e9-056ad9d414b3,Workaround provided in the meantime.,77019be2-4c73-4c9f-a20b-75d190753c9a,2025-08-15T13:40:24Z,o.olsen@example.com,2025-08-15T13:40:24Z,o.olsen@example.com
+23c743f0-3959-42d1-bfb2-04cc2cbff7cb,User confirmed the problem is resolved.,77019be2-4c73-4c9f-a20b-75d190753c9a,2026-03-17T05:08:52Z,t.mueller@example.com,2026-03-17T05:08:52Z,t.mueller@example.com
+b71198b7-7ff4-4388-a0d6-4ac206234770,Root cause identified as a config drift.,77019be2-4c73-4c9f-a20b-75d190753c9a,2026-01-06T15:25:14Z,c.silva@example.com,2026-01-06T15:25:14Z,c.silva@example.com
+28ba0060-ac61-4226-bf73-e004d0a587c5,Closing after 48h with no further reports.,ca5d5738-13fe-4cc1-9dd1-0e91145bc242,2025-11-13T21:35:54Z,j.smith@example.com,2025-11-13T21:35:54Z,j.smith@example.com
+a0a650a7-cf10-4178-8032-64802357e8a8,Closing after 48h with no further reports.,ca5d5738-13fe-4cc1-9dd1-0e91145bc242,2025-11-13T14:58:04Z,m.brown@example.com,2025-11-13T14:58:04Z,m.brown@example.com
+aace4469-db25-4666-a697-e9af99d75b71,Workaround provided in the meantime.,ca5d5738-13fe-4cc1-9dd1-0e91145bc242,2025-11-10T21:12:07Z,l.martin@example.com,2025-11-10T21:12:07Z,l.martin@example.com
+42ae4ddf-2a7b-41d3-aeac-41de2a9e3ff4,Priority raised after business impact review.,ca5d5738-13fe-4cc1-9dd1-0e91145bc242,2025-11-13T23:53:42Z,d.garcia@example.com,2025-11-13T23:53:42Z,d.garcia@example.com
+de98a2d5-87c1-4ab4-b22a-6a10a5896fac,User reports the issue persists intermittently.,ca5d5738-13fe-4cc1-9dd1-0e91145bc242,2025-11-12T10:34:17Z,n.rossi@example.com,2025-11-12T10:34:17Z,n.rossi@example.com
+9bf54624-21f9-4262-a436-16c7c0bec4bc,Assigned to the responsible team.,ca5d5738-13fe-4cc1-9dd1-0e91145bc242,2025-11-18T06:35:25Z,s.wilson@example.com,2025-11-18T06:35:25Z,s.wilson@example.com
+43799d5e-fc26-44c3-a0d5-0fe427e9f703,User confirmed the problem is resolved.,ca5d5738-13fe-4cc1-9dd1-0e91145bc242,2025-11-11T14:14:00Z,c.silva@example.com,2025-11-11T14:14:00Z,c.silva@example.com
+940ffb18-b57b-48b1-83e9-c5b04491b658,Root cause identified as a config drift.,ca5d5738-13fe-4cc1-9dd1-0e91145bc242,2025-11-17T14:15:02Z,n.rossi@example.com,2025-11-17T14:15:02Z,n.rossi@example.com
+b37d9c1e-cea7-4edd-8f32-9d1bdbb0de80,Awaiting user confirmation.,b918e340-19c2-4796-a690-22da23cd8a8b,2025-01-22T15:24:45Z,n.rossi@example.com,2025-01-22T15:24:45Z,n.rossi@example.com
+4ab21d24-d2ee-43ae-8521-76d38cbb1670,User reports the issue persists intermittently.,b918e340-19c2-4796-a690-22da23cd8a8b,2025-01-20T00:14:58Z,j.smith@example.com,2025-01-20T00:14:58Z,j.smith@example.com
+5a83d3df-d690-44bc-aecd-943f4dfd2531,Awaiting user confirmation.,b918e340-19c2-4796-a690-22da23cd8a8b,2025-01-21T16:53:19Z,d.garcia@example.com,2025-01-21T16:53:19Z,d.garcia@example.com
+037a71f9-821c-4717-a6c9-2cca4919abf3,Closing after 48h with no further reports.,b918e340-19c2-4796-a690-22da23cd8a8b,2025-01-22T05:11:47Z,f.haddad@example.com,2025-01-22T05:11:47Z,f.haddad@example.com
+4c4b780b-dd6d-4373-b092-fe8dd962f7b7,User reports the issue persists intermittently.,b918e340-19c2-4796-a690-22da23cd8a8b,2025-01-18T23:14:25Z,f.haddad@example.com,2025-01-18T23:14:25Z,f.haddad@example.com
+b678ea8e-6b78-4149-b986-447bf3fee9ef,Root cause identified as a config drift.,5f4018e5-542a-48ef-a8de-f9d1752a3600,2025-10-06T17:23:00Z,j.smith@example.com,2025-10-06T17:23:00Z,j.smith@example.com
+74c67fa5-cc16-4b9d-ad08-07dc4506f0f9,Workaround provided in the meantime.,5f4018e5-542a-48ef-a8de-f9d1752a3600,2025-10-04T06:34:51Z,c.silva@example.com,2025-10-04T06:34:51Z,c.silva@example.com
+a22032ff-f86a-488c-9ef9-5f7b5031a7d4,Root cause identified as a config drift.,5f4018e5-542a-48ef-a8de-f9d1752a3600,2026-02-10T03:40:26Z,a.jones@example.com,2026-02-10T03:40:26Z,a.jones@example.com
+9ce40662-6ad6-405a-ad52-96efe70beb02,Priority raised after business impact review.,5f4018e5-542a-48ef-a8de-f9d1752a3600,2025-09-15T23:34:20Z,p.novak@example.com,2025-09-15T23:34:20Z,p.novak@example.com
+7ef8eee8-aa8e-4ee1-8fcd-dd5a0be57f8a,Assigned to the responsible team.,5f4018e5-542a-48ef-a8de-f9d1752a3600,2025-07-26T03:32:02Z,r.lee@example.com,2025-07-26T03:32:02Z,r.lee@example.com
+3fdffb92-0ee4-4625-bdad-add93c63473a,Awaiting user confirmation.,5f4018e5-542a-48ef-a8de-f9d1752a3600,2026-04-21T11:17:42Z,s.wilson@example.com,2026-04-21T11:17:42Z,s.wilson@example.com
+5e75cacb-e49c-4829-b0c6-45279cc4a637,Awaiting user confirmation.,5f4018e5-542a-48ef-a8de-f9d1752a3600,2025-09-16T19:39:53Z,f.haddad@example.com,2025-09-16T19:39:53Z,f.haddad@example.com
+d47fdb0f-eb04-4bb9-b494-2d2c8f9fd69b,Awaiting user confirmation.,5f4018e5-542a-48ef-a8de-f9d1752a3600,2025-04-18T23:05:33Z,j.smith@example.com,2025-04-18T23:05:33Z,j.smith@example.com
+154bb81d-d61a-43bf-b3bb-86414929c21a,Assigned to the responsible team.,fbfab17f-f1b9-42f2-8447-f92dcdc8ec5a,2026-03-29T09:59:59Z,l.martin@example.com,2026-03-29T09:59:59Z,l.martin@example.com
+e384eacb-5c96-4ee0-b97b-536714ba1236,Duplicate of an earlier related ticket.,fbfab17f-f1b9-42f2-8447-f92dcdc8ec5a,2026-03-31T06:12:28Z,f.haddad@example.com,2026-03-31T06:12:28Z,f.haddad@example.com
+a0d17b25-3b10-48a6-9efa-81175db59f0c,Duplicate of an earlier related ticket.,fbfab17f-f1b9-42f2-8447-f92dcdc8ec5a,2026-03-26T08:49:06Z,t.mueller@example.com,2026-03-26T08:49:06Z,t.mueller@example.com
+884e07ec-a06e-4ea7-91d4-c422a3a7f0b5,User reports the issue persists intermittently.,fbfab17f-f1b9-42f2-8447-f92dcdc8ec5a,2026-03-31T23:02:37Z,r.lee@example.com,2026-03-31T23:02:37Z,r.lee@example.com
+3aaacdfe-ed5c-490d-be59-edacc96d4526,Change scheduled for the next maintenance window.,fbfab17f-f1b9-42f2-8447-f92dcdc8ec5a,2026-03-28T15:07:14Z,n.rossi@example.com,2026-03-28T15:07:14Z,n.rossi@example.com
+4f6a5680-64e6-4d4f-9d29-f9a998ef2550,Closing after 48h with no further reports.,fbfab17f-f1b9-42f2-8447-f92dcdc8ec5a,2026-04-02T21:50:18Z,p.novak@example.com,2026-04-02T21:50:18Z,p.novak@example.com
+e362372a-87db-49a4-8b6e-56241a66ae4b,User reports the issue persists intermittently.,fbfab17f-f1b9-42f2-8447-f92dcdc8ec5a,2026-04-02T22:38:48Z,k.patel@example.com,2026-04-02T22:38:48Z,k.patel@example.com
+1e309e81-aec5-4c5b-98ee-40ff8dc5603c,User confirmed the problem is resolved.,07ad9aac-7537-456f-b010-e72466a05c12,2026-05-17T00:32:44Z,p.novak@example.com,2026-05-17T00:32:44Z,p.novak@example.com
+d9524361-935d-4208-bfcf-32c95d312c91,Duplicate of an earlier related ticket.,07ad9aac-7537-456f-b010-e72466a05c12,2026-05-14T09:30:52Z,o.olsen@example.com,2026-05-14T09:30:52Z,o.olsen@example.com
+881646a3-3f54-4800-aa4f-89c7ed838c52,User reports the issue persists intermittently.,07ad9aac-7537-456f-b010-e72466a05c12,2026-05-13T22:55:35Z,f.haddad@example.com,2026-05-13T22:55:35Z,f.haddad@example.com
+d875a60d-33f9-49e3-a344-c8e0e67a4e83,Workaround provided in the meantime.,07ad9aac-7537-456f-b010-e72466a05c12,2026-05-14T01:12:29Z,c.silva@example.com,2026-05-14T01:12:29Z,c.silva@example.com
+3116fa30-9b85-4125-aac7-401aa7de21c5,Priority raised after business impact review.,07ad9aac-7537-456f-b010-e72466a05c12,2026-05-17T09:58:58Z,e.dubois@example.com,2026-05-17T09:58:58Z,e.dubois@example.com
+e5f81181-4e7e-4111-855f-0f18b63a23d5,Awaiting user confirmation.,07ad9aac-7537-456f-b010-e72466a05c12,2026-05-16T08:07:39Z,k.patel@example.com,2026-05-16T08:07:39Z,k.patel@example.com
+820ce0bf-5a78-4edf-9b2d-a8aefc1491d2,Closing after 48h with no further reports.,07ad9aac-7537-456f-b010-e72466a05c12,2026-05-15T01:02:59Z,n.rossi@example.com,2026-05-15T01:02:59Z,n.rossi@example.com
+fca21404-dba7-474d-b157-2ecc628a8075,User confirmed the problem is resolved.,81d22078-a290-457e-bc7a-d6c4d90790c4,2025-11-30T23:29:20Z,a.jones@example.com,2025-11-30T23:29:20Z,a.jones@example.com
+7d78dd62-15b9-4f08-bbd2-ded84497db7d,Assigned to the responsible team.,81d22078-a290-457e-bc7a-d6c4d90790c4,2025-11-27T01:04:12Z,p.novak@example.com,2025-11-27T01:04:12Z,p.novak@example.com
+0c4dfd25-e4b1-4b08-a0a6-3b69a4e541c9,Workaround provided in the meantime.,81d22078-a290-457e-bc7a-d6c4d90790c4,2025-11-29T03:20:55Z,m.brown@example.com,2025-11-29T03:20:55Z,m.brown@example.com
+74e2064e-28d6-4ffe-b0d0-fe72bb6e99a6,Change scheduled for the next maintenance window.,81d22078-a290-457e-bc7a-d6c4d90790c4,2025-11-26T14:56:56Z,j.smith@example.com,2025-11-26T14:56:56Z,j.smith@example.com
+7caa2ffd-fadc-4a35-bf67-795f74ea21e1,Workaround provided in the meantime.,81d22078-a290-457e-bc7a-d6c4d90790c4,2025-12-01T06:40:48Z,j.smith@example.com,2025-12-01T06:40:48Z,j.smith@example.com
+28e01af1-cbaf-4a6d-826e-2ca3b7468b36,User confirmed the problem is resolved.,81d22078-a290-457e-bc7a-d6c4d90790c4,2025-11-28T14:56:18Z,l.martin@example.com,2025-11-28T14:56:18Z,l.martin@example.com
+607a5b54-e77d-4ab1-8f99-0ede6c820c78,User confirmed the problem is resolved.,343c5718-7db6-4eef-8a9e-8cc86c0e3225,2025-07-07T23:10:31Z,j.smith@example.com,2025-07-07T23:10:31Z,j.smith@example.com
+196b49be-0fa4-4e43-8e81-74886244395a,Priority raised after business impact review.,343c5718-7db6-4eef-8a9e-8cc86c0e3225,2025-07-07T17:07:53Z,j.smith@example.com,2025-07-07T17:07:53Z,j.smith@example.com
+0d466693-2ff7-4668-b32f-fcfd60f2d55b,Priority raised after business impact review.,343c5718-7db6-4eef-8a9e-8cc86c0e3225,2025-07-04T23:28:06Z,o.olsen@example.com,2025-07-04T23:28:06Z,o.olsen@example.com
+b68d67fd-17f8-4aaf-b314-a66328d4b722,Workaround provided in the meantime.,343c5718-7db6-4eef-8a9e-8cc86c0e3225,2025-07-10T09:51:56Z,f.haddad@example.com,2025-07-10T09:51:56Z,f.haddad@example.com
+b1a1eab1-36b6-4c7d-a840-a47e6aeedb3a,Change scheduled for the next maintenance window.,343c5718-7db6-4eef-8a9e-8cc86c0e3225,2025-07-07T04:12:36Z,e.dubois@example.com,2025-07-07T04:12:36Z,e.dubois@example.com
+bbf78350-6edf-472d-b32f-f667839fb31f,Root cause identified as a config drift.,343c5718-7db6-4eef-8a9e-8cc86c0e3225,2025-07-07T00:58:22Z,t.mueller@example.com,2025-07-07T00:58:22Z,t.mueller@example.com
+d4b0831c-72f6-499a-b079-fad527f3bc23,Awaiting user confirmation.,343c5718-7db6-4eef-8a9e-8cc86c0e3225,2025-07-11T22:01:51Z,d.garcia@example.com,2025-07-11T22:01:51Z,d.garcia@example.com
+ad77a57f-18ed-4255-a228-a82651479288,Duplicate of an earlier related ticket.,00b93263-502f-4b11-b91d-0e9a4faea2a0,2026-03-28T09:26:20Z,e.dubois@example.com,2026-03-28T09:26:20Z,e.dubois@example.com
+d3ff8793-119c-485a-8019-ff91d3f6872e,Priority raised after business impact review.,00b93263-502f-4b11-b91d-0e9a4faea2a0,2026-03-29T07:30:04Z,o.olsen@example.com,2026-03-29T07:30:04Z,o.olsen@example.com
+afb0d3f2-f5cd-4b6e-82d3-f4d1b0e34153,Assigned to the responsible team.,00b93263-502f-4b11-b91d-0e9a4faea2a0,2026-03-28T23:44:10Z,t.mueller@example.com,2026-03-28T23:44:10Z,t.mueller@example.com
+d658f3b4-a0fc-4be0-aae8-42cbf1a7238f,Closing after 48h with no further reports.,00b93263-502f-4b11-b91d-0e9a4faea2a0,2026-03-30T05:53:07Z,f.haddad@example.com,2026-03-30T05:53:07Z,f.haddad@example.com
+1babfd97-6ee8-42db-b272-63175dcb7c93,User confirmed the problem is resolved.,00b93263-502f-4b11-b91d-0e9a4faea2a0,2026-03-29T05:37:17Z,t.mueller@example.com,2026-03-29T05:37:17Z,t.mueller@example.com
+8702912a-15b4-43ff-b548-7931a836fd6c,User reports the issue persists intermittently.,00b93263-502f-4b11-b91d-0e9a4faea2a0,2026-03-28T16:06:45Z,m.brown@example.com,2026-03-28T16:06:45Z,m.brown@example.com
+7f2a6317-4747-4794-afad-f9a19c55611a,Closing after 48h with no further reports.,00b93263-502f-4b11-b91d-0e9a4faea2a0,2026-03-28T10:19:34Z,d.garcia@example.com,2026-03-28T10:19:34Z,d.garcia@example.com
+e61b700b-d63b-4bff-b47e-76f21c79c4ac,Root cause identified as a config drift.,00b93263-502f-4b11-b91d-0e9a4faea2a0,2026-03-28T16:04:20Z,a.jones@example.com,2026-03-28T16:04:20Z,a.jones@example.com
+7a0ab0aa-4a9b-4d4b-b322-33c476de378d,Priority raised after business impact review.,f1258add-9668-4187-9229-cc67ca68b91b,2026-03-31T03:37:52Z,p.novak@example.com,2026-03-31T03:37:52Z,p.novak@example.com
+cb89168f-d3cd-4ffa-af84-dbaa08c77c1a,Duplicate of an earlier related ticket.,f1258add-9668-4187-9229-cc67ca68b91b,2026-04-15T13:06:38Z,a.jones@example.com,2026-04-15T13:06:38Z,a.jones@example.com
+1421256e-e894-4e30-9540-9c5af789fad9,Root cause identified as a config drift.,f1258add-9668-4187-9229-cc67ca68b91b,2026-04-15T22:12:23Z,e.dubois@example.com,2026-04-15T22:12:23Z,e.dubois@example.com
+995cbb54-6e50-4b67-9242-721141601f8b,Awaiting user confirmation.,f1258add-9668-4187-9229-cc67ca68b91b,2026-04-20T22:38:09Z,l.martin@example.com,2026-04-20T22:38:09Z,l.martin@example.com
+4104fc35-c5cc-41da-b137-2f4c23a960e0,Awaiting user confirmation.,f1258add-9668-4187-9229-cc67ca68b91b,2026-03-07T05:59:52Z,d.garcia@example.com,2026-03-07T05:59:52Z,d.garcia@example.com
+645b7543-e94c-4dc3-ac98-5e2824f5bb49,Workaround provided in the meantime.,f1258add-9668-4187-9229-cc67ca68b91b,2026-03-31T22:35:26Z,n.rossi@example.com,2026-03-31T22:35:26Z,n.rossi@example.com
+becc57ae-8760-48c8-9cdc-b71361e20908,Assigned to the responsible team.,31feef32-2bd0-487e-aa20-ea2be3bebad5,2026-01-06T03:12:23Z,m.brown@example.com,2026-01-06T03:12:23Z,m.brown@example.com
+80789673-efa9-4ce0-a124-e6e45ce4e4c4,Priority raised after business impact review.,31feef32-2bd0-487e-aa20-ea2be3bebad5,2026-01-03T04:59:40Z,d.garcia@example.com,2026-01-03T04:59:40Z,d.garcia@example.com
+164b146e-8a2f-4b1f-a7a0-548e751b85b0,Duplicate of an earlier related ticket.,31feef32-2bd0-487e-aa20-ea2be3bebad5,2026-01-06T06:48:54Z,e.dubois@example.com,2026-01-06T06:48:54Z,e.dubois@example.com
+1868c40b-8386-443d-8930-14b15433e54c,User confirmed the problem is resolved.,31feef32-2bd0-487e-aa20-ea2be3bebad5,2026-01-06T18:19:53Z,l.martin@example.com,2026-01-06T18:19:53Z,l.martin@example.com
+c0171825-d70c-4046-bedc-ade21131ef7f,Workaround provided in the meantime.,31feef32-2bd0-487e-aa20-ea2be3bebad5,2026-01-06T01:37:05Z,n.rossi@example.com,2026-01-06T01:37:05Z,n.rossi@example.com
+9d589af5-a46f-4f78-a889-3f7ca52ed5a6,Priority raised after business impact review.,31feef32-2bd0-487e-aa20-ea2be3bebad5,2026-01-05T04:41:37Z,n.rossi@example.com,2026-01-05T04:41:37Z,n.rossi@example.com
+eae20580-513e-4195-ab3d-797d747bb67e,Assigned to the responsible team.,31feef32-2bd0-487e-aa20-ea2be3bebad5,2026-01-05T01:16:08Z,a.jones@example.com,2026-01-05T01:16:08Z,a.jones@example.com
+39829f22-f832-46f1-8f79-e1c04d4fa2eb,Duplicate of an earlier related ticket.,90b22232-50e2-4cec-a813-ee843000da0b,2025-08-12T04:30:30Z,l.martin@example.com,2025-08-12T04:30:30Z,l.martin@example.com
+bb3a0ad6-ace9-4f6e-a654-1182bb21ec44,Workaround provided in the meantime.,90b22232-50e2-4cec-a813-ee843000da0b,2025-08-18T11:35:11Z,a.jones@example.com,2025-08-18T11:35:11Z,a.jones@example.com
+938c1d58-09f3-4ba1-a7aa-0ccc9bfe2748,User confirmed the problem is resolved.,90b22232-50e2-4cec-a813-ee843000da0b,2025-08-23T11:54:14Z,s.wilson@example.com,2025-08-23T11:54:14Z,s.wilson@example.com
+a09d6a3f-9d2d-4fdc-9a7c-e6c0dd0f17af,Priority raised after business impact review.,90b22232-50e2-4cec-a813-ee843000da0b,2025-08-23T04:15:10Z,p.novak@example.com,2025-08-23T04:15:10Z,p.novak@example.com
+00249bb6-50f4-43f7-88b9-325bad7603dc,Duplicate of an earlier related ticket.,90b22232-50e2-4cec-a813-ee843000da0b,2025-08-24T10:53:56Z,t.mueller@example.com,2025-08-24T10:53:56Z,t.mueller@example.com
+f3085db0-fe0d-4611-9b80-378d0bd00259,Workaround provided in the meantime.,90b22232-50e2-4cec-a813-ee843000da0b,2025-08-10T04:45:38Z,e.dubois@example.com,2025-08-10T04:45:38Z,e.dubois@example.com
+f1ce522a-a6b9-4ae2-95da-112d23ccf041,Closing after 48h with no further reports.,271ed643-0ea6-4234-9db1-05e88f95c45f,2026-03-30T14:31:51Z,e.dubois@example.com,2026-03-30T14:31:51Z,e.dubois@example.com
+4d2f7dd6-e8d4-4e7d-ba90-6fb6d5437696,Root cause identified as a config drift.,271ed643-0ea6-4234-9db1-05e88f95c45f,2026-03-16T17:25:10Z,d.garcia@example.com,2026-03-16T17:25:10Z,d.garcia@example.com
+b84da200-18f4-4929-8960-071f8f326891,Assigned to the responsible team.,271ed643-0ea6-4234-9db1-05e88f95c45f,2026-05-21T21:28:24Z,n.rossi@example.com,2026-05-21T21:28:24Z,n.rossi@example.com
+edad3294-2e4f-4c6a-aa2c-5e17c0b49a9e,Assigned to the responsible team.,271ed643-0ea6-4234-9db1-05e88f95c45f,2026-03-03T07:48:19Z,r.lee@example.com,2026-03-03T07:48:19Z,r.lee@example.com
+6d21651e-4f30-4abf-99dd-1750cfacb750,Priority raised after business impact review.,271ed643-0ea6-4234-9db1-05e88f95c45f,2026-02-19T07:12:27Z,t.mueller@example.com,2026-02-19T07:12:27Z,t.mueller@example.com
+d9f54af4-09bd-4b42-9a69-fb8626198303,Workaround provided in the meantime.,271ed643-0ea6-4234-9db1-05e88f95c45f,2026-03-30T19:03:22Z,n.rossi@example.com,2026-03-30T19:03:22Z,n.rossi@example.com
+6f82792c-505c-452d-8d8c-8274d04d4320,User confirmed the problem is resolved.,271ed643-0ea6-4234-9db1-05e88f95c45f,2026-01-04T02:50:36Z,s.wilson@example.com,2026-01-04T02:50:36Z,s.wilson@example.com
+470ae2be-07bd-43c9-b794-c78ad4cba168,User reports the issue persists intermittently.,271ed643-0ea6-4234-9db1-05e88f95c45f,2026-04-21T16:14:24Z,j.smith@example.com,2026-04-21T16:14:24Z,j.smith@example.com
+f83ebad2-0a03-4d53-a84e-8f61229ec7d4,Priority raised after business impact review.,98e65713-4d3f-46c6-9af4-a37c27ff12c8,2025-10-27T10:59:15Z,r.lee@example.com,2025-10-27T10:59:15Z,r.lee@example.com
+53efdaaf-3d89-4e73-aa31-f043899fc68d,Assigned to the responsible team.,98e65713-4d3f-46c6-9af4-a37c27ff12c8,2025-10-29T08:45:22Z,n.rossi@example.com,2025-10-29T08:45:22Z,n.rossi@example.com
+b21e0f69-494b-448b-bd23-229ade7a7027,Workaround provided in the meantime.,98e65713-4d3f-46c6-9af4-a37c27ff12c8,2025-10-29T07:23:31Z,f.haddad@example.com,2025-10-29T07:23:31Z,f.haddad@example.com
+d5733504-6caf-4bf0-837b-7338c3b31af1,Root cause identified as a config drift.,98e65713-4d3f-46c6-9af4-a37c27ff12c8,2025-11-02T13:20:53Z,l.martin@example.com,2025-11-02T13:20:53Z,l.martin@example.com
+d3cd68a3-1130-4cca-9d34-a499c96cc585,Awaiting user confirmation.,98e65713-4d3f-46c6-9af4-a37c27ff12c8,2025-10-28T13:07:47Z,p.novak@example.com,2025-10-28T13:07:47Z,p.novak@example.com
+5ca25398-68ea-4055-ae8a-e777caad294d,Change scheduled for the next maintenance window.,3ede3823-5f85-4ed9-aa7b-0a1102275185,2025-12-24T18:14:37Z,j.smith@example.com,2025-12-24T18:14:37Z,j.smith@example.com
+7669a2a0-5b78-4f5a-9990-87a1f7129d34,Assigned to the responsible team.,3ede3823-5f85-4ed9-aa7b-0a1102275185,2025-12-29T13:53:28Z,d.garcia@example.com,2025-12-29T13:53:28Z,d.garcia@example.com
+1d0d18f7-fb72-454f-a7b7-1fc7182b3d2e,Assigned to the responsible team.,3ede3823-5f85-4ed9-aa7b-0a1102275185,2025-12-28T10:39:10Z,f.haddad@example.com,2025-12-28T10:39:10Z,f.haddad@example.com
+4c96b5ec-04b2-4b0f-bccc-d4e3c84c884e,Duplicate of an earlier related ticket.,3ede3823-5f85-4ed9-aa7b-0a1102275185,2025-12-28T06:20:01Z,e.dubois@example.com,2025-12-28T06:20:01Z,e.dubois@example.com
+3592570c-e992-4e2e-9eb5-439a2f90d494,Priority raised after business impact review.,3ede3823-5f85-4ed9-aa7b-0a1102275185,2025-12-26T20:45:39Z,k.patel@example.com,2025-12-26T20:45:39Z,k.patel@example.com
+a37b5a89-373d-48ea-819a-2e0f2ebb7682,User reports the issue persists intermittently.,3ede3823-5f85-4ed9-aa7b-0a1102275185,2025-12-27T21:29:41Z,p.novak@example.com,2025-12-27T21:29:41Z,p.novak@example.com
+f66027ef-86de-44cc-9050-9a57cf53e3ae,Priority raised after business impact review.,3ede3823-5f85-4ed9-aa7b-0a1102275185,2025-12-27T06:15:49Z,o.olsen@example.com,2025-12-27T06:15:49Z,o.olsen@example.com
+610c95e1-e081-402b-9d7a-1aca049efe3f,Change scheduled for the next maintenance window.,3ede3823-5f85-4ed9-aa7b-0a1102275185,2025-12-28T11:41:50Z,s.wilson@example.com,2025-12-28T11:41:50Z,s.wilson@example.com
+a95b844e-4abd-4fd4-828d-901b6f4aaf4b,Workaround provided in the meantime.,b1a5bc0d-ec0f-4621-af49-af58fdec7d88,2025-12-18T18:44:49Z,l.martin@example.com,2025-12-18T18:44:49Z,l.martin@example.com
+4b6b8d9c-073c-452a-a2c7-ef459006f049,Change scheduled for the next maintenance window.,b1a5bc0d-ec0f-4621-af49-af58fdec7d88,2025-12-19T00:38:47Z,s.wilson@example.com,2025-12-19T00:38:47Z,s.wilson@example.com
+5628afab-a7d8-456c-afd0-37e5a7404116,Root cause identified as a config drift.,b1a5bc0d-ec0f-4621-af49-af58fdec7d88,2025-12-19T11:47:16Z,s.wilson@example.com,2025-12-19T11:47:16Z,s.wilson@example.com
+edd8ab2a-9a95-4421-81fb-737c625e428f,Assigned to the responsible team.,b1a5bc0d-ec0f-4621-af49-af58fdec7d88,2025-12-18T23:05:30Z,m.brown@example.com,2025-12-18T23:05:30Z,m.brown@example.com
+b830fd79-e090-43f2-970c-4c2ef440b8ea,Assigned to the responsible team.,b1a5bc0d-ec0f-4621-af49-af58fdec7d88,2025-12-19T04:51:10Z,f.haddad@example.com,2025-12-19T04:51:10Z,f.haddad@example.com
+03bb3a5f-3a38-41ad-be2c-468d0f27397b,Duplicate of an earlier related ticket.,b1a5bc0d-ec0f-4621-af49-af58fdec7d88,2025-12-19T12:34:03Z,p.novak@example.com,2025-12-19T12:34:03Z,p.novak@example.com
+64945542-f23a-4527-9133-d736e6f7fcf7,Change scheduled for the next maintenance window.,b1a5bc0d-ec0f-4621-af49-af58fdec7d88,2025-12-19T13:15:13Z,j.smith@example.com,2025-12-19T13:15:13Z,j.smith@example.com
+f00af75c-8c30-42d2-8d32-98978fa33aae,Awaiting user confirmation.,533faf06-f50b-43ac-99b9-c26c9d895704,2025-06-26T16:31:40Z,a.jones@example.com,2025-06-26T16:31:40Z,a.jones@example.com
+e9ccddb0-c863-4c69-9024-19da1d4c702c,Duplicate of an earlier related ticket.,533faf06-f50b-43ac-99b9-c26c9d895704,2025-06-26T09:22:44Z,k.patel@example.com,2025-06-26T09:22:44Z,k.patel@example.com
+89ea1b82-16a2-4e26-bcdf-64c60396c411,User confirmed the problem is resolved.,533faf06-f50b-43ac-99b9-c26c9d895704,2025-06-23T08:18:12Z,f.haddad@example.com,2025-06-23T08:18:12Z,f.haddad@example.com
+373f2228-ad4d-4bfd-8535-eb32e970a005,Root cause identified as a config drift.,533faf06-f50b-43ac-99b9-c26c9d895704,2025-06-21T23:53:37Z,o.olsen@example.com,2025-06-21T23:53:37Z,o.olsen@example.com
+029ccda3-452f-4de5-b780-3783be41c2c9,Change scheduled for the next maintenance window.,533faf06-f50b-43ac-99b9-c26c9d895704,2025-06-30T17:16:03Z,o.olsen@example.com,2025-06-30T17:16:03Z,o.olsen@example.com
+32c749f6-4439-4d37-9b95-1400287b0988,Workaround provided in the meantime.,6978d155-f33e-4348-944b-a1878cc5e762,2026-06-19T21:02:33Z,m.brown@example.com,2026-06-19T21:02:33Z,m.brown@example.com
+5b3335dd-8a05-40e2-ad49-34c5748a5bd7,Priority raised after business impact review.,6978d155-f33e-4348-944b-a1878cc5e762,2026-04-24T16:46:53Z,j.smith@example.com,2026-04-24T16:46:53Z,j.smith@example.com
+dd7f7121-de39-430b-b2d6-9e8d9b5dba93,Priority raised after business impact review.,6978d155-f33e-4348-944b-a1878cc5e762,2026-04-09T20:37:30Z,s.wilson@example.com,2026-04-09T20:37:30Z,s.wilson@example.com
+ec03f665-7fd4-4d15-a0e7-967ed5e6f4a5,Assigned to the responsible team.,6978d155-f33e-4348-944b-a1878cc5e762,2026-04-22T05:43:44Z,m.brown@example.com,2026-04-22T05:43:44Z,m.brown@example.com
+dab3d1a9-cfde-4b95-a1bf-7eb8bf83b292,Assigned to the responsible team.,6978d155-f33e-4348-944b-a1878cc5e762,2026-05-12T23:59:53Z,l.martin@example.com,2026-05-12T23:59:53Z,l.martin@example.com
+91516777-2100-4def-ae6d-746668e42232,Duplicate of an earlier related ticket.,6978d155-f33e-4348-944b-a1878cc5e762,2026-05-13T11:59:52Z,n.rossi@example.com,2026-05-13T11:59:52Z,n.rossi@example.com
+958a3edb-c2f0-47b5-9a92-c06332f88c81,Workaround provided in the meantime.,d71dc151-4b2f-47a6-b311-d56e3886cc3e,2026-04-03T19:02:59Z,o.olsen@example.com,2026-04-03T19:02:59Z,o.olsen@example.com
+79b8d453-6e54-4536-972f-1c497b63ffe9,Duplicate of an earlier related ticket.,d71dc151-4b2f-47a6-b311-d56e3886cc3e,2026-05-12T14:07:41Z,r.lee@example.com,2026-05-12T14:07:41Z,r.lee@example.com
+4d0a878c-b32c-4e2f-8ef9-9b7335ee65d6,User reports the issue persists intermittently.,d71dc151-4b2f-47a6-b311-d56e3886cc3e,2026-05-04T10:28:10Z,d.garcia@example.com,2026-05-04T10:28:10Z,d.garcia@example.com
+b3737691-a0c2-4057-92f8-04c27c7644f7,Workaround provided in the meantime.,d71dc151-4b2f-47a6-b311-d56e3886cc3e,2026-06-07T03:02:29Z,s.wilson@example.com,2026-06-07T03:02:29Z,s.wilson@example.com
+b650ecd5-2e6a-407e-b624-31d9bd560675,User reports the issue persists intermittently.,d71dc151-4b2f-47a6-b311-d56e3886cc3e,2026-04-11T19:53:12Z,f.haddad@example.com,2026-04-11T19:53:12Z,f.haddad@example.com
+173596c8-02d9-4c60-b2dc-0ba1f2e01c1a,Change scheduled for the next maintenance window.,15cb8062-45d0-4d29-8db0-d6bdc0e68016,2026-04-01T14:17:05Z,p.novak@example.com,2026-04-01T14:17:05Z,p.novak@example.com
+eb169d9d-6d67-47af-b151-c6dedbaf5ae0,Priority raised after business impact review.,15cb8062-45d0-4d29-8db0-d6bdc0e68016,2026-04-26T02:12:38Z,r.lee@example.com,2026-04-26T02:12:38Z,r.lee@example.com
+bfd46d8c-6b67-4e0a-992d-745a7fff9071,Awaiting user confirmation.,15cb8062-45d0-4d29-8db0-d6bdc0e68016,2026-02-21T01:23:35Z,e.dubois@example.com,2026-02-21T01:23:35Z,e.dubois@example.com
+3b863cfa-99a7-4022-9bce-18f6b42b0e58,Change scheduled for the next maintenance window.,15cb8062-45d0-4d29-8db0-d6bdc0e68016,2026-05-13T03:15:28Z,l.martin@example.com,2026-05-13T03:15:28Z,l.martin@example.com
+3a2fba48-b9ac-4172-a4ed-f3504d1b84fa,Assigned to the responsible team.,15cb8062-45d0-4d29-8db0-d6bdc0e68016,2026-05-11T23:22:25Z,p.novak@example.com,2026-05-11T23:22:25Z,p.novak@example.com
+95107092-4dff-41b2-8220-68e2350c896e,User reports the issue persists intermittently.,94669eb4-7e00-4a81-9df8-2cfe07540aa1,2025-10-23T00:19:46Z,k.patel@example.com,2025-10-23T00:19:46Z,k.patel@example.com
+180f9a13-b61b-46b4-8ad5-9d0e797225fc,Priority raised after business impact review.,94669eb4-7e00-4a81-9df8-2cfe07540aa1,2025-10-17T19:14:07Z,n.rossi@example.com,2025-10-17T19:14:07Z,n.rossi@example.com
+fadceae7-b36a-4bd5-996d-3f03a7a1e60a,Duplicate of an earlier related ticket.,94669eb4-7e00-4a81-9df8-2cfe07540aa1,2025-10-17T21:34:11Z,k.patel@example.com,2025-10-17T21:34:11Z,k.patel@example.com
+59ca2d06-3a6f-4e98-83b7-f8929c66f010,Assigned to the responsible team.,94669eb4-7e00-4a81-9df8-2cfe07540aa1,2025-10-14T23:54:54Z,e.dubois@example.com,2025-10-14T23:54:54Z,e.dubois@example.com
+6835f8ca-361c-44a6-9b49-06f4b6b19491,User confirmed the problem is resolved.,94669eb4-7e00-4a81-9df8-2cfe07540aa1,2025-10-14T05:16:01Z,d.garcia@example.com,2025-10-14T05:16:01Z,d.garcia@example.com
+a300dad1-df5d-489f-aebf-0d18978c1236,Closing after 48h with no further reports.,94669eb4-7e00-4a81-9df8-2cfe07540aa1,2025-10-22T02:56:19Z,c.silva@example.com,2025-10-22T02:56:19Z,c.silva@example.com
+e44243a4-3ce1-4524-a891-45e55e79e85f,Awaiting user confirmation.,55eabf09-5393-4d98-b028-4cdff4f61de4,2025-11-27T19:27:06Z,t.mueller@example.com,2025-11-27T19:27:06Z,t.mueller@example.com
+92598919-886e-448e-afb8-4fb9161b4f3c,Awaiting user confirmation.,55eabf09-5393-4d98-b028-4cdff4f61de4,2025-11-28T21:26:36Z,e.dubois@example.com,2025-11-28T21:26:36Z,e.dubois@example.com
+8aca4246-eaa9-4d0f-b090-7ffb527b02d2,Priority raised after business impact review.,55eabf09-5393-4d98-b028-4cdff4f61de4,2025-11-23T18:55:56Z,t.mueller@example.com,2025-11-23T18:55:56Z,t.mueller@example.com
+6bc465ec-c5d5-42a7-bf17-34dbb893f655,Priority raised after business impact review.,55eabf09-5393-4d98-b028-4cdff4f61de4,2025-11-30T10:57:58Z,o.olsen@example.com,2025-11-30T10:57:58Z,o.olsen@example.com
+6a639542-4069-4957-a121-c67861ab3519,Priority raised after business impact review.,55eabf09-5393-4d98-b028-4cdff4f61de4,2025-11-25T19:24:19Z,f.haddad@example.com,2025-11-25T19:24:19Z,f.haddad@example.com
+20b20910-355a-485f-b6ea-99d827e41c52,Change scheduled for the next maintenance window.,8eaf8359-43dc-45bc-92b1-144e5d5e5771,2025-11-19T12:02:43Z,p.novak@example.com,2025-11-19T12:02:43Z,p.novak@example.com
+f83066fd-1cc4-486e-83f8-cd557b4d53ad,Assigned to the responsible team.,8eaf8359-43dc-45bc-92b1-144e5d5e5771,2026-04-17T17:10:45Z,n.rossi@example.com,2026-04-17T17:10:45Z,n.rossi@example.com
+adec6102-b2cc-4623-b903-428cc988a76e,Closing after 48h with no further reports.,8eaf8359-43dc-45bc-92b1-144e5d5e5771,2026-01-31T15:35:32Z,s.wilson@example.com,2026-01-31T15:35:32Z,s.wilson@example.com
+b55b69f9-5527-406c-a711-e368b34c38bf,Closing after 48h with no further reports.,8eaf8359-43dc-45bc-92b1-144e5d5e5771,2025-11-16T07:12:13Z,d.garcia@example.com,2025-11-16T07:12:13Z,d.garcia@example.com
+d51baec3-02d5-4393-8826-1f0995c1d496,Assigned to the responsible team.,8eaf8359-43dc-45bc-92b1-144e5d5e5771,2026-01-03T23:59:17Z,m.brown@example.com,2026-01-03T23:59:17Z,m.brown@example.com
+ce8f8720-5667-49f4-bc30-c3b96b432490,User confirmed the problem is resolved.,8eaf8359-43dc-45bc-92b1-144e5d5e5771,2025-10-19T08:53:31Z,d.garcia@example.com,2025-10-19T08:53:31Z,d.garcia@example.com
+f833d86c-0762-4ff9-936b-483a38a534b5,Root cause identified as a config drift.,8eaf8359-43dc-45bc-92b1-144e5d5e5771,2026-05-26T16:57:00Z,r.lee@example.com,2026-05-26T16:57:00Z,r.lee@example.com
+552f4ce7-51c6-4b1e-9383-4ef2d4386b41,Change scheduled for the next maintenance window.,8eaf8359-43dc-45bc-92b1-144e5d5e5771,2025-11-30T17:43:31Z,f.haddad@example.com,2025-11-30T17:43:31Z,f.haddad@example.com
+5e203177-6531-4073-9b38-69a19b6d510d,Change scheduled for the next maintenance window.,afe65dda-fabb-4218-9896-7115fdcf115b,2026-06-17T03:13:06Z,p.novak@example.com,2026-06-17T03:13:06Z,p.novak@example.com
+f53ff0a5-7293-463e-b59f-ffd89bc1d827,Awaiting user confirmation.,afe65dda-fabb-4218-9896-7115fdcf115b,2026-06-19T08:59:49Z,l.martin@example.com,2026-06-19T08:59:49Z,l.martin@example.com
+d6957dae-5288-4e7b-9621-55788a5a0f72,Duplicate of an earlier related ticket.,afe65dda-fabb-4218-9896-7115fdcf115b,2026-06-15T00:29:47Z,e.dubois@example.com,2026-06-15T00:29:47Z,e.dubois@example.com
+07c94c89-8ce0-4a64-8474-0c4a8f9b7bf0,User reports the issue persists intermittently.,afe65dda-fabb-4218-9896-7115fdcf115b,2026-06-17T11:25:44Z,n.rossi@example.com,2026-06-17T11:25:44Z,n.rossi@example.com
+ad47ab84-7e68-4a6d-80a4-c5babf7b2094,Awaiting user confirmation.,afe65dda-fabb-4218-9896-7115fdcf115b,2026-06-13T03:42:44Z,j.smith@example.com,2026-06-13T03:42:44Z,j.smith@example.com
+ec5fe51c-48a4-48ce-997b-831c9068bfde,Closing after 48h with no further reports.,afe65dda-fabb-4218-9896-7115fdcf115b,2026-06-16T15:31:18Z,p.novak@example.com,2026-06-16T15:31:18Z,p.novak@example.com
+abc777d1-5973-49ea-9897-1ca4775b9aad,Awaiting user confirmation.,afe65dda-fabb-4218-9896-7115fdcf115b,2026-06-18T21:46:59Z,k.patel@example.com,2026-06-18T21:46:59Z,k.patel@example.com
+73334ef9-2fb0-43e1-adf1-86f020e739ed,Duplicate of an earlier related ticket.,afe65dda-fabb-4218-9896-7115fdcf115b,2026-06-19T23:06:10Z,o.olsen@example.com,2026-06-19T23:06:10Z,o.olsen@example.com
+b3df3fc6-cde9-4c8f-919f-4717bf1add6c,Duplicate of an earlier related ticket.,aaa8e7f0-e2b6-4a11-a330-680a13a28149,2025-11-09T23:25:38Z,s.wilson@example.com,2025-11-09T23:25:38Z,s.wilson@example.com
+d8237a55-b3b4-4d90-aa1e-81c0bc064263,Closing after 48h with no further reports.,aaa8e7f0-e2b6-4a11-a330-680a13a28149,2025-11-07T15:01:39Z,t.mueller@example.com,2025-11-07T15:01:39Z,t.mueller@example.com
+36ff82cb-d9f7-4f07-a9bc-dcbd17005aa2,Change scheduled for the next maintenance window.,aaa8e7f0-e2b6-4a11-a330-680a13a28149,2025-11-10T01:24:22Z,r.lee@example.com,2025-11-10T01:24:22Z,r.lee@example.com
+98145e10-a2fd-4ded-9457-fc75f08fa733,Duplicate of an earlier related ticket.,aaa8e7f0-e2b6-4a11-a330-680a13a28149,2025-11-05T18:47:34Z,k.patel@example.com,2025-11-05T18:47:34Z,k.patel@example.com
+559f8c51-d0eb-4f44-836b-67cffb8c5015,Change scheduled for the next maintenance window.,aaa8e7f0-e2b6-4a11-a330-680a13a28149,2025-11-07T20:03:35Z,n.rossi@example.com,2025-11-07T20:03:35Z,n.rossi@example.com
+4c840dd0-4ac3-4188-a5fd-4b78295a8453,Workaround provided in the meantime.,aaa8e7f0-e2b6-4a11-a330-680a13a28149,2025-11-11T21:12:39Z,p.novak@example.com,2025-11-11T21:12:39Z,p.novak@example.com
+a81d811c-d542-48f0-b4fc-f19515f87f3b,Awaiting user confirmation.,ea145c34-d387-4416-a8b3-19110d645a70,2026-05-04T21:26:24Z,a.jones@example.com,2026-05-04T21:26:24Z,a.jones@example.com
+08b3e6ef-c58d-4605-a813-00b2dea3a656,Awaiting user confirmation.,ea145c34-d387-4416-a8b3-19110d645a70,2025-11-04T10:36:40Z,n.rossi@example.com,2025-11-04T10:36:40Z,n.rossi@example.com
+9259f011-5481-437a-8901-fd5fee7dbd72,Closing after 48h with no further reports.,ea145c34-d387-4416-a8b3-19110d645a70,2026-04-09T10:58:08Z,t.mueller@example.com,2026-04-09T10:58:08Z,t.mueller@example.com
+fc97da7e-a35a-48da-8b28-51ca1e057fa4,Root cause identified as a config drift.,ea145c34-d387-4416-a8b3-19110d645a70,2026-05-06T20:27:33Z,t.mueller@example.com,2026-05-06T20:27:33Z,t.mueller@example.com
+cd31836e-39e8-42cc-a7ab-c3e750746761,Workaround provided in the meantime.,ea145c34-d387-4416-a8b3-19110d645a70,2026-02-21T23:38:04Z,l.martin@example.com,2026-02-21T23:38:04Z,l.martin@example.com
+7d0ffd40-8ca9-49ec-9dd0-1656c3add65d,Assigned to the responsible team.,ea145c34-d387-4416-a8b3-19110d645a70,2025-11-25T09:45:06Z,o.olsen@example.com,2025-11-25T09:45:06Z,o.olsen@example.com
+170b63f8-50ef-4134-b3b5-36850b536eff,Duplicate of an earlier related ticket.,ea145c34-d387-4416-a8b3-19110d645a70,2026-06-13T09:37:38Z,s.wilson@example.com,2026-06-13T09:37:38Z,s.wilson@example.com
+675506b7-73d9-422f-a36c-b00f3fa4d031,Change scheduled for the next maintenance window.,f976611f-d7f2-4afd-9709-8eb221a9375d,2025-06-29T19:03:10Z,k.patel@example.com,2025-06-29T19:03:10Z,k.patel@example.com
+38d1ce55-bedf-4c07-9d92-0e4d2caeaaae,Workaround provided in the meantime.,f976611f-d7f2-4afd-9709-8eb221a9375d,2025-06-29T22:57:52Z,j.smith@example.com,2025-06-29T22:57:52Z,j.smith@example.com
+c9f19acb-3d3c-4718-9564-06cc8a8d178a,Closing after 48h with no further reports.,f976611f-d7f2-4afd-9709-8eb221a9375d,2025-06-30T03:53:55Z,s.wilson@example.com,2025-06-30T03:53:55Z,s.wilson@example.com
+6cd0cf02-32b5-4f31-afea-edfbb2b2314a,Workaround provided in the meantime.,f976611f-d7f2-4afd-9709-8eb221a9375d,2025-06-29T23:39:15Z,l.martin@example.com,2025-06-29T23:39:15Z,l.martin@example.com
+d968e4de-50b3-4a90-b5c1-e23d59db1287,Change scheduled for the next maintenance window.,f976611f-d7f2-4afd-9709-8eb221a9375d,2025-06-29T14:20:58Z,d.garcia@example.com,2025-06-29T14:20:58Z,d.garcia@example.com
+87d4e4e8-fa81-40f9-9a20-75a59279a278,Assigned to the responsible team.,f976611f-d7f2-4afd-9709-8eb221a9375d,2025-06-29T22:32:12Z,j.smith@example.com,2025-06-29T22:32:12Z,j.smith@example.com
+73ff83f3-6689-4417-a2e3-5d09de5cb97b,Root cause identified as a config drift.,c035faf5-1deb-41d9-bdf7-b9aeb463ee36,2025-12-30T21:33:07Z,t.mueller@example.com,2025-12-30T21:33:07Z,t.mueller@example.com
+1e095c13-1940-4241-b1de-b631cd9bd36d,Duplicate of an earlier related ticket.,c035faf5-1deb-41d9-bdf7-b9aeb463ee36,2026-05-24T14:19:24Z,a.jones@example.com,2026-05-24T14:19:24Z,a.jones@example.com
+aa1bffe4-cfe9-4fc9-b3a1-b1dc220975b7,User reports the issue persists intermittently.,c035faf5-1deb-41d9-bdf7-b9aeb463ee36,2026-05-07T18:18:58Z,p.novak@example.com,2026-05-07T18:18:58Z,p.novak@example.com
+105df34f-eeb1-4a3b-8bbd-a24a06082fad,Duplicate of an earlier related ticket.,c035faf5-1deb-41d9-bdf7-b9aeb463ee36,2026-05-10T20:24:43Z,m.brown@example.com,2026-05-10T20:24:43Z,m.brown@example.com
+b4d4d122-f107-4d10-bf94-286afdb3d20a,Priority raised after business impact review.,c035faf5-1deb-41d9-bdf7-b9aeb463ee36,2026-04-26T02:09:15Z,k.patel@example.com,2026-04-26T02:09:15Z,k.patel@example.com
+0f988866-b930-45ab-a17a-2395cb8b83cc,Closing after 48h with no further reports.,c035faf5-1deb-41d9-bdf7-b9aeb463ee36,2025-12-08T04:15:44Z,n.rossi@example.com,2025-12-08T04:15:44Z,n.rossi@example.com
+37aeb2ea-61f3-4d97-9cf4-cbb0c4c897c9,User reports the issue persists intermittently.,c035faf5-1deb-41d9-bdf7-b9aeb463ee36,2026-03-15T10:27:54Z,c.silva@example.com,2026-03-15T10:27:54Z,c.silva@example.com
+58cf2a18-486f-4035-ab6f-00b95d62f5c3,User reports the issue persists intermittently.,c035faf5-1deb-41d9-bdf7-b9aeb463ee36,2026-04-18T12:37:34Z,d.garcia@example.com,2026-04-18T12:37:34Z,d.garcia@example.com
+be8a0497-3aac-4199-905b-c614ddcf6932,User confirmed the problem is resolved.,4c54ea54-f913-4f46-8e31-1072a594eac6,2025-03-08T05:47:09Z,t.mueller@example.com,2025-03-08T05:47:09Z,t.mueller@example.com
+0f6eeede-899b-483a-b68c-91577092021e,User reports the issue persists intermittently.,4c54ea54-f913-4f46-8e31-1072a594eac6,2025-03-08T02:14:39Z,p.novak@example.com,2025-03-08T02:14:39Z,p.novak@example.com
+25059880-2c9b-4eb8-bb54-b74917d42d1a,Assigned to the responsible team.,4c54ea54-f913-4f46-8e31-1072a594eac6,2025-03-07T19:25:52Z,s.wilson@example.com,2025-03-07T19:25:52Z,s.wilson@example.com
+ed7d28b1-b580-4fb1-96db-89da405ebec2,User reports the issue persists intermittently.,4c54ea54-f913-4f46-8e31-1072a594eac6,2025-03-07T16:53:12Z,e.dubois@example.com,2025-03-07T16:53:12Z,e.dubois@example.com
+e5863dbc-bb4d-4c42-b7cb-c3a246affc06,User reports the issue persists intermittently.,4c54ea54-f913-4f46-8e31-1072a594eac6,2025-03-07T23:10:37Z,e.dubois@example.com,2025-03-07T23:10:37Z,e.dubois@example.com
+2864f4df-b4d2-49ad-81e4-1a95a6aa0869,Closing after 48h with no further reports.,8ab4795b-3872-4f3b-8332-d20bfc84d6df,2026-05-13T02:13:37Z,m.brown@example.com,2026-05-13T02:13:37Z,m.brown@example.com
+93317bdc-0d98-425d-b99f-4828c25ce005,User confirmed the problem is resolved.,8ab4795b-3872-4f3b-8332-d20bfc84d6df,2025-09-02T16:13:38Z,n.rossi@example.com,2025-09-02T16:13:38Z,n.rossi@example.com
+731d0c17-f17f-4429-a2aa-5424b7469f64,Duplicate of an earlier related ticket.,8ab4795b-3872-4f3b-8332-d20bfc84d6df,2026-01-20T01:16:04Z,n.rossi@example.com,2026-01-20T01:16:04Z,n.rossi@example.com
+e7351f62-1a9f-47ce-9067-bb1d137bc060,Root cause identified as a config drift.,8ab4795b-3872-4f3b-8332-d20bfc84d6df,2025-10-02T08:58:06Z,r.lee@example.com,2025-10-02T08:58:06Z,r.lee@example.com
+dce0deb0-4422-4b56-9720-59d2390d93ae,Change scheduled for the next maintenance window.,8ab4795b-3872-4f3b-8332-d20bfc84d6df,2025-11-18T07:51:54Z,s.wilson@example.com,2025-11-18T07:51:54Z,s.wilson@example.com
+16738d46-304a-4fbc-a294-3fabff02761c,Closing after 48h with no further reports.,8ab4795b-3872-4f3b-8332-d20bfc84d6df,2026-04-19T10:52:07Z,a.jones@example.com,2026-04-19T10:52:07Z,a.jones@example.com
+ed265327-55d7-4dd1-b1ec-eaef6b614feb,Duplicate of an earlier related ticket.,8ab4795b-3872-4f3b-8332-d20bfc84d6df,2026-01-02T09:49:34Z,a.jones@example.com,2026-01-02T09:49:34Z,a.jones@example.com
+b35a4662-db65-48d3-9cf1-4f597acfdf63,Change scheduled for the next maintenance window.,641f42e2-10f8-4e4d-b01b-997e4282935c,2025-07-18T02:46:15Z,l.martin@example.com,2025-07-18T02:46:15Z,l.martin@example.com
+fd9df266-3dc1-4807-8cd8-df7bcf4be33a,Priority raised after business impact review.,641f42e2-10f8-4e4d-b01b-997e4282935c,2025-12-28T20:25:03Z,j.smith@example.com,2025-12-28T20:25:03Z,j.smith@example.com
+e94dcec2-511e-4bca-bf6e-43322facd192,Awaiting user confirmation.,641f42e2-10f8-4e4d-b01b-997e4282935c,2025-08-01T05:02:53Z,c.silva@example.com,2025-08-01T05:02:53Z,c.silva@example.com
+2e24ce1d-fe88-4823-b12e-215a7f34c611,Duplicate of an earlier related ticket.,641f42e2-10f8-4e4d-b01b-997e4282935c,2025-02-22T22:33:39Z,d.garcia@example.com,2025-02-22T22:33:39Z,d.garcia@example.com
+a14a884c-d8f4-40b5-8b2c-ea6c2ef74b55,User confirmed the problem is resolved.,641f42e2-10f8-4e4d-b01b-997e4282935c,2026-05-09T23:20:37Z,e.dubois@example.com,2026-05-09T23:20:37Z,e.dubois@example.com
+bb2c03cb-184c-4956-9fd1-3ead956bfe0a,Root cause identified as a config drift.,641f42e2-10f8-4e4d-b01b-997e4282935c,2025-09-27T14:58:59Z,m.brown@example.com,2025-09-27T14:58:59Z,m.brown@example.com
+f07095ce-6c14-49fa-adec-7ce4d489d0bd,User confirmed the problem is resolved.,641f42e2-10f8-4e4d-b01b-997e4282935c,2025-10-24T13:20:04Z,s.wilson@example.com,2025-10-24T13:20:04Z,s.wilson@example.com
+f8f31a01-3ac0-4efd-bf2b-5676b76bc96c,Assigned to the responsible team.,50246819-c191-48eb-895c-19aad1fb1fe6,2025-12-16T20:13:49Z,a.jones@example.com,2025-12-16T20:13:49Z,a.jones@example.com
+afacaa9f-465a-4555-a821-3297bd2cec87,Root cause identified as a config drift.,50246819-c191-48eb-895c-19aad1fb1fe6,2025-12-25T05:16:35Z,m.brown@example.com,2025-12-25T05:16:35Z,m.brown@example.com
+7705389d-65f4-4e73-bb20-1d81b7223237,Duplicate of an earlier related ticket.,50246819-c191-48eb-895c-19aad1fb1fe6,2025-12-17T03:36:30Z,e.dubois@example.com,2025-12-17T03:36:30Z,e.dubois@example.com
+956a38f2-7ef1-4fab-bceb-226a7bbcfc09,Change scheduled for the next maintenance window.,50246819-c191-48eb-895c-19aad1fb1fe6,2025-12-18T14:50:39Z,f.haddad@example.com,2025-12-18T14:50:39Z,f.haddad@example.com
+1ad8503c-154c-4a00-86ea-822bef3e6bfa,User confirmed the problem is resolved.,50246819-c191-48eb-895c-19aad1fb1fe6,2025-12-18T23:31:40Z,p.novak@example.com,2025-12-18T23:31:40Z,p.novak@example.com
+6ed06059-94c4-46df-83f8-0a84d3a5683e,User confirmed the problem is resolved.,50246819-c191-48eb-895c-19aad1fb1fe6,2025-12-14T09:49:55Z,l.martin@example.com,2025-12-14T09:49:55Z,l.martin@example.com
+bd08c405-58d2-4b27-ac55-0b9a5ee21323,Root cause identified as a config drift.,50246819-c191-48eb-895c-19aad1fb1fe6,2025-12-23T15:11:08Z,e.dubois@example.com,2025-12-23T15:11:08Z,e.dubois@example.com
+a367c76a-9646-42cc-af18-e491d9ee750d,Assigned to the responsible team.,50246819-c191-48eb-895c-19aad1fb1fe6,2025-12-17T23:22:16Z,d.garcia@example.com,2025-12-17T23:22:16Z,d.garcia@example.com
+9f7292f9-312f-4073-9323-458ff4df7fbc,Priority raised after business impact review.,0870a821-9520-46d3-ada6-949798a5c1ef,2026-01-29T21:50:29Z,m.brown@example.com,2026-01-29T21:50:29Z,m.brown@example.com
+b47b4a91-b422-4908-a47a-a1dfa7b2858e,User confirmed the problem is resolved.,0870a821-9520-46d3-ada6-949798a5c1ef,2026-01-28T11:35:06Z,e.dubois@example.com,2026-01-28T11:35:06Z,e.dubois@example.com
+ab97f74c-b318-413c-8123-dd495659ba95,User confirmed the problem is resolved.,0870a821-9520-46d3-ada6-949798a5c1ef,2026-02-04T18:24:01Z,l.martin@example.com,2026-02-04T18:24:01Z,l.martin@example.com
+b4f294c1-9d36-4388-8771-afc9ac3b8c80,Assigned to the responsible team.,0870a821-9520-46d3-ada6-949798a5c1ef,2026-01-26T01:01:37Z,p.novak@example.com,2026-01-26T01:01:37Z,p.novak@example.com
+9557c045-6ca9-4cd3-bccc-79926e2ad6ec,Change scheduled for the next maintenance window.,0870a821-9520-46d3-ada6-949798a5c1ef,2026-02-03T19:13:58Z,c.silva@example.com,2026-02-03T19:13:58Z,c.silva@example.com
+c8b43318-2b9c-4b60-9d99-71d9f7b984cc,Assigned to the responsible team.,faf23e0d-0853-4274-aedf-e3c71de42e32,2026-04-21T05:22:36Z,n.rossi@example.com,2026-04-21T05:22:36Z,n.rossi@example.com
+78377a3e-6683-4f18-ac3b-693bdd7cd3ed,Change scheduled for the next maintenance window.,faf23e0d-0853-4274-aedf-e3c71de42e32,2026-06-07T09:53:12Z,e.dubois@example.com,2026-06-07T09:53:12Z,e.dubois@example.com
+97932987-5da7-402a-9d15-0846c2f00dcb,Workaround provided in the meantime.,faf23e0d-0853-4274-aedf-e3c71de42e32,2026-04-27T07:21:19Z,j.smith@example.com,2026-04-27T07:21:19Z,j.smith@example.com
+38765f81-d7db-46a8-8518-1a5567225401,Assigned to the responsible team.,faf23e0d-0853-4274-aedf-e3c71de42e32,2026-05-02T20:30:40Z,r.lee@example.com,2026-05-02T20:30:40Z,r.lee@example.com
+a8d42974-e011-4c10-b356-cc3ba91b6208,Root cause identified as a config drift.,faf23e0d-0853-4274-aedf-e3c71de42e32,2026-05-31T03:38:45Z,o.olsen@example.com,2026-05-31T03:38:45Z,o.olsen@example.com
+eb8b11f0-ec75-4907-bb3a-d0a776ae013a,User confirmed the problem is resolved.,5ef8df3e-005a-4dad-8cfe-67140fcc896e,2026-02-26T12:22:22Z,d.garcia@example.com,2026-02-26T12:22:22Z,d.garcia@example.com
+b1449a30-6f3f-4a34-99a7-a25c760b23e7,Priority raised after business impact review.,5ef8df3e-005a-4dad-8cfe-67140fcc896e,2026-02-22T05:28:29Z,a.jones@example.com,2026-02-22T05:28:29Z,a.jones@example.com
+fb0b5b86-f35e-499a-8d7e-b39a2f71461e,Duplicate of an earlier related ticket.,5ef8df3e-005a-4dad-8cfe-67140fcc896e,2025-12-20T01:33:17Z,e.dubois@example.com,2025-12-20T01:33:17Z,e.dubois@example.com
+24268f77-428e-409c-96ac-bbd76b3d88e9,Duplicate of an earlier related ticket.,5ef8df3e-005a-4dad-8cfe-67140fcc896e,2025-12-12T08:19:35Z,t.mueller@example.com,2025-12-12T08:19:35Z,t.mueller@example.com
+8bbdf92e-0184-4a99-90f6-3cd841458216,Closing after 48h with no further reports.,5ef8df3e-005a-4dad-8cfe-67140fcc896e,2025-10-13T22:09:34Z,c.silva@example.com,2025-10-13T22:09:34Z,c.silva@example.com
+cb1497da-9e9e-4a69-aff7-ea979eeeee5a,Workaround provided in the meantime.,5ef8df3e-005a-4dad-8cfe-67140fcc896e,2025-12-23T21:20:52Z,k.patel@example.com,2025-12-23T21:20:52Z,k.patel@example.com
+dd6200ec-4e9b-455b-974c-fbb00f2e82e2,User confirmed the problem is resolved.,5ef8df3e-005a-4dad-8cfe-67140fcc896e,2025-10-30T07:53:19Z,f.haddad@example.com,2025-10-30T07:53:19Z,f.haddad@example.com
+29a39cfb-ed99-4677-9de8-a1ad42facff2,Awaiting user confirmation.,5825416c-bd21-4073-82c6-8d0b6a9ee393,2026-04-26T14:53:34Z,c.silva@example.com,2026-04-26T14:53:34Z,c.silva@example.com
+c901b3a8-96cd-4aee-aaaa-761e9547a7e5,Change scheduled for the next maintenance window.,5825416c-bd21-4073-82c6-8d0b6a9ee393,2025-10-21T01:06:30Z,d.garcia@example.com,2025-10-21T01:06:30Z,d.garcia@example.com
+2fcdaada-2b03-4aa8-a611-8e70456b8dce,Root cause identified as a config drift.,5825416c-bd21-4073-82c6-8d0b6a9ee393,2025-12-01T14:27:27Z,p.novak@example.com,2025-12-01T14:27:27Z,p.novak@example.com
+9ba300e6-832d-4398-9a22-a6354ea62991,Change scheduled for the next maintenance window.,5825416c-bd21-4073-82c6-8d0b6a9ee393,2025-12-27T03:35:32Z,k.patel@example.com,2025-12-27T03:35:32Z,k.patel@example.com
+e23d4b04-0778-42f5-a421-da97e336798e,Closing after 48h with no further reports.,5825416c-bd21-4073-82c6-8d0b6a9ee393,2025-12-09T16:36:23Z,a.jones@example.com,2025-12-09T16:36:23Z,a.jones@example.com
+84ef91fe-bbaf-4345-a019-db4ba2d92690,Root cause identified as a config drift.,2983d4a2-0764-4b43-9a31-4b60f9627917,2026-02-06T10:46:34Z,l.martin@example.com,2026-02-06T10:46:34Z,l.martin@example.com
+1af67871-9ef7-4167-a606-2110491aafb8,Workaround provided in the meantime.,2983d4a2-0764-4b43-9a31-4b60f9627917,2026-04-18T17:15:29Z,a.jones@example.com,2026-04-18T17:15:29Z,a.jones@example.com
+1b48fb35-79e8-494c-a3ce-8b0588988d3d,Change scheduled for the next maintenance window.,2983d4a2-0764-4b43-9a31-4b60f9627917,2026-05-13T12:32:33Z,n.rossi@example.com,2026-05-13T12:32:33Z,n.rossi@example.com
+59e7bf13-3d45-4f1c-9e8b-e40b96edccb6,User confirmed the problem is resolved.,2983d4a2-0764-4b43-9a31-4b60f9627917,2026-02-24T04:39:39Z,e.dubois@example.com,2026-02-24T04:39:39Z,e.dubois@example.com
+c4850d4d-cee8-427c-b2fe-389909b65659,Change scheduled for the next maintenance window.,2983d4a2-0764-4b43-9a31-4b60f9627917,2025-07-26T01:20:24Z,l.martin@example.com,2025-07-26T01:20:24Z,l.martin@example.com
+c2e0997c-a74a-464e-a24b-18c00dcbe3c9,Awaiting user confirmation.,2983d4a2-0764-4b43-9a31-4b60f9627917,2026-04-18T23:02:23Z,e.dubois@example.com,2026-04-18T23:02:23Z,e.dubois@example.com
+1a332ae1-6e7c-46c4-b178-bdb136e2b446,Closing after 48h with no further reports.,3405bca9-1481-4170-9af9-2fc23032f71a,2025-05-20T23:42:04Z,t.mueller@example.com,2025-05-20T23:42:04Z,t.mueller@example.com
+d4dc3195-08cf-4a2d-9b28-b65c67d93ae2,Closing after 48h with no further reports.,3405bca9-1481-4170-9af9-2fc23032f71a,2025-05-21T00:38:50Z,c.silva@example.com,2025-05-21T00:38:50Z,c.silva@example.com
+6db1de81-5753-47ce-99ea-f0cdc0384276,Assigned to the responsible team.,3405bca9-1481-4170-9af9-2fc23032f71a,2025-05-21T11:17:19Z,m.brown@example.com,2025-05-21T11:17:19Z,m.brown@example.com
+762a1370-3356-463b-ab31-628f413f20fe,Root cause identified as a config drift.,3405bca9-1481-4170-9af9-2fc23032f71a,2025-05-21T22:27:31Z,j.smith@example.com,2025-05-21T22:27:31Z,j.smith@example.com
+c8a992b1-3071-4b2f-ab71-225948d8fe9d,Workaround provided in the meantime.,3405bca9-1481-4170-9af9-2fc23032f71a,2025-05-20T06:39:19Z,j.smith@example.com,2025-05-20T06:39:19Z,j.smith@example.com
+d142a462-5fe0-46cb-aa17-7941e9f457bd,Workaround provided in the meantime.,3405bca9-1481-4170-9af9-2fc23032f71a,2025-05-19T20:51:42Z,n.rossi@example.com,2025-05-19T20:51:42Z,n.rossi@example.com
+efa58664-9be9-4281-92f6-ba5fb60afe5b,Closing after 48h with no further reports.,3405bca9-1481-4170-9af9-2fc23032f71a,2025-05-19T12:36:49Z,p.novak@example.com,2025-05-19T12:36:49Z,p.novak@example.com
+8be7e6a1-ffda-4dc2-9361-387dc32eb4f5,Closing after 48h with no further reports.,3405bca9-1481-4170-9af9-2fc23032f71a,2025-05-21T22:29:43Z,c.silva@example.com,2025-05-21T22:29:43Z,c.silva@example.com
+deb09c2d-aa96-448b-b954-081320bd9b33,Workaround provided in the meantime.,277c2e34-226e-4229-9997-77a49b7eb1f4,2026-03-15T12:12:06Z,c.silva@example.com,2026-03-15T12:12:06Z,c.silva@example.com
+ef8a1422-3004-4bce-bc45-637a3d95e9c0,Workaround provided in the meantime.,277c2e34-226e-4229-9997-77a49b7eb1f4,2026-03-08T20:15:26Z,e.dubois@example.com,2026-03-08T20:15:26Z,e.dubois@example.com
+726f10f5-db8d-4a57-88a9-99197f9674da,Assigned to the responsible team.,277c2e34-226e-4229-9997-77a49b7eb1f4,2026-04-21T13:12:51Z,o.olsen@example.com,2026-04-21T13:12:51Z,o.olsen@example.com
+7e9104c7-7dfd-4c04-a93b-37a502361b67,User confirmed the problem is resolved.,277c2e34-226e-4229-9997-77a49b7eb1f4,2026-02-06T23:45:24Z,p.novak@example.com,2026-02-06T23:45:24Z,p.novak@example.com
+779c4ff3-d040-4501-af9b-fcc93b320eb0,Awaiting user confirmation.,277c2e34-226e-4229-9997-77a49b7eb1f4,2026-01-23T04:09:32Z,d.garcia@example.com,2026-01-23T04:09:32Z,d.garcia@example.com
+e3a55634-82ec-49bb-a255-d650d4b4b927,Awaiting user confirmation.,277c2e34-226e-4229-9997-77a49b7eb1f4,2026-05-27T20:45:04Z,f.haddad@example.com,2026-05-27T20:45:04Z,f.haddad@example.com
+00bf086a-c835-4891-ab0b-92b2628f8c0b,Awaiting user confirmation.,afeb9d4f-8cc6-48b6-869f-fec946f6a9a0,2026-02-17T23:21:40Z,s.wilson@example.com,2026-02-17T23:21:40Z,s.wilson@example.com
+beaee81b-c0b8-434a-84c8-b92c128a9d6c,Workaround provided in the meantime.,afeb9d4f-8cc6-48b6-869f-fec946f6a9a0,2026-02-14T21:59:57Z,m.brown@example.com,2026-02-14T21:59:57Z,m.brown@example.com
+4b617676-be81-4dc4-9c22-d55ad604a5dd,Change scheduled for the next maintenance window.,afeb9d4f-8cc6-48b6-869f-fec946f6a9a0,2026-02-09T20:31:28Z,t.mueller@example.com,2026-02-09T20:31:28Z,t.mueller@example.com
+ac617d8d-7872-4326-9172-37848658753d,Change scheduled for the next maintenance window.,afeb9d4f-8cc6-48b6-869f-fec946f6a9a0,2026-02-13T16:00:44Z,a.jones@example.com,2026-02-13T16:00:44Z,a.jones@example.com
+872c0702-b860-46b6-8194-aed3e276c669,User confirmed the problem is resolved.,afeb9d4f-8cc6-48b6-869f-fec946f6a9a0,2026-02-11T14:34:31Z,j.smith@example.com,2026-02-11T14:34:31Z,j.smith@example.com
+5c71ec89-3375-449c-a21e-d81e738e23ed,Root cause identified as a config drift.,49eb35e4-c114-482b-988c-874f083deded,2025-04-05T19:40:21Z,c.silva@example.com,2025-04-05T19:40:21Z,c.silva@example.com
+2555a198-49f8-4ea8-9e21-ce23fad22276,User confirmed the problem is resolved.,49eb35e4-c114-482b-988c-874f083deded,2025-04-05T05:07:21Z,o.olsen@example.com,2025-04-05T05:07:21Z,o.olsen@example.com
+d5b7b6ec-dbbb-4e60-95f1-c15606846bc7,Root cause identified as a config drift.,49eb35e4-c114-482b-988c-874f083deded,2025-04-06T02:18:48Z,f.haddad@example.com,2025-04-06T02:18:48Z,f.haddad@example.com
+231c639c-4440-4d07-a606-9aa00e29710a,Assigned to the responsible team.,49eb35e4-c114-482b-988c-874f083deded,2025-04-05T00:24:44Z,o.olsen@example.com,2025-04-05T00:24:44Z,o.olsen@example.com
+330d87d0-6ad7-4d8b-9361-28f3d02ffb29,Assigned to the responsible team.,49eb35e4-c114-482b-988c-874f083deded,2025-04-05T04:17:43Z,p.novak@example.com,2025-04-05T04:17:43Z,p.novak@example.com
+052db8f6-c77e-4b7a-b249-76288b462d10,User confirmed the problem is resolved.,49eb35e4-c114-482b-988c-874f083deded,2025-04-05T22:03:51Z,l.martin@example.com,2025-04-05T22:03:51Z,l.martin@example.com
+5f63e48c-0e17-4070-8ae4-7e4d8357d35c,Awaiting user confirmation.,49eb35e4-c114-482b-988c-874f083deded,2025-04-05T17:00:05Z,p.novak@example.com,2025-04-05T17:00:05Z,p.novak@example.com
+b3ecac12-cfe6-43e3-b1a4-778f91a9cc82,Assigned to the responsible team.,49eb35e4-c114-482b-988c-874f083deded,2025-04-05T12:08:35Z,d.garcia@example.com,2025-04-05T12:08:35Z,d.garcia@example.com
+ac394509-fae6-43ae-ad88-02e25be9670b,Workaround provided in the meantime.,26091647-d800-44cd-a4a8-eff9b5d387a7,2025-02-07T09:46:14Z,n.rossi@example.com,2025-02-07T09:46:14Z,n.rossi@example.com
+2a76fad5-1cb1-4b61-a722-1b76dad70e49,User confirmed the problem is resolved.,26091647-d800-44cd-a4a8-eff9b5d387a7,2025-02-09T21:48:55Z,p.novak@example.com,2025-02-09T21:48:55Z,p.novak@example.com
+c9a34ea2-7b38-4ac2-bfbc-ce21373ae9cc,User confirmed the problem is resolved.,26091647-d800-44cd-a4a8-eff9b5d387a7,2025-02-08T00:41:01Z,c.silva@example.com,2025-02-08T00:41:01Z,c.silva@example.com
+139c07cb-11bf-4c2c-a708-4f83ac897ab5,Duplicate of an earlier related ticket.,26091647-d800-44cd-a4a8-eff9b5d387a7,2025-01-30T17:57:03Z,t.mueller@example.com,2025-01-30T17:57:03Z,t.mueller@example.com
+666251b2-221e-4818-8171-09fc1fabcd1f,Assigned to the responsible team.,26091647-d800-44cd-a4a8-eff9b5d387a7,2025-02-01T10:52:34Z,d.garcia@example.com,2025-02-01T10:52:34Z,d.garcia@example.com
+72ce372a-6341-4642-a6b7-82aff4227da8,Awaiting user confirmation.,45c13d13-e4f4-45ff-be65-b9bc49a4ccda,2025-06-13T16:35:46Z,l.martin@example.com,2025-06-13T16:35:46Z,l.martin@example.com
+1b693367-c183-4bde-938d-95adcf7cd369,Assigned to the responsible team.,45c13d13-e4f4-45ff-be65-b9bc49a4ccda,2025-06-16T03:53:59Z,c.silva@example.com,2025-06-16T03:53:59Z,c.silva@example.com
+aae1867b-c9d6-4ce3-a742-06ed1219be51,User confirmed the problem is resolved.,45c13d13-e4f4-45ff-be65-b9bc49a4ccda,2025-06-10T08:26:04Z,l.martin@example.com,2025-06-10T08:26:04Z,l.martin@example.com
+3487477a-e9bc-4222-8eae-bb6a53fe0cdf,Assigned to the responsible team.,45c13d13-e4f4-45ff-be65-b9bc49a4ccda,2025-06-16T05:46:24Z,n.rossi@example.com,2025-06-16T05:46:24Z,n.rossi@example.com
+3971d2eb-4a50-48b7-acfd-84a992c549f5,Priority raised after business impact review.,45c13d13-e4f4-45ff-be65-b9bc49a4ccda,2025-06-16T00:30:45Z,c.silva@example.com,2025-06-16T00:30:45Z,c.silva@example.com
+ee388df5-178c-4d23-86d4-1a5d67031c27,Closing after 48h with no further reports.,45c13d13-e4f4-45ff-be65-b9bc49a4ccda,2025-06-24T20:53:51Z,a.jones@example.com,2025-06-24T20:53:51Z,a.jones@example.com
+9671a992-daec-41ad-b6ac-ee5fe87efbb7,Change scheduled for the next maintenance window.,45c13d13-e4f4-45ff-be65-b9bc49a4ccda,2025-06-20T16:30:18Z,n.rossi@example.com,2025-06-20T16:30:18Z,n.rossi@example.com
+552259a2-4c5f-430f-a6c3-35d32bf5d60a,Duplicate of an earlier related ticket.,d486d953-dc16-4c43-97b9-1a3932d92336,2025-09-20T01:12:06Z,p.novak@example.com,2025-09-20T01:12:06Z,p.novak@example.com
+06ec25ce-209c-4118-a053-39d4149c396a,Assigned to the responsible team.,d486d953-dc16-4c43-97b9-1a3932d92336,2025-09-19T12:17:39Z,r.lee@example.com,2025-09-19T12:17:39Z,r.lee@example.com
+eceb5705-5261-4153-9b13-01032a0a578f,Workaround provided in the meantime.,d486d953-dc16-4c43-97b9-1a3932d92336,2025-09-20T18:49:01Z,f.haddad@example.com,2025-09-20T18:49:01Z,f.haddad@example.com
+5c0f09a2-8c76-4222-b6f2-223feb4377d5,Workaround provided in the meantime.,d486d953-dc16-4c43-97b9-1a3932d92336,2025-09-21T17:16:35Z,f.haddad@example.com,2025-09-21T17:16:35Z,f.haddad@example.com
+76ffff7a-ac9e-4898-8185-192a5966d41f,Duplicate of an earlier related ticket.,d486d953-dc16-4c43-97b9-1a3932d92336,2025-09-20T08:46:59Z,a.jones@example.com,2025-09-20T08:46:59Z,a.jones@example.com
+146ff310-3200-445a-9d5b-3e1fa5a4a45e,Change scheduled for the next maintenance window.,d486d953-dc16-4c43-97b9-1a3932d92336,2025-09-20T18:12:33Z,j.smith@example.com,2025-09-20T18:12:33Z,j.smith@example.com
+ca4710f9-a688-4aa0-a8a7-7cebab719dd2,User confirmed the problem is resolved.,3ac0c769-225d-4b8e-b62a-e5aff7c3f3c7,2025-09-18T20:48:58Z,m.brown@example.com,2025-09-18T20:48:58Z,m.brown@example.com
+7926a324-0d47-4cf3-842b-9df01e055d3b,Priority raised after business impact review.,3ac0c769-225d-4b8e-b62a-e5aff7c3f3c7,2025-09-08T09:58:30Z,e.dubois@example.com,2025-09-08T09:58:30Z,e.dubois@example.com
+23320809-0b4f-4160-8c86-e80f5a4bb693,Awaiting user confirmation.,3ac0c769-225d-4b8e-b62a-e5aff7c3f3c7,2025-09-08T02:39:56Z,r.lee@example.com,2025-09-08T02:39:56Z,r.lee@example.com
+9c02c458-5986-4440-bf37-1fed74d5f50a,Workaround provided in the meantime.,3ac0c769-225d-4b8e-b62a-e5aff7c3f3c7,2025-09-12T08:18:46Z,d.garcia@example.com,2025-09-12T08:18:46Z,d.garcia@example.com
+f2555cf1-7dc1-49c4-aee0-b45f93aa9193,User confirmed the problem is resolved.,3ac0c769-225d-4b8e-b62a-e5aff7c3f3c7,2025-09-14T05:53:21Z,o.olsen@example.com,2025-09-14T05:53:21Z,o.olsen@example.com
+7616246e-9b36-4437-8e28-abc6a32321f5,Closing after 48h with no further reports.,de6300d8-8227-4832-87bc-10bb9cb2957e,2026-01-26T12:33:02Z,f.haddad@example.com,2026-01-26T12:33:02Z,f.haddad@example.com
+a4402212-8493-4fe8-9ddc-7b5d4aebe3bf,Duplicate of an earlier related ticket.,de6300d8-8227-4832-87bc-10bb9cb2957e,2026-05-24T05:51:45Z,c.silva@example.com,2026-05-24T05:51:45Z,c.silva@example.com
+16446ac8-65d8-4374-b222-b7ca8fa32c25,Closing after 48h with no further reports.,de6300d8-8227-4832-87bc-10bb9cb2957e,2025-09-28T11:43:26Z,a.jones@example.com,2025-09-28T11:43:26Z,a.jones@example.com
+da341f73-5219-48c3-9919-872da1715f6c,Awaiting user confirmation.,de6300d8-8227-4832-87bc-10bb9cb2957e,2025-06-05T13:49:26Z,p.novak@example.com,2025-06-05T13:49:26Z,p.novak@example.com
+4db3d1ce-fbb0-4815-9060-65c73623f4f1,User reports the issue persists intermittently.,de6300d8-8227-4832-87bc-10bb9cb2957e,2025-06-20T18:11:10Z,j.smith@example.com,2025-06-20T18:11:10Z,j.smith@example.com
+45e3ce54-7297-438b-8ef0-fe825e8c1143,Awaiting user confirmation.,f03cdf74-64d1-4992-ad5e-9bbd55691c35,2025-11-01T01:29:01Z,k.patel@example.com,2025-11-01T01:29:01Z,k.patel@example.com
+c27dcd4a-9bfa-410e-90fc-99b12cf774c4,Priority raised after business impact review.,f03cdf74-64d1-4992-ad5e-9bbd55691c35,2025-04-24T14:31:44Z,e.dubois@example.com,2025-04-24T14:31:44Z,e.dubois@example.com
+9ebafd67-df39-4c54-8caa-d18d78328cfd,Workaround provided in the meantime.,f03cdf74-64d1-4992-ad5e-9bbd55691c35,2025-10-05T14:22:37Z,t.mueller@example.com,2025-10-05T14:22:37Z,t.mueller@example.com
+bfee5e97-80ea-4a6d-9159-2357e73fb80b,Duplicate of an earlier related ticket.,f03cdf74-64d1-4992-ad5e-9bbd55691c35,2026-04-20T04:37:49Z,r.lee@example.com,2026-04-20T04:37:49Z,r.lee@example.com
+519ef0a7-3bcc-4145-a903-8562490c6ebf,Assigned to the responsible team.,f03cdf74-64d1-4992-ad5e-9bbd55691c35,2026-04-04T18:24:01Z,j.smith@example.com,2026-04-04T18:24:01Z,j.smith@example.com
+918bc942-9891-43a5-b50b-fbeafe5ae559,Awaiting user confirmation.,f03cdf74-64d1-4992-ad5e-9bbd55691c35,2025-11-01T00:01:08Z,r.lee@example.com,2025-11-01T00:01:08Z,r.lee@example.com
+26cece54-b5a7-4b3b-8bdc-749b45eaec5c,Duplicate of an earlier related ticket.,f03cdf74-64d1-4992-ad5e-9bbd55691c35,2026-02-17T07:43:12Z,s.wilson@example.com,2026-02-17T07:43:12Z,s.wilson@example.com
+62077260-f491-4e9f-bd74-3dd39584116f,Change scheduled for the next maintenance window.,9cb24616-d413-4b91-a1f7-638ef161694e,2026-02-05T07:15:43Z,c.silva@example.com,2026-02-05T07:15:43Z,c.silva@example.com
+e581d522-b799-40e8-9442-95e8fa0d27a6,Awaiting user confirmation.,9cb24616-d413-4b91-a1f7-638ef161694e,2026-02-03T15:42:25Z,e.dubois@example.com,2026-02-03T15:42:25Z,e.dubois@example.com
+fbd78d2b-da77-4f05-ab0e-df1ca03f3e6e,Closing after 48h with no further reports.,9cb24616-d413-4b91-a1f7-638ef161694e,2026-02-03T14:23:02Z,s.wilson@example.com,2026-02-03T14:23:02Z,s.wilson@example.com
+b9cb3040-17cb-4ccb-855c-4d77795edc39,Awaiting user confirmation.,9cb24616-d413-4b91-a1f7-638ef161694e,2026-02-03T08:16:18Z,d.garcia@example.com,2026-02-03T08:16:18Z,d.garcia@example.com
+ad59f5c1-133a-4573-9c5e-ccf6e83a9231,Assigned to the responsible team.,9cb24616-d413-4b91-a1f7-638ef161694e,2026-02-02T17:12:59Z,j.smith@example.com,2026-02-02T17:12:59Z,j.smith@example.com
+c4b8d8b9-789d-4f56-9d66-b2131a45aba0,Priority raised after business impact review.,b6170007-77f4-4696-b177-4bc9bd5b52de,2025-01-02T05:13:20Z,t.mueller@example.com,2025-01-02T05:13:20Z,t.mueller@example.com
+7fa67465-badb-423b-850d-17189c68b410,User confirmed the problem is resolved.,b6170007-77f4-4696-b177-4bc9bd5b52de,2025-01-04T00:16:24Z,m.brown@example.com,2025-01-04T00:16:24Z,m.brown@example.com
+eb034f92-0049-4a6e-b4c0-64b6765dca1a,Workaround provided in the meantime.,b6170007-77f4-4696-b177-4bc9bd5b52de,2025-01-02T11:18:31Z,c.silva@example.com,2025-01-02T11:18:31Z,c.silva@example.com
+ce7db33c-fa79-4491-8338-cdd79ab3c537,User reports the issue persists intermittently.,b6170007-77f4-4696-b177-4bc9bd5b52de,2025-01-01T22:14:23Z,m.brown@example.com,2025-01-01T22:14:23Z,m.brown@example.com
+d86791e4-7ea8-4091-a0a5-eceb83d45cac,User confirmed the problem is resolved.,b6170007-77f4-4696-b177-4bc9bd5b52de,2025-01-03T16:05:07Z,e.dubois@example.com,2025-01-03T16:05:07Z,e.dubois@example.com
+6c06d576-e6d1-45f7-98fa-bb34a85fe244,Priority raised after business impact review.,b6170007-77f4-4696-b177-4bc9bd5b52de,2025-01-04T02:55:00Z,p.novak@example.com,2025-01-04T02:55:00Z,p.novak@example.com
+71bf777f-f015-4685-a250-951915548f3a,Priority raised after business impact review.,b6170007-77f4-4696-b177-4bc9bd5b52de,2025-01-01T15:19:28Z,m.brown@example.com,2025-01-01T15:19:28Z,m.brown@example.com
+05dcd4f0-d164-4fbf-9022-c1adc4c81f91,Workaround provided in the meantime.,5dc9d821-58e8-4b16-adbc-432bacb1ba61,2026-05-25T08:44:33Z,l.martin@example.com,2026-05-25T08:44:33Z,l.martin@example.com
+3ac8b97d-c625-4c05-a8b0-09f5a2f9151e,Change scheduled for the next maintenance window.,5dc9d821-58e8-4b16-adbc-432bacb1ba61,2026-05-29T11:21:48Z,a.jones@example.com,2026-05-29T11:21:48Z,a.jones@example.com
+fbd134cf-d88a-448f-ab6e-2a9d712c7952,User confirmed the problem is resolved.,5dc9d821-58e8-4b16-adbc-432bacb1ba61,2026-06-01T15:32:12Z,o.olsen@example.com,2026-06-01T15:32:12Z,o.olsen@example.com
+67600b01-b123-4190-854c-fc40e68bd292,Assigned to the responsible team.,5dc9d821-58e8-4b16-adbc-432bacb1ba61,2026-06-01T04:49:02Z,c.silva@example.com,2026-06-01T04:49:02Z,c.silva@example.com
+ea9f6977-1da6-424d-8918-31b290e67be3,Assigned to the responsible team.,5dc9d821-58e8-4b16-adbc-432bacb1ba61,2026-06-19T22:42:18Z,o.olsen@example.com,2026-06-19T22:42:18Z,o.olsen@example.com
+b6e41421-ab46-470e-b601-4e8a710e8a51,Priority raised after business impact review.,5dc9d821-58e8-4b16-adbc-432bacb1ba61,2026-06-09T19:05:27Z,e.dubois@example.com,2026-06-09T19:05:27Z,e.dubois@example.com
+de1bf3dd-aa80-4884-b53d-996c56e75f47,User reports the issue persists intermittently.,5dc9d821-58e8-4b16-adbc-432bacb1ba61,2026-06-16T19:46:44Z,c.silva@example.com,2026-06-16T19:46:44Z,c.silva@example.com
+4644ec2a-ce2f-4db2-951b-27cff69a5636,Closing after 48h with no further reports.,a87ea8bd-f42c-4467-9489-b6a9acef3cfe,2026-01-26T10:21:46Z,m.brown@example.com,2026-01-26T10:21:46Z,m.brown@example.com
+a6b632ba-556e-4ffb-9625-80db9957f24f,Closing after 48h with no further reports.,a87ea8bd-f42c-4467-9489-b6a9acef3cfe,2025-05-19T03:56:11Z,d.garcia@example.com,2025-05-19T03:56:11Z,d.garcia@example.com
+8bf2fc73-c229-4317-b1b7-3d56d8298233,Root cause identified as a config drift.,a87ea8bd-f42c-4467-9489-b6a9acef3cfe,2026-04-10T17:31:31Z,d.garcia@example.com,2026-04-10T17:31:31Z,d.garcia@example.com
+4ffe24ef-686c-4194-bce3-80dd51e768ce,User reports the issue persists intermittently.,a87ea8bd-f42c-4467-9489-b6a9acef3cfe,2025-11-09T02:34:30Z,e.dubois@example.com,2025-11-09T02:34:30Z,e.dubois@example.com
+ceb9bc3e-0b7f-4c98-a398-efeff07b7404,Assigned to the responsible team.,a87ea8bd-f42c-4467-9489-b6a9acef3cfe,2025-08-09T21:29:47Z,p.novak@example.com,2025-08-09T21:29:47Z,p.novak@example.com
+76fdecc1-d6b4-4540-8fe2-69a5b6a6aba0,Change scheduled for the next maintenance window.,a87ea8bd-f42c-4467-9489-b6a9acef3cfe,2025-06-20T01:55:00Z,t.mueller@example.com,2025-06-20T01:55:00Z,t.mueller@example.com
+95535bbe-7d21-4881-bf8d-f18f5d5f514b,Priority raised after business impact review.,a87ea8bd-f42c-4467-9489-b6a9acef3cfe,2026-06-09T01:33:27Z,r.lee@example.com,2026-06-09T01:33:27Z,r.lee@example.com
+6b3874d5-7e15-44ed-8aaf-c09e1f13f5e2,User reports the issue persists intermittently.,a87ea8bd-f42c-4467-9489-b6a9acef3cfe,2025-10-08T05:21:42Z,n.rossi@example.com,2025-10-08T05:21:42Z,n.rossi@example.com
+37a0344e-d639-4502-b575-9b1dfb0ff5e2,Duplicate of an earlier related ticket.,d4bd6914-20ce-4cf3-a148-b53a57459136,2026-06-09T20:23:36Z,d.garcia@example.com,2026-06-09T20:23:36Z,d.garcia@example.com
+6ec935f8-1a55-443e-8be8-dca46be49330,User confirmed the problem is resolved.,d4bd6914-20ce-4cf3-a148-b53a57459136,2026-06-14T10:21:57Z,l.martin@example.com,2026-06-14T10:21:57Z,l.martin@example.com
+101128ce-7eb9-44f8-8881-4aef188067b5,Closing after 48h with no further reports.,d4bd6914-20ce-4cf3-a148-b53a57459136,2026-05-15T12:40:29Z,r.lee@example.com,2026-05-15T12:40:29Z,r.lee@example.com
+57530d1a-08e1-40ca-a82c-a015e28bec4e,Closing after 48h with no further reports.,d4bd6914-20ce-4cf3-a148-b53a57459136,2026-05-30T11:23:19Z,e.dubois@example.com,2026-05-30T11:23:19Z,e.dubois@example.com
+b0523f24-dd2e-4976-94c1-e55ddb476037,Workaround provided in the meantime.,d4bd6914-20ce-4cf3-a148-b53a57459136,2026-05-04T12:35:02Z,m.brown@example.com,2026-05-04T12:35:02Z,m.brown@example.com
+9a77750c-d279-458f-aa01-9b28d6e7c933,User reports the issue persists intermittently.,b18463b8-5a13-4712-9567-1f2631465aef,2025-02-09T16:01:53Z,s.wilson@example.com,2025-02-09T16:01:53Z,s.wilson@example.com
+4c7fce89-45e6-408a-aad6-dc261b88b904,Change scheduled for the next maintenance window.,b18463b8-5a13-4712-9567-1f2631465aef,2025-02-10T06:33:07Z,j.smith@example.com,2025-02-10T06:33:07Z,j.smith@example.com
+6c7034fc-9574-4288-aa02-f216286e2327,Workaround provided in the meantime.,b18463b8-5a13-4712-9567-1f2631465aef,2025-02-10T15:35:17Z,s.wilson@example.com,2025-02-10T15:35:17Z,s.wilson@example.com
+1caa04c7-6cc0-49b5-bf84-4c9af279e756,Closing after 48h with no further reports.,b18463b8-5a13-4712-9567-1f2631465aef,2025-02-10T03:20:40Z,f.haddad@example.com,2025-02-10T03:20:40Z,f.haddad@example.com
+ec27a8f9-b5e8-4fba-abce-15790be626ef,Assigned to the responsible team.,b18463b8-5a13-4712-9567-1f2631465aef,2025-02-10T08:19:27Z,r.lee@example.com,2025-02-10T08:19:27Z,r.lee@example.com
+3c6d5827-2019-40d1-9b18-4533e88d3ce5,Root cause identified as a config drift.,b18463b8-5a13-4712-9567-1f2631465aef,2025-02-10T14:44:02Z,j.smith@example.com,2025-02-10T14:44:02Z,j.smith@example.com
+9765e722-f7bd-4e8d-a528-f038b2552ca8,Priority raised after business impact review.,3ed9597b-ab5e-41a8-950a-897f82e208e6,2026-05-18T03:04:43Z,n.rossi@example.com,2026-05-18T03:04:43Z,n.rossi@example.com
+d5dc913c-e0be-4dc0-b0a9-105665a267ad,Assigned to the responsible team.,3ed9597b-ab5e-41a8-950a-897f82e208e6,2026-05-11T07:56:29Z,e.dubois@example.com,2026-05-11T07:56:29Z,e.dubois@example.com
+f97af54b-1ab6-4a19-9da4-b1f25a96bebe,Change scheduled for the next maintenance window.,3ed9597b-ab5e-41a8-950a-897f82e208e6,2026-05-01T20:51:48Z,n.rossi@example.com,2026-05-01T20:51:48Z,n.rossi@example.com
+27663d2f-b7ad-4544-ac05-81d3f5f1ebd8,Priority raised after business impact review.,3ed9597b-ab5e-41a8-950a-897f82e208e6,2026-05-15T07:39:20Z,t.mueller@example.com,2026-05-15T07:39:20Z,t.mueller@example.com
+b1e08317-2a2d-4433-b638-09a1ce868282,Workaround provided in the meantime.,3ed9597b-ab5e-41a8-950a-897f82e208e6,2026-05-16T11:22:50Z,d.garcia@example.com,2026-05-16T11:22:50Z,d.garcia@example.com
+8eb8481d-e1af-4459-9a52-09d8f1994515,Closing after 48h with no further reports.,3ed9597b-ab5e-41a8-950a-897f82e208e6,2026-05-18T07:16:58Z,a.jones@example.com,2026-05-18T07:16:58Z,a.jones@example.com
+dddde099-a963-4e0b-ae38-29bf2160f37c,Workaround provided in the meantime.,3ed9597b-ab5e-41a8-950a-897f82e208e6,2026-05-03T05:46:16Z,l.martin@example.com,2026-05-03T05:46:16Z,l.martin@example.com
+88515fc4-74ad-44ca-80ff-6e01c060e16c,Workaround provided in the meantime.,1ab68a2a-bbc1-4237-85ed-9997050ad34d,2025-11-11T01:07:03Z,s.wilson@example.com,2025-11-11T01:07:03Z,s.wilson@example.com
+d1be3aad-ce1a-4525-9422-4b16dbcdb54f,Change scheduled for the next maintenance window.,1ab68a2a-bbc1-4237-85ed-9997050ad34d,2025-11-12T15:05:34Z,p.novak@example.com,2025-11-12T15:05:34Z,p.novak@example.com
+c3f77528-931e-48ec-a5c2-e6b02db6f900,Priority raised after business impact review.,1ab68a2a-bbc1-4237-85ed-9997050ad34d,2025-11-11T10:40:14Z,d.garcia@example.com,2025-11-11T10:40:14Z,d.garcia@example.com
+303cd608-6118-43e3-9567-62a169daf7dc,Assigned to the responsible team.,1ab68a2a-bbc1-4237-85ed-9997050ad34d,2025-11-09T13:26:49Z,k.patel@example.com,2025-11-09T13:26:49Z,k.patel@example.com
+16458db4-fb0f-4ef2-816e-4f97992c24dc,Priority raised after business impact review.,1ab68a2a-bbc1-4237-85ed-9997050ad34d,2025-11-13T20:15:26Z,j.smith@example.com,2025-11-13T20:15:26Z,j.smith@example.com
+b3a9485f-a9d5-4e5a-962c-9f61f81f1faf,Assigned to the responsible team.,1ab68a2a-bbc1-4237-85ed-9997050ad34d,2025-11-16T12:12:24Z,e.dubois@example.com,2025-11-16T12:12:24Z,e.dubois@example.com
+1cfccf0a-24e6-4314-a462-c19b14f36d1b,Change scheduled for the next maintenance window.,6860b37d-da76-4573-b78b-82e478822ba4,2025-11-05T06:57:16Z,c.silva@example.com,2025-11-05T06:57:16Z,c.silva@example.com
+6eda56c5-59af-4667-9d36-8800a7abc3a2,Assigned to the responsible team.,6860b37d-da76-4573-b78b-82e478822ba4,2025-11-06T07:57:12Z,m.brown@example.com,2025-11-06T07:57:12Z,m.brown@example.com
+44b7e9af-4377-4d97-a335-b18c94422070,Priority raised after business impact review.,6860b37d-da76-4573-b78b-82e478822ba4,2025-11-07T04:46:01Z,n.rossi@example.com,2025-11-07T04:46:01Z,n.rossi@example.com
+5f12c52a-32b0-4fad-82bd-a7878631ce79,Assigned to the responsible team.,6860b37d-da76-4573-b78b-82e478822ba4,2025-11-06T06:12:44Z,m.brown@example.com,2025-11-06T06:12:44Z,m.brown@example.com
+04879c18-1d3c-4275-a18f-ca3014fefd9b,Workaround provided in the meantime.,6860b37d-da76-4573-b78b-82e478822ba4,2025-11-03T02:21:59Z,d.garcia@example.com,2025-11-03T02:21:59Z,d.garcia@example.com
+e265fddb-42a4-4c24-9032-49d4353bdc06,Duplicate of an earlier related ticket.,6860b37d-da76-4573-b78b-82e478822ba4,2025-11-08T01:50:53Z,c.silva@example.com,2025-11-08T01:50:53Z,c.silva@example.com
+48eca480-64f5-4568-abf5-1618d0799cb3,Awaiting user confirmation.,4a21348e-b20b-495c-8e02-c11957126c85,2026-04-17T12:48:52Z,e.dubois@example.com,2026-04-17T12:48:52Z,e.dubois@example.com
+9aa6157b-f99c-485b-af1a-a97e625f45ae,Assigned to the responsible team.,4a21348e-b20b-495c-8e02-c11957126c85,2026-03-08T22:14:10Z,f.haddad@example.com,2026-03-08T22:14:10Z,f.haddad@example.com
+6d3cc42d-c878-449e-b85c-b612aacf19e1,Priority raised after business impact review.,4a21348e-b20b-495c-8e02-c11957126c85,2026-03-26T22:31:28Z,c.silva@example.com,2026-03-26T22:31:28Z,c.silva@example.com
+14808b78-6612-44e6-aff6-408226017431,Assigned to the responsible team.,4a21348e-b20b-495c-8e02-c11957126c85,2026-01-09T11:02:58Z,d.garcia@example.com,2026-01-09T11:02:58Z,d.garcia@example.com
+620d5dee-162e-4560-95a1-07c04d6c8eff,Closing after 48h with no further reports.,4a21348e-b20b-495c-8e02-c11957126c85,2026-05-18T23:36:49Z,a.jones@example.com,2026-05-18T23:36:49Z,a.jones@example.com
+2753ef31-8331-4033-aabe-d0f921283da0,Root cause identified as a config drift.,4a21348e-b20b-495c-8e02-c11957126c85,2026-01-25T04:07:37Z,e.dubois@example.com,2026-01-25T04:07:37Z,e.dubois@example.com
+54ca41c0-eb3c-4851-bd0b-376cffd180de,Duplicate of an earlier related ticket.,4a21348e-b20b-495c-8e02-c11957126c85,2026-05-17T15:55:04Z,d.garcia@example.com,2026-05-17T15:55:04Z,d.garcia@example.com
+b1e15a5b-784a-4782-80dc-910356df8775,Awaiting user confirmation.,8f5a735b-121f-4810-9539-36a4f698d3ba,2026-05-24T10:56:31Z,j.smith@example.com,2026-05-24T10:56:31Z,j.smith@example.com
+5fae8ecb-99a1-4d20-a101-576a4dc7f81a,Change scheduled for the next maintenance window.,8f5a735b-121f-4810-9539-36a4f698d3ba,2026-05-24T13:40:43Z,m.brown@example.com,2026-05-24T13:40:43Z,m.brown@example.com
+057bad02-5bca-43be-b11c-c388234dde9f,Closing after 48h with no further reports.,8f5a735b-121f-4810-9539-36a4f698d3ba,2026-05-24T12:21:37Z,o.olsen@example.com,2026-05-24T12:21:37Z,o.olsen@example.com
+f801e38b-bc96-49a2-9b7f-5535fb00b723,Assigned to the responsible team.,8f5a735b-121f-4810-9539-36a4f698d3ba,2026-05-24T13:33:47Z,d.garcia@example.com,2026-05-24T13:33:47Z,d.garcia@example.com
+d69c22e1-607e-4f6c-89c7-b0a6bd31d69f,Change scheduled for the next maintenance window.,8f5a735b-121f-4810-9539-36a4f698d3ba,2026-05-24T12:25:45Z,f.haddad@example.com,2026-05-24T12:25:45Z,f.haddad@example.com
+21596625-8fb4-47d2-9820-6bbf5f9a2645,Change scheduled for the next maintenance window.,04f150c9-2af2-4cd2-b142-d3fc6f8a91fc,2026-06-09T20:36:03Z,f.haddad@example.com,2026-06-09T20:36:03Z,f.haddad@example.com
+1be59bc4-1044-42ed-a574-b29dd2539e69,Priority raised after business impact review.,04f150c9-2af2-4cd2-b142-d3fc6f8a91fc,2026-05-11T14:04:47Z,n.rossi@example.com,2026-05-11T14:04:47Z,n.rossi@example.com
+39681a74-6a23-40ff-86ac-614513b46290,Root cause identified as a config drift.,04f150c9-2af2-4cd2-b142-d3fc6f8a91fc,2026-02-18T06:45:37Z,r.lee@example.com,2026-02-18T06:45:37Z,r.lee@example.com
+0ba5b47c-5661-4a5e-9219-30e6a47b1f0a,User confirmed the problem is resolved.,04f150c9-2af2-4cd2-b142-d3fc6f8a91fc,2026-05-04T08:51:18Z,l.martin@example.com,2026-05-04T08:51:18Z,l.martin@example.com
+37566d2d-2b65-426c-9365-d89cb779f6ef,Duplicate of an earlier related ticket.,04f150c9-2af2-4cd2-b142-d3fc6f8a91fc,2026-02-28T15:40:47Z,f.haddad@example.com,2026-02-28T15:40:47Z,f.haddad@example.com
+70ceda48-4118-4a90-b108-9904094f3e9c,User reports the issue persists intermittently.,04f150c9-2af2-4cd2-b142-d3fc6f8a91fc,2026-05-29T19:17:10Z,j.smith@example.com,2026-05-29T19:17:10Z,j.smith@example.com
+db532c50-e565-4346-a5f8-de9243d8eebf,Root cause identified as a config drift.,249fb0ab-0cba-4d3f-ab7b-c08b5b06f4a9,2025-06-25T12:51:50Z,n.rossi@example.com,2025-06-25T12:51:50Z,n.rossi@example.com
+9d05fc8a-7554-46e6-b001-d555baac872f,Change scheduled for the next maintenance window.,249fb0ab-0cba-4d3f-ab7b-c08b5b06f4a9,2025-06-24T21:40:48Z,l.martin@example.com,2025-06-24T21:40:48Z,l.martin@example.com
+c1d86ec9-2a4f-4d0a-989a-f580774a5bc6,Root cause identified as a config drift.,249fb0ab-0cba-4d3f-ab7b-c08b5b06f4a9,2025-06-20T00:36:31Z,f.haddad@example.com,2025-06-20T00:36:31Z,f.haddad@example.com
+afa418a2-4e85-4a4b-8e6a-1e21f1b14058,Duplicate of an earlier related ticket.,249fb0ab-0cba-4d3f-ab7b-c08b5b06f4a9,2025-06-24T21:10:15Z,l.martin@example.com,2025-06-24T21:10:15Z,l.martin@example.com
+8b9c5caa-a6fd-4a29-8db8-96b62a330551,Change scheduled for the next maintenance window.,249fb0ab-0cba-4d3f-ab7b-c08b5b06f4a9,2025-06-25T02:36:36Z,c.silva@example.com,2025-06-25T02:36:36Z,c.silva@example.com
+a05c3841-80c1-42c8-bb18-02921f3fb1da,Assigned to the responsible team.,249fb0ab-0cba-4d3f-ab7b-c08b5b06f4a9,2025-06-24T20:36:34Z,a.jones@example.com,2025-06-24T20:36:34Z,a.jones@example.com
+5f33fc22-a91a-4376-a9a0-092e3731c62d,Change scheduled for the next maintenance window.,249fb0ab-0cba-4d3f-ab7b-c08b5b06f4a9,2025-06-22T01:23:18Z,j.smith@example.com,2025-06-22T01:23:18Z,j.smith@example.com
+e91f70ea-30cc-495d-9c1a-f0382d125ea6,User confirmed the problem is resolved.,f0eb74fe-2ba5-4901-8aba-f6efeea53cd4,2026-01-24T20:55:57Z,o.olsen@example.com,2026-01-24T20:55:57Z,o.olsen@example.com
+af103c8b-c875-4792-ba5a-dba42e8910eb,Root cause identified as a config drift.,f0eb74fe-2ba5-4901-8aba-f6efeea53cd4,2026-01-23T20:02:41Z,e.dubois@example.com,2026-01-23T20:02:41Z,e.dubois@example.com
+414b12cc-b52b-4db4-b35d-4e029864993c,Change scheduled for the next maintenance window.,f0eb74fe-2ba5-4901-8aba-f6efeea53cd4,2026-01-22T01:47:26Z,r.lee@example.com,2026-01-22T01:47:26Z,r.lee@example.com
+d09f10e9-17b6-4c81-a9e6-a1a1a8b96c20,Awaiting user confirmation.,f0eb74fe-2ba5-4901-8aba-f6efeea53cd4,2026-01-22T07:47:03Z,k.patel@example.com,2026-01-22T07:47:03Z,k.patel@example.com
+fe9108ea-e7b8-43f8-844a-069985551a0f,Priority raised after business impact review.,f0eb74fe-2ba5-4901-8aba-f6efeea53cd4,2026-01-20T10:20:52Z,r.lee@example.com,2026-01-20T10:20:52Z,r.lee@example.com
+a4efc3c7-e2d2-4dd2-a350-444eea04b04d,Duplicate of an earlier related ticket.,f0eb74fe-2ba5-4901-8aba-f6efeea53cd4,2026-01-27T05:59:38Z,o.olsen@example.com,2026-01-27T05:59:38Z,o.olsen@example.com
+ae24aa41-c167-4e7f-beab-91fe0e89a96f,Duplicate of an earlier related ticket.,f0eb74fe-2ba5-4901-8aba-f6efeea53cd4,2026-01-22T09:09:53Z,f.haddad@example.com,2026-01-22T09:09:53Z,f.haddad@example.com
+c05c68d0-a42d-4cb8-993e-d2cac2d15699,Duplicate of an earlier related ticket.,843f368e-5f79-44a5-add7-9de00a6de2e0,2025-07-27T22:04:10Z,p.novak@example.com,2025-07-27T22:04:10Z,p.novak@example.com
+d231c0d7-e34a-43ee-b653-a51f116b3017,Closing after 48h with no further reports.,843f368e-5f79-44a5-add7-9de00a6de2e0,2025-07-25T20:03:35Z,l.martin@example.com,2025-07-25T20:03:35Z,l.martin@example.com
+aa583e7f-0fbc-42f4-a9f2-82af574afa46,Duplicate of an earlier related ticket.,843f368e-5f79-44a5-add7-9de00a6de2e0,2025-07-26T16:29:58Z,e.dubois@example.com,2025-07-26T16:29:58Z,e.dubois@example.com
+ca9229ea-aea9-4db6-a1a5-45143b015948,Duplicate of an earlier related ticket.,843f368e-5f79-44a5-add7-9de00a6de2e0,2025-07-28T03:59:03Z,c.silva@example.com,2025-07-28T03:59:03Z,c.silva@example.com
+3c32c2f8-d4bb-4546-a870-475eab9442c3,Duplicate of an earlier related ticket.,843f368e-5f79-44a5-add7-9de00a6de2e0,2025-07-30T03:55:17Z,s.wilson@example.com,2025-07-30T03:55:17Z,s.wilson@example.com
+2b8283aa-455c-40e1-b2ea-4426b7d929f5,User reports the issue persists intermittently.,843f368e-5f79-44a5-add7-9de00a6de2e0,2025-07-28T22:25:50Z,c.silva@example.com,2025-07-28T22:25:50Z,c.silva@example.com
+299989d9-dcce-4e2e-a038-eeacf40b8304,User confirmed the problem is resolved.,843f368e-5f79-44a5-add7-9de00a6de2e0,2025-07-30T01:47:38Z,r.lee@example.com,2025-07-30T01:47:38Z,r.lee@example.com
+19069939-d6f3-4933-b62d-8f128af11eab,Change scheduled for the next maintenance window.,8e7d939c-9970-4912-82bf-9388dbd3682d,2025-09-17T05:06:22Z,p.novak@example.com,2025-09-17T05:06:22Z,p.novak@example.com
+06aa6384-39cc-44aa-a621-c54c2bc847ff,Awaiting user confirmation.,8e7d939c-9970-4912-82bf-9388dbd3682d,2025-09-28T04:42:53Z,s.wilson@example.com,2025-09-28T04:42:53Z,s.wilson@example.com
+664812a4-5d95-49e2-8979-85942a28fb8c,Duplicate of an earlier related ticket.,8e7d939c-9970-4912-82bf-9388dbd3682d,2025-09-28T01:55:30Z,a.jones@example.com,2025-09-28T01:55:30Z,a.jones@example.com
+c15c58ed-d03a-4314-9c52-5b5ee07599d8,Duplicate of an earlier related ticket.,8e7d939c-9970-4912-82bf-9388dbd3682d,2025-09-19T07:29:24Z,r.lee@example.com,2025-09-19T07:29:24Z,r.lee@example.com
+70c9a5c5-53fc-469c-a89a-a7e28f8266bc,Assigned to the responsible team.,8e7d939c-9970-4912-82bf-9388dbd3682d,2025-09-28T11:29:46Z,r.lee@example.com,2025-09-28T11:29:46Z,r.lee@example.com
+8db449e5-52d0-4a46-8f02-658054178da6,Root cause identified as a config drift.,8e7d939c-9970-4912-82bf-9388dbd3682d,2025-09-23T22:11:31Z,s.wilson@example.com,2025-09-23T22:11:31Z,s.wilson@example.com
+8c556f19-4c2f-4fa4-844f-206fdf1549cd,Change scheduled for the next maintenance window.,8e7d939c-9970-4912-82bf-9388dbd3682d,2025-10-01T13:04:13Z,l.martin@example.com,2025-10-01T13:04:13Z,l.martin@example.com
+76b7a076-dee5-4367-b7c3-ced011d3b87a,User confirmed the problem is resolved.,0fea7f75-bd8c-49ce-956e-f8c5c13420d3,2026-03-04T01:09:54Z,f.haddad@example.com,2026-03-04T01:09:54Z,f.haddad@example.com
+d754459e-7302-4adf-8b68-99df274c98b7,Assigned to the responsible team.,0fea7f75-bd8c-49ce-956e-f8c5c13420d3,2026-05-27T13:28:24Z,f.haddad@example.com,2026-05-27T13:28:24Z,f.haddad@example.com
+2bcedb48-2fae-46ed-9e86-422b534fba7c,Closing after 48h with no further reports.,0fea7f75-bd8c-49ce-956e-f8c5c13420d3,2025-05-09T18:53:35Z,j.smith@example.com,2025-05-09T18:53:35Z,j.smith@example.com
+df6d5d03-93be-4519-9f01-1f710786d220,Assigned to the responsible team.,0fea7f75-bd8c-49ce-956e-f8c5c13420d3,2025-09-25T00:19:22Z,j.smith@example.com,2025-09-25T00:19:22Z,j.smith@example.com
+1398e1d7-b397-4ab0-9a4f-5db9f42cf8da,Awaiting user confirmation.,0fea7f75-bd8c-49ce-956e-f8c5c13420d3,2025-03-08T06:08:32Z,j.smith@example.com,2025-03-08T06:08:32Z,j.smith@example.com
+38331be4-18f2-476b-81ab-8a524d7113a2,Assigned to the responsible team.,0fea7f75-bd8c-49ce-956e-f8c5c13420d3,2025-07-25T00:36:19Z,n.rossi@example.com,2025-07-25T00:36:19Z,n.rossi@example.com
+890dfa23-5993-44ee-83cb-f1858f31f101,Workaround provided in the meantime.,6b13001f-3107-46f7-a50c-c8a648bbf47c,2026-02-21T11:30:11Z,m.brown@example.com,2026-02-21T11:30:11Z,m.brown@example.com
+1071a2d9-4cb9-432e-8af6-69e4e5e2c4ff,Change scheduled for the next maintenance window.,6b13001f-3107-46f7-a50c-c8a648bbf47c,2026-02-21T14:39:07Z,o.olsen@example.com,2026-02-21T14:39:07Z,o.olsen@example.com
+afa6597d-0b59-4ef1-8527-3f198ca8d34c,Duplicate of an earlier related ticket.,6b13001f-3107-46f7-a50c-c8a648bbf47c,2026-02-19T14:08:42Z,n.rossi@example.com,2026-02-19T14:08:42Z,n.rossi@example.com
+7fb54014-1a99-4def-a381-37480fa3824a,User reports the issue persists intermittently.,6b13001f-3107-46f7-a50c-c8a648bbf47c,2026-02-19T23:37:40Z,a.jones@example.com,2026-02-19T23:37:40Z,a.jones@example.com
+78236f33-eb74-4b6e-a9fd-8f639f667d87,Priority raised after business impact review.,6b13001f-3107-46f7-a50c-c8a648bbf47c,2026-02-19T13:41:58Z,e.dubois@example.com,2026-02-19T13:41:58Z,e.dubois@example.com
+e91bd70d-0aef-4375-90cc-9e75c0bcd34f,Duplicate of an earlier related ticket.,6b13001f-3107-46f7-a50c-c8a648bbf47c,2026-02-20T18:01:46Z,n.rossi@example.com,2026-02-20T18:01:46Z,n.rossi@example.com
+ddfdafc1-0b96-414d-8728-eddf37ee6469,Root cause identified as a config drift.,6b13001f-3107-46f7-a50c-c8a648bbf47c,2026-02-19T19:31:55Z,d.garcia@example.com,2026-02-19T19:31:55Z,d.garcia@example.com
+e4f90bcf-0eac-486b-a186-907d1b69fb29,Awaiting user confirmation.,cf64093a-19b4-431e-83eb-f5cf96d22e2a,2026-06-17T19:09:03Z,e.dubois@example.com,2026-06-17T19:09:03Z,e.dubois@example.com
+d7ccaac6-cdef-44de-a31e-9bad2235e8b1,Change scheduled for the next maintenance window.,cf64093a-19b4-431e-83eb-f5cf96d22e2a,2026-06-16T05:53:44Z,e.dubois@example.com,2026-06-16T05:53:44Z,e.dubois@example.com
+ef6b1719-32ff-4b0b-9b6b-0e27878fba00,User confirmed the problem is resolved.,cf64093a-19b4-431e-83eb-f5cf96d22e2a,2026-06-19T04:25:34Z,l.martin@example.com,2026-06-19T04:25:34Z,l.martin@example.com
+2400ee3e-2e71-443a-a212-4609d4f7682c,Change scheduled for the next maintenance window.,cf64093a-19b4-431e-83eb-f5cf96d22e2a,2026-06-11T10:17:11Z,j.smith@example.com,2026-06-11T10:17:11Z,j.smith@example.com
+fab9fc2a-02d1-4381-9f62-d7f34311a57f,Root cause identified as a config drift.,cf64093a-19b4-431e-83eb-f5cf96d22e2a,2026-06-12T08:52:13Z,p.novak@example.com,2026-06-12T08:52:13Z,p.novak@example.com
+4f142ab8-b779-49aa-b553-ec2f3c6f8311,User confirmed the problem is resolved.,cf64093a-19b4-431e-83eb-f5cf96d22e2a,2026-06-18T00:36:34Z,c.silva@example.com,2026-06-18T00:36:34Z,c.silva@example.com
+7542c27b-3d90-44e6-8247-4e1fde94e55e,Change scheduled for the next maintenance window.,cf64093a-19b4-431e-83eb-f5cf96d22e2a,2026-06-12T17:45:19Z,f.haddad@example.com,2026-06-12T17:45:19Z,f.haddad@example.com
+dddea753-4517-49ed-9d1d-5d5258b1b736,Duplicate of an earlier related ticket.,83100760-9d39-4278-a569-8ceb5eb31ec0,2026-01-06T17:30:29Z,k.patel@example.com,2026-01-06T17:30:29Z,k.patel@example.com
+4260fe77-5dcf-4291-8a3e-67e8364a1df1,User confirmed the problem is resolved.,83100760-9d39-4278-a569-8ceb5eb31ec0,2026-01-15T20:51:11Z,a.jones@example.com,2026-01-15T20:51:11Z,a.jones@example.com
+dc3218e9-bde2-4676-9c52-889f50adfe2f,User reports the issue persists intermittently.,83100760-9d39-4278-a569-8ceb5eb31ec0,2026-01-12T07:29:01Z,n.rossi@example.com,2026-01-12T07:29:01Z,n.rossi@example.com
+dcaa44a9-df7f-4996-8efd-4d87d5f7abcf,Priority raised after business impact review.,83100760-9d39-4278-a569-8ceb5eb31ec0,2026-01-09T06:40:29Z,f.haddad@example.com,2026-01-09T06:40:29Z,f.haddad@example.com
+cf278482-8e6d-4561-a4ec-ab5b87efc760,Duplicate of an earlier related ticket.,83100760-9d39-4278-a569-8ceb5eb31ec0,2026-01-07T12:07:39Z,p.novak@example.com,2026-01-07T12:07:39Z,p.novak@example.com
+21d1423b-33ff-4431-88ee-831b32bd2e26,Awaiting user confirmation.,83100760-9d39-4278-a569-8ceb5eb31ec0,2026-01-06T21:17:18Z,k.patel@example.com,2026-01-06T21:17:18Z,k.patel@example.com
+b35a0d9f-95ed-47fd-b8c2-b21313faadea,Priority raised after business impact review.,83100760-9d39-4278-a569-8ceb5eb31ec0,2026-01-07T19:52:34Z,e.dubois@example.com,2026-01-07T19:52:34Z,e.dubois@example.com
+1e52a0e7-6604-4180-bb67-48c5480bb07b,Priority raised after business impact review.,19862b49-73e6-4496-a7e2-d762f8484b8d,2025-02-16T06:14:20Z,k.patel@example.com,2025-02-16T06:14:20Z,k.patel@example.com
+d03fec8e-c10d-4a29-8748-ef28af268b62,Awaiting user confirmation.,19862b49-73e6-4496-a7e2-d762f8484b8d,2025-02-11T11:45:39Z,n.rossi@example.com,2025-02-11T11:45:39Z,n.rossi@example.com
+091a1c86-cd9a-474c-845f-ca430f58b9ed,Root cause identified as a config drift.,19862b49-73e6-4496-a7e2-d762f8484b8d,2025-02-14T02:51:53Z,m.brown@example.com,2025-02-14T02:51:53Z,m.brown@example.com
+7033baf2-8736-4de9-9c1d-9a01101109a4,Workaround provided in the meantime.,19862b49-73e6-4496-a7e2-d762f8484b8d,2025-02-11T22:01:36Z,n.rossi@example.com,2025-02-11T22:01:36Z,n.rossi@example.com
+5c5582ee-395c-4801-ae7a-ed10058e6c48,Awaiting user confirmation.,19862b49-73e6-4496-a7e2-d762f8484b8d,2025-02-12T17:36:15Z,m.brown@example.com,2025-02-12T17:36:15Z,m.brown@example.com
+48adbc0d-64d8-4a3a-9a92-f7af4cb5f4c5,Priority raised after business impact review.,19862b49-73e6-4496-a7e2-d762f8484b8d,2025-02-12T09:43:00Z,l.martin@example.com,2025-02-12T09:43:00Z,l.martin@example.com
+40106249-4101-47ae-ac42-e7da6715bbb2,Assigned to the responsible team.,19862b49-73e6-4496-a7e2-d762f8484b8d,2025-02-15T19:15:53Z,f.haddad@example.com,2025-02-15T19:15:53Z,f.haddad@example.com
+f145894c-51fd-416e-9244-8032f36becc6,User confirmed the problem is resolved.,19862b49-73e6-4496-a7e2-d762f8484b8d,2025-02-15T11:04:51Z,s.wilson@example.com,2025-02-15T11:04:51Z,s.wilson@example.com
+5508c0d2-c553-4325-bbd0-5e1cd3a23c61,Change scheduled for the next maintenance window.,f0ed4c00-4042-4c8c-8f6d-a12b38816dca,2025-10-08T19:26:46Z,c.silva@example.com,2025-10-08T19:26:46Z,c.silva@example.com
+5aaa14f1-c037-4bd1-a3ca-69b1f2e29915,Priority raised after business impact review.,f0ed4c00-4042-4c8c-8f6d-a12b38816dca,2026-01-27T18:48:53Z,e.dubois@example.com,2026-01-27T18:48:53Z,e.dubois@example.com
+5e5e1cf8-a647-4e99-be90-190e146f7269,User confirmed the problem is resolved.,f0ed4c00-4042-4c8c-8f6d-a12b38816dca,2025-08-31T09:49:44Z,s.wilson@example.com,2025-08-31T09:49:44Z,s.wilson@example.com
+8686b149-286f-4772-a468-88123a7231fb,Assigned to the responsible team.,f0ed4c00-4042-4c8c-8f6d-a12b38816dca,2026-01-01T08:55:54Z,m.brown@example.com,2026-01-01T08:55:54Z,m.brown@example.com
+83776b42-7eb0-4e5e-b7a3-a615bc8f5665,Duplicate of an earlier related ticket.,f0ed4c00-4042-4c8c-8f6d-a12b38816dca,2025-08-11T02:32:29Z,s.wilson@example.com,2025-08-11T02:32:29Z,s.wilson@example.com
+8d866fc3-3592-4c70-8896-dff1c8158edd,User confirmed the problem is resolved.,f0ed4c00-4042-4c8c-8f6d-a12b38816dca,2026-02-16T13:08:17Z,t.mueller@example.com,2026-02-16T13:08:17Z,t.mueller@example.com
+c129106d-636c-4fb0-aa39-6b2f7ab7b213,Assigned to the responsible team.,f0ed4c00-4042-4c8c-8f6d-a12b38816dca,2025-10-01T18:10:40Z,e.dubois@example.com,2025-10-01T18:10:40Z,e.dubois@example.com
+74b1f32c-5b13-415a-bbe7-dc08a1967e77,User reports the issue persists intermittently.,16dd7778-8ae3-45a9-b91a-bce811d0bf86,2026-06-06T14:15:56Z,s.wilson@example.com,2026-06-06T14:15:56Z,s.wilson@example.com
+d5762f76-a639-4300-ae2f-2946581ac111,User reports the issue persists intermittently.,16dd7778-8ae3-45a9-b91a-bce811d0bf86,2026-06-17T13:11:32Z,c.silva@example.com,2026-06-17T13:11:32Z,c.silva@example.com
+83ce78f9-0ae2-4df8-9637-6b5ddc6e8dab,Assigned to the responsible team.,16dd7778-8ae3-45a9-b91a-bce811d0bf86,2026-06-14T08:47:06Z,n.rossi@example.com,2026-06-14T08:47:06Z,n.rossi@example.com
+5675afe8-4fab-4f97-a23d-1cf84dfd7363,User confirmed the problem is resolved.,16dd7778-8ae3-45a9-b91a-bce811d0bf86,2026-06-12T22:51:59Z,j.smith@example.com,2026-06-12T22:51:59Z,j.smith@example.com
+d112967f-7096-45d0-a891-7ed56ed72eba,Change scheduled for the next maintenance window.,16dd7778-8ae3-45a9-b91a-bce811d0bf86,2026-06-16T05:23:02Z,s.wilson@example.com,2026-06-16T05:23:02Z,s.wilson@example.com
+06ede17c-607a-4c4e-a074-2d57e89f8b4f,Assigned to the responsible team.,16dd7778-8ae3-45a9-b91a-bce811d0bf86,2026-06-10T06:15:10Z,l.martin@example.com,2026-06-10T06:15:10Z,l.martin@example.com
+5a5c1bd8-c6c9-41ba-b28b-f2982b029322,Priority raised after business impact review.,16dd7778-8ae3-45a9-b91a-bce811d0bf86,2026-06-04T02:14:54Z,r.lee@example.com,2026-06-04T02:14:54Z,r.lee@example.com
+9bf5d0a4-dd07-4d7c-9885-43e0a32b1f20,Duplicate of an earlier related ticket.,16dd7778-8ae3-45a9-b91a-bce811d0bf86,2026-06-06T11:50:06Z,d.garcia@example.com,2026-06-06T11:50:06Z,d.garcia@example.com
+87d0acbb-03cc-4767-9bbe-d5fd64149988,Workaround provided in the meantime.,efcc5d3c-d8b4-4430-9091-113e6e96190d,2026-02-28T13:11:55Z,a.jones@example.com,2026-02-28T13:11:55Z,a.jones@example.com
+85feb04d-a26c-45c8-bcd9-3813ef30d7c8,Assigned to the responsible team.,efcc5d3c-d8b4-4430-9091-113e6e96190d,2026-03-26T11:57:27Z,l.martin@example.com,2026-03-26T11:57:27Z,l.martin@example.com
+0b0a937e-e676-4215-8cf0-c142ea9963a1,User confirmed the problem is resolved.,efcc5d3c-d8b4-4430-9091-113e6e96190d,2026-06-09T16:42:48Z,j.smith@example.com,2026-06-09T16:42:48Z,j.smith@example.com
+f2ce8680-08f8-4d52-9ce6-e4c5a434739d,Duplicate of an earlier related ticket.,efcc5d3c-d8b4-4430-9091-113e6e96190d,2026-04-30T05:34:25Z,e.dubois@example.com,2026-04-30T05:34:25Z,e.dubois@example.com
+db7d401a-ee82-40e8-8c82-2a2e4d1b99d5,Priority raised after business impact review.,efcc5d3c-d8b4-4430-9091-113e6e96190d,2026-04-08T01:28:36Z,c.silva@example.com,2026-04-08T01:28:36Z,c.silva@example.com
+95a38c8a-dc87-43bf-9ecf-f246eb8f60b1,Awaiting user confirmation.,efcc5d3c-d8b4-4430-9091-113e6e96190d,2026-02-22T14:13:49Z,p.novak@example.com,2026-02-22T14:13:49Z,p.novak@example.com
+20c42c85-6ddf-449e-8a6f-965e1d189449,Closing after 48h with no further reports.,efcc5d3c-d8b4-4430-9091-113e6e96190d,2026-06-15T18:24:25Z,k.patel@example.com,2026-06-15T18:24:25Z,k.patel@example.com
+6a725849-a882-4cbd-84e4-052d8b21906a,Duplicate of an earlier related ticket.,efcc5d3c-d8b4-4430-9091-113e6e96190d,2026-02-13T12:20:50Z,s.wilson@example.com,2026-02-13T12:20:50Z,s.wilson@example.com
+1d67817e-1a65-45e4-be94-44dce1c868d8,User confirmed the problem is resolved.,246eb684-71ee-40e2-9948-c44c6a99d302,2025-12-06T01:51:54Z,m.brown@example.com,2025-12-06T01:51:54Z,m.brown@example.com
+d6ec07fa-54c2-47e4-b166-58a218feaad3,Duplicate of an earlier related ticket.,246eb684-71ee-40e2-9948-c44c6a99d302,2026-03-11T06:38:51Z,a.jones@example.com,2026-03-11T06:38:51Z,a.jones@example.com
+edd87d0f-3281-4fd0-a748-7ce6186aebe3,Workaround provided in the meantime.,246eb684-71ee-40e2-9948-c44c6a99d302,2025-09-23T18:51:10Z,n.rossi@example.com,2025-09-23T18:51:10Z,n.rossi@example.com
+bb9a3285-87b1-4c42-8532-6845e2c2d599,Duplicate of an earlier related ticket.,246eb684-71ee-40e2-9948-c44c6a99d302,2026-01-05T16:52:42Z,a.jones@example.com,2026-01-05T16:52:42Z,a.jones@example.com
+3af23b52-c380-4b61-bd81-e378a0e90457,Duplicate of an earlier related ticket.,246eb684-71ee-40e2-9948-c44c6a99d302,2025-12-04T18:02:35Z,o.olsen@example.com,2025-12-04T18:02:35Z,o.olsen@example.com
+431edf32-8e79-4325-8aa3-adb12db17eca,Priority raised after business impact review.,3a7bca94-8742-4931-96df-02268bd6e238,2025-09-12T20:08:26Z,o.olsen@example.com,2025-09-12T20:08:26Z,o.olsen@example.com
+f95cb0f3-104f-47ed-abb9-34404f071b21,Root cause identified as a config drift.,3a7bca94-8742-4931-96df-02268bd6e238,2025-09-14T01:33:52Z,m.brown@example.com,2025-09-14T01:33:52Z,m.brown@example.com
+d7d1072e-8c17-43f8-b4c1-6ff8510680b8,Root cause identified as a config drift.,3a7bca94-8742-4931-96df-02268bd6e238,2025-09-19T15:30:17Z,c.silva@example.com,2025-09-19T15:30:17Z,c.silva@example.com
+4cd839ca-34cb-4e9b-b214-462844dcbc36,Root cause identified as a config drift.,3a7bca94-8742-4931-96df-02268bd6e238,2025-09-13T05:37:59Z,c.silva@example.com,2025-09-13T05:37:59Z,c.silva@example.com
+ad95881c-7d87-4636-b424-6033810a6dd2,Root cause identified as a config drift.,3a7bca94-8742-4931-96df-02268bd6e238,2025-09-13T23:25:35Z,s.wilson@example.com,2025-09-13T23:25:35Z,s.wilson@example.com
+384df686-820d-4d92-8ff4-bf37c7659fef,Root cause identified as a config drift.,3a7bca94-8742-4931-96df-02268bd6e238,2025-09-12T10:56:12Z,f.haddad@example.com,2025-09-12T10:56:12Z,f.haddad@example.com
+e900b506-d5a6-4661-9c7b-04019ad89381,Awaiting user confirmation.,3a7bca94-8742-4931-96df-02268bd6e238,2025-09-22T13:10:31Z,l.martin@example.com,2025-09-22T13:10:31Z,l.martin@example.com
+9ce638f4-19a1-43d5-9db3-54677f9f91ff,Closing after 48h with no further reports.,85495491-087d-433d-8bc7-55e8e900b34c,2026-05-23T13:04:18Z,d.garcia@example.com,2026-05-23T13:04:18Z,d.garcia@example.com
+10cb8c17-695b-41f0-af64-ae46253c87fc,Change scheduled for the next maintenance window.,85495491-087d-433d-8bc7-55e8e900b34c,2026-05-28T02:34:25Z,l.martin@example.com,2026-05-28T02:34:25Z,l.martin@example.com
+2cd34663-c82b-4511-b9c5-b949493d62dc,User confirmed the problem is resolved.,85495491-087d-433d-8bc7-55e8e900b34c,2026-05-22T21:34:07Z,k.patel@example.com,2026-05-22T21:34:07Z,k.patel@example.com
+756faf16-bad6-4de3-966e-29ccd7537f1e,Change scheduled for the next maintenance window.,85495491-087d-433d-8bc7-55e8e900b34c,2026-05-23T05:19:19Z,r.lee@example.com,2026-05-23T05:19:19Z,r.lee@example.com
+fee72197-76f5-4f7f-b3cd-cd721e0b41c9,User confirmed the problem is resolved.,85495491-087d-433d-8bc7-55e8e900b34c,2026-05-25T02:20:12Z,f.haddad@example.com,2026-05-25T02:20:12Z,f.haddad@example.com
+f8528052-aa89-477a-b6f4-5096e90706ee,Awaiting user confirmation.,85495491-087d-433d-8bc7-55e8e900b34c,2026-05-24T01:26:52Z,k.patel@example.com,2026-05-24T01:26:52Z,k.patel@example.com
+ef3abb1c-711a-49b2-a0b7-38c3a4b1be71,Priority raised after business impact review.,85495491-087d-433d-8bc7-55e8e900b34c,2026-05-27T14:26:06Z,m.brown@example.com,2026-05-27T14:26:06Z,m.brown@example.com
+ba82d2fd-80c2-49b7-bd39-f70e5732ed39,User confirmed the problem is resolved.,9b02fd3e-b2a7-4bb7-b8f2-bc438b0ce090,2025-09-07T23:55:34Z,j.smith@example.com,2025-09-07T23:55:34Z,j.smith@example.com
+cb33ce64-80be-41ba-939a-d76509eb331c,Priority raised after business impact review.,9b02fd3e-b2a7-4bb7-b8f2-bc438b0ce090,2025-09-02T14:04:33Z,l.martin@example.com,2025-09-02T14:04:33Z,l.martin@example.com
+6b977cf7-99a4-422e-ac6f-b8267da0049b,Priority raised after business impact review.,9b02fd3e-b2a7-4bb7-b8f2-bc438b0ce090,2025-09-04T11:21:05Z,e.dubois@example.com,2025-09-04T11:21:05Z,e.dubois@example.com
+ececece4-8c24-446c-a05e-321bbca09929,Duplicate of an earlier related ticket.,9b02fd3e-b2a7-4bb7-b8f2-bc438b0ce090,2025-09-15T10:01:26Z,t.mueller@example.com,2025-09-15T10:01:26Z,t.mueller@example.com
+b516a43b-d256-4699-91e1-422414dfed63,Workaround provided in the meantime.,9b02fd3e-b2a7-4bb7-b8f2-bc438b0ce090,2025-09-03T21:07:34Z,p.novak@example.com,2025-09-03T21:07:34Z,p.novak@example.com
+a0538b07-e141-480f-bfd0-0a0c5acde954,Duplicate of an earlier related ticket.,9b02fd3e-b2a7-4bb7-b8f2-bc438b0ce090,2025-09-08T06:18:57Z,l.martin@example.com,2025-09-08T06:18:57Z,l.martin@example.com
+eb497c18-5c09-41f1-a93d-a71f2efa2d4a,Closing after 48h with no further reports.,9b02fd3e-b2a7-4bb7-b8f2-bc438b0ce090,2025-09-11T11:26:08Z,p.novak@example.com,2025-09-11T11:26:08Z,p.novak@example.com
+8f229d73-1555-4a44-9ba5-58022dae0bde,User confirmed the problem is resolved.,acf9102a-23ec-43d1-bfcb-9a57eb61c3bf,2025-05-31T10:46:53Z,t.mueller@example.com,2025-05-31T10:46:53Z,t.mueller@example.com
+2ad904a3-5a1e-4cad-94d9-f745ce92fa15,Root cause identified as a config drift.,acf9102a-23ec-43d1-bfcb-9a57eb61c3bf,2025-06-05T21:53:17Z,s.wilson@example.com,2025-06-05T21:53:17Z,s.wilson@example.com
+db9ea26a-f9f3-42eb-b7a1-c10aa762fc4c,Awaiting user confirmation.,acf9102a-23ec-43d1-bfcb-9a57eb61c3bf,2025-06-05T07:12:38Z,k.patel@example.com,2025-06-05T07:12:38Z,k.patel@example.com
+7bdc53ac-d3b3-463e-ac3e-91c9e69eead8,Awaiting user confirmation.,acf9102a-23ec-43d1-bfcb-9a57eb61c3bf,2025-06-01T14:08:28Z,n.rossi@example.com,2025-06-01T14:08:28Z,n.rossi@example.com
+2cc0e9b7-83e9-48a8-85e3-c0ef59285340,Change scheduled for the next maintenance window.,acf9102a-23ec-43d1-bfcb-9a57eb61c3bf,2025-05-30T02:18:38Z,j.smith@example.com,2025-05-30T02:18:38Z,j.smith@example.com
+eda53286-c19a-4872-b3eb-639540e7efeb,Closing after 48h with no further reports.,acf9102a-23ec-43d1-bfcb-9a57eb61c3bf,2025-06-06T07:06:36Z,f.haddad@example.com,2025-06-06T07:06:36Z,f.haddad@example.com
+41874e5c-68c4-4f03-b9e7-51a09601bf2e,Awaiting user confirmation.,a0ae074c-daf7-45cd-8e44-15f48c2feaf5,2025-07-11T06:35:35Z,s.wilson@example.com,2025-07-11T06:35:35Z,s.wilson@example.com
+0a1052c3-6cc5-4f07-9b76-c1b6c2b4a50f,User confirmed the problem is resolved.,a0ae074c-daf7-45cd-8e44-15f48c2feaf5,2025-07-11T03:39:48Z,f.haddad@example.com,2025-07-11T03:39:48Z,f.haddad@example.com
+137b07b9-9625-4f1b-8135-53e16c51c3d2,Assigned to the responsible team.,a0ae074c-daf7-45cd-8e44-15f48c2feaf5,2025-07-07T01:08:15Z,d.garcia@example.com,2025-07-07T01:08:15Z,d.garcia@example.com
+8e519c60-08b4-4a56-af3e-a15721d0140a,Root cause identified as a config drift.,a0ae074c-daf7-45cd-8e44-15f48c2feaf5,2025-07-11T22:36:20Z,t.mueller@example.com,2025-07-11T22:36:20Z,t.mueller@example.com
+b8ad75a1-f5a2-4488-b2e6-caa48a750b76,Priority raised after business impact review.,a0ae074c-daf7-45cd-8e44-15f48c2feaf5,2025-07-14T05:34:49Z,p.novak@example.com,2025-07-14T05:34:49Z,p.novak@example.com
+45ce2915-47b7-4449-8000-c03a696e3524,Duplicate of an earlier related ticket.,a0ae074c-daf7-45cd-8e44-15f48c2feaf5,2025-07-08T07:00:22Z,d.garcia@example.com,2025-07-08T07:00:22Z,d.garcia@example.com
+266c9e49-1af9-4705-8862-547238b8caa8,Root cause identified as a config drift.,a0ae074c-daf7-45cd-8e44-15f48c2feaf5,2025-07-08T05:14:00Z,r.lee@example.com,2025-07-08T05:14:00Z,r.lee@example.com
+b53dff6d-8ff7-4ad4-ae7c-a1a1a8d33e24,Awaiting user confirmation.,a0ae074c-daf7-45cd-8e44-15f48c2feaf5,2025-07-03T08:30:59Z,m.brown@example.com,2025-07-03T08:30:59Z,m.brown@example.com
+9d178e13-b4f5-4092-be34-681da55d532e,Workaround provided in the meantime.,d1529a29-b392-41c7-91ba-b4c6329cdc50,2026-05-21T18:18:48Z,o.olsen@example.com,2026-05-21T18:18:48Z,o.olsen@example.com
+b1da5a6f-08f5-412a-8c86-eeca0af482f9,User reports the issue persists intermittently.,d1529a29-b392-41c7-91ba-b4c6329cdc50,2026-05-29T08:22:29Z,r.lee@example.com,2026-05-29T08:22:29Z,r.lee@example.com
+e28598af-04a4-446d-bc5b-2384c54295d6,Root cause identified as a config drift.,d1529a29-b392-41c7-91ba-b4c6329cdc50,2026-05-20T21:51:25Z,p.novak@example.com,2026-05-20T21:51:25Z,p.novak@example.com
+1a3f39f5-00ea-403c-8006-26129c8fa548,Closing after 48h with no further reports.,d1529a29-b392-41c7-91ba-b4c6329cdc50,2026-05-24T02:24:49Z,p.novak@example.com,2026-05-24T02:24:49Z,p.novak@example.com
+7a56b8ee-71cd-4eeb-9a71-dd45b327fd30,User reports the issue persists intermittently.,d1529a29-b392-41c7-91ba-b4c6329cdc50,2026-05-22T10:19:28Z,c.silva@example.com,2026-05-22T10:19:28Z,c.silva@example.com
+d666c7df-79a8-4d02-a24b-37d4dbf97356,Assigned to the responsible team.,d1529a29-b392-41c7-91ba-b4c6329cdc50,2026-05-21T20:20:55Z,k.patel@example.com,2026-05-21T20:20:55Z,k.patel@example.com
+68e0cce3-7a2a-4bd4-b868-3139ae14c704,Assigned to the responsible team.,500f023d-329c-4127-98f2-4f553ba2468b,2025-11-25T12:31:19Z,p.novak@example.com,2025-11-25T12:31:19Z,p.novak@example.com
+591ac5fb-8365-4c7b-af2b-c61c46822927,Closing after 48h with no further reports.,500f023d-329c-4127-98f2-4f553ba2468b,2025-11-22T13:03:28Z,m.brown@example.com,2025-11-22T13:03:28Z,m.brown@example.com
+b7f6c6ae-696f-4d7c-bc12-da1903855b8d,Priority raised after business impact review.,500f023d-329c-4127-98f2-4f553ba2468b,2025-11-18T17:24:42Z,t.mueller@example.com,2025-11-18T17:24:42Z,t.mueller@example.com
+5339647f-f0c9-48e1-a504-2aeb361a39ae,User reports the issue persists intermittently.,500f023d-329c-4127-98f2-4f553ba2468b,2025-11-24T17:18:42Z,o.olsen@example.com,2025-11-24T17:18:42Z,o.olsen@example.com
+4b6f9e1e-99ca-4c79-926a-c899338db5b9,Awaiting user confirmation.,500f023d-329c-4127-98f2-4f553ba2468b,2025-11-17T22:59:17Z,l.martin@example.com,2025-11-17T22:59:17Z,l.martin@example.com
+363187df-896f-4873-abf9-8446edca0bb3,Assigned to the responsible team.,500f023d-329c-4127-98f2-4f553ba2468b,2025-11-29T12:36:54Z,p.novak@example.com,2025-11-29T12:36:54Z,p.novak@example.com
+05a3d380-eb6b-4d8a-9d40-4ce7f8a80a3e,Assigned to the responsible team.,f785d30f-ba7f-4d2d-b11f-a7dd018ad834,2026-02-22T21:18:34Z,c.silva@example.com,2026-02-22T21:18:34Z,c.silva@example.com
+5c539b4a-b8cd-4b10-8e23-e91272f16de9,User confirmed the problem is resolved.,f785d30f-ba7f-4d2d-b11f-a7dd018ad834,2026-04-29T10:37:03Z,n.rossi@example.com,2026-04-29T10:37:03Z,n.rossi@example.com
+895c48ba-ea15-4274-a460-b834b06b1c41,Closing after 48h with no further reports.,f785d30f-ba7f-4d2d-b11f-a7dd018ad834,2026-01-28T11:37:20Z,n.rossi@example.com,2026-01-28T11:37:20Z,n.rossi@example.com
+a6010376-73cb-4a82-94fa-d4338ea3db38,Awaiting user confirmation.,f785d30f-ba7f-4d2d-b11f-a7dd018ad834,2026-05-20T07:20:46Z,n.rossi@example.com,2026-05-20T07:20:46Z,n.rossi@example.com
+38a5387d-ecc2-4c78-8a6c-874633e10b60,Change scheduled for the next maintenance window.,f785d30f-ba7f-4d2d-b11f-a7dd018ad834,2026-04-20T15:44:11Z,d.garcia@example.com,2026-04-20T15:44:11Z,d.garcia@example.com
+a0c21114-2aab-4904-9411-1eed4f4f21e8,Change scheduled for the next maintenance window.,f785d30f-ba7f-4d2d-b11f-a7dd018ad834,2026-03-12T04:35:39Z,t.mueller@example.com,2026-03-12T04:35:39Z,t.mueller@example.com
+17132c42-4617-4e11-89b6-f218aaaa3b87,Workaround provided in the meantime.,e61b6647-1610-4042-8169-7326d70be8d8,2025-05-23T09:49:12Z,e.dubois@example.com,2025-05-23T09:49:12Z,e.dubois@example.com
+89be065c-b241-412b-9ba2-0af5e376c6cc,Assigned to the responsible team.,e61b6647-1610-4042-8169-7326d70be8d8,2025-05-19T20:00:18Z,j.smith@example.com,2025-05-19T20:00:18Z,j.smith@example.com
+61613b77-7d6e-4a65-bffb-5dda1c94a9e5,Assigned to the responsible team.,e61b6647-1610-4042-8169-7326d70be8d8,2025-05-23T12:58:11Z,d.garcia@example.com,2025-05-23T12:58:11Z,d.garcia@example.com
+84d41910-f848-4461-9bb9-845507c1d5f1,Assigned to the responsible team.,e61b6647-1610-4042-8169-7326d70be8d8,2025-05-16T00:48:07Z,n.rossi@example.com,2025-05-16T00:48:07Z,n.rossi@example.com
+436cc1f0-91aa-4919-a0d8-f657774df092,Root cause identified as a config drift.,e61b6647-1610-4042-8169-7326d70be8d8,2025-05-14T15:24:02Z,c.silva@example.com,2025-05-14T15:24:02Z,c.silva@example.com
+d544f21f-df91-4cd4-84d5-d6c9925393d2,User reports the issue persists intermittently.,0dc465ac-157a-4104-8b5a-1916e698254d,2025-07-03T17:36:24Z,c.silva@example.com,2025-07-03T17:36:24Z,c.silva@example.com
+af32e12c-8c8d-4ffb-b76a-3472f7399404,User reports the issue persists intermittently.,0dc465ac-157a-4104-8b5a-1916e698254d,2025-10-22T03:20:57Z,e.dubois@example.com,2025-10-22T03:20:57Z,e.dubois@example.com
+a4245116-54ab-47c8-9a3a-15fb48d2d817,Workaround provided in the meantime.,0dc465ac-157a-4104-8b5a-1916e698254d,2026-01-20T16:15:08Z,m.brown@example.com,2026-01-20T16:15:08Z,m.brown@example.com
+46ae6516-0e31-4c0b-a028-08783d0b9ae9,Root cause identified as a config drift.,0dc465ac-157a-4104-8b5a-1916e698254d,2025-07-06T05:00:33Z,d.garcia@example.com,2025-07-06T05:00:33Z,d.garcia@example.com
+6c509329-c359-4139-bab9-3ffc7963a486,Change scheduled for the next maintenance window.,0dc465ac-157a-4104-8b5a-1916e698254d,2025-09-25T02:04:37Z,f.haddad@example.com,2025-09-25T02:04:37Z,f.haddad@example.com
+4f6432d8-ae0d-480a-8d2a-6fdce96acae8,Workaround provided in the meantime.,0dc465ac-157a-4104-8b5a-1916e698254d,2025-07-12T02:03:17Z,p.novak@example.com,2025-07-12T02:03:17Z,p.novak@example.com
+7ca5ec60-7f4c-484a-aeeb-852c57a8b1f3,Duplicate of an earlier related ticket.,0dc465ac-157a-4104-8b5a-1916e698254d,2026-02-03T16:17:52Z,n.rossi@example.com,2026-02-03T16:17:52Z,n.rossi@example.com
+86b950d7-d17c-4ab3-b6d0-190b72f88c26,Priority raised after business impact review.,0dc465ac-157a-4104-8b5a-1916e698254d,2026-02-10T06:47:47Z,o.olsen@example.com,2026-02-10T06:47:47Z,o.olsen@example.com
+dadfdbee-609e-4149-8236-a4e1ab3192ff,Root cause identified as a config drift.,9fe06801-56ca-4012-950d-7c1f89258124,2026-02-03T11:13:29Z,n.rossi@example.com,2026-02-03T11:13:29Z,n.rossi@example.com
+7af7e4cc-6c9d-410a-ba7a-e6694620d13d,User confirmed the problem is resolved.,9fe06801-56ca-4012-950d-7c1f89258124,2025-11-28T00:50:14Z,j.smith@example.com,2025-11-28T00:50:14Z,j.smith@example.com
+8e3ee48a-c5c9-46ec-9231-e428952f9e02,Priority raised after business impact review.,9fe06801-56ca-4012-950d-7c1f89258124,2026-03-21T14:22:39Z,p.novak@example.com,2026-03-21T14:22:39Z,p.novak@example.com
+def6c3a5-a8b1-439c-8269-46ff2c1fab99,Assigned to the responsible team.,9fe06801-56ca-4012-950d-7c1f89258124,2026-05-10T22:41:49Z,n.rossi@example.com,2026-05-10T22:41:49Z,n.rossi@example.com
+a2cece81-d582-45c1-9c9b-770f7132a6eb,Workaround provided in the meantime.,9fe06801-56ca-4012-950d-7c1f89258124,2025-12-24T18:55:17Z,r.lee@example.com,2025-12-24T18:55:17Z,r.lee@example.com
+fe4a9444-7e50-43b8-a505-5b2ee64ba8cf,Awaiting user confirmation.,9fe06801-56ca-4012-950d-7c1f89258124,2026-03-01T16:17:04Z,m.brown@example.com,2026-03-01T16:17:04Z,m.brown@example.com
+d6cbd16c-a0a2-496b-bb08-4a330af595f7,Closing after 48h with no further reports.,ea571ca4-fadc-4c37-927c-8642d8f671a3,2026-06-14T11:19:21Z,m.brown@example.com,2026-06-14T11:19:21Z,m.brown@example.com
+e7e21be3-a183-47af-b840-fd3c5e2c8a61,Root cause identified as a config drift.,ea571ca4-fadc-4c37-927c-8642d8f671a3,2026-02-22T04:13:40Z,o.olsen@example.com,2026-02-22T04:13:40Z,o.olsen@example.com
+60557b55-c61e-47a1-970b-7ee132fdac3d,Change scheduled for the next maintenance window.,ea571ca4-fadc-4c37-927c-8642d8f671a3,2026-03-24T05:41:01Z,t.mueller@example.com,2026-03-24T05:41:01Z,t.mueller@example.com
+8a011f78-8e3c-4160-8f5a-c4530513776c,Assigned to the responsible team.,ea571ca4-fadc-4c37-927c-8642d8f671a3,2026-03-15T18:03:18Z,p.novak@example.com,2026-03-15T18:03:18Z,p.novak@example.com
+8e9e62d0-7b8a-4ad7-9b09-bdcdb008ee6d,User reports the issue persists intermittently.,ea571ca4-fadc-4c37-927c-8642d8f671a3,2026-03-07T06:46:24Z,c.silva@example.com,2026-03-07T06:46:24Z,c.silva@example.com
+75628546-e9d6-4f95-9c46-606f8880959b,Awaiting user confirmation.,ea571ca4-fadc-4c37-927c-8642d8f671a3,2026-04-01T15:46:13Z,e.dubois@example.com,2026-04-01T15:46:13Z,e.dubois@example.com
+a201366d-7ad8-4db0-a1b2-cfc920eabb0c,Change scheduled for the next maintenance window.,ea571ca4-fadc-4c37-927c-8642d8f671a3,2026-04-10T07:47:34Z,j.smith@example.com,2026-04-10T07:47:34Z,j.smith@example.com
+ff056303-c7b9-4d63-9b8a-f81ad9d39c68,Closing after 48h with no further reports.,ea571ca4-fadc-4c37-927c-8642d8f671a3,2026-03-07T01:40:34Z,d.garcia@example.com,2026-03-07T01:40:34Z,d.garcia@example.com
+e7c38f20-9e22-4a10-8ec4-c499137800a2,Assigned to the responsible team.,661007a5-36d4-42a2-9cea-4a0975b4d4a5,2026-03-17T12:59:06Z,n.rossi@example.com,2026-03-17T12:59:06Z,n.rossi@example.com
+035d9881-3a48-4ca3-ab0e-105050a22d2a,Duplicate of an earlier related ticket.,661007a5-36d4-42a2-9cea-4a0975b4d4a5,2025-10-09T01:05:09Z,s.wilson@example.com,2025-10-09T01:05:09Z,s.wilson@example.com
+0b611291-539c-48da-aee2-c4ab1a73fa57,User reports the issue persists intermittently.,661007a5-36d4-42a2-9cea-4a0975b4d4a5,2026-01-22T12:17:28Z,n.rossi@example.com,2026-01-22T12:17:28Z,n.rossi@example.com
+2e3aa1a0-e5b3-43d1-aff4-fcd72d3407d4,Duplicate of an earlier related ticket.,661007a5-36d4-42a2-9cea-4a0975b4d4a5,2025-08-13T02:04:09Z,s.wilson@example.com,2025-08-13T02:04:09Z,s.wilson@example.com
+e28e3fb5-ebd1-4e5e-99c8-b8d0f75fef5d,Closing after 48h with no further reports.,661007a5-36d4-42a2-9cea-4a0975b4d4a5,2025-11-24T01:40:49Z,l.martin@example.com,2025-11-24T01:40:49Z,l.martin@example.com
+f4abf154-8781-4023-84b0-b07a8f92cd0b,Awaiting user confirmation.,661007a5-36d4-42a2-9cea-4a0975b4d4a5,2025-12-28T10:18:07Z,c.silva@example.com,2025-12-28T10:18:07Z,c.silva@example.com
+47c4f9c7-4509-4993-87ce-60c6335d0d58,Change scheduled for the next maintenance window.,661007a5-36d4-42a2-9cea-4a0975b4d4a5,2025-08-04T18:47:29Z,l.martin@example.com,2025-08-04T18:47:29Z,l.martin@example.com
+0d0fa94c-aa98-498d-b715-690766e2645a,Workaround provided in the meantime.,661007a5-36d4-42a2-9cea-4a0975b4d4a5,2025-12-13T15:54:51Z,t.mueller@example.com,2025-12-13T15:54:51Z,t.mueller@example.com
+c4b8db86-48b2-4fc2-bb00-3a13f89303bf,User confirmed the problem is resolved.,10e9f487-c43e-4a17-9b17-4b777aa8f4c5,2026-04-04T04:46:28Z,o.olsen@example.com,2026-04-04T04:46:28Z,o.olsen@example.com
+d348489f-024e-4a32-ba4f-756b2268895f,Closing after 48h with no further reports.,10e9f487-c43e-4a17-9b17-4b777aa8f4c5,2026-04-22T04:09:19Z,d.garcia@example.com,2026-04-22T04:09:19Z,d.garcia@example.com
+015b0240-9ca1-475b-9db3-044ab7d4f7d2,Workaround provided in the meantime.,10e9f487-c43e-4a17-9b17-4b777aa8f4c5,2026-06-04T23:30:26Z,o.olsen@example.com,2026-06-04T23:30:26Z,o.olsen@example.com
+446e791e-65b9-4534-a6b0-0906e7353462,Root cause identified as a config drift.,10e9f487-c43e-4a17-9b17-4b777aa8f4c5,2026-03-02T19:45:16Z,p.novak@example.com,2026-03-02T19:45:16Z,p.novak@example.com
+cab71ed4-0102-44ca-a784-e7ad5a66cc52,Awaiting user confirmation.,10e9f487-c43e-4a17-9b17-4b777aa8f4c5,2026-02-22T01:10:27Z,m.brown@example.com,2026-02-22T01:10:27Z,m.brown@example.com
+ce351497-9361-4ca7-829e-5ab053bed007,Closing after 48h with no further reports.,e4d64899-5cc7-4f6f-8ef8-a31d193732f8,2025-08-31T23:53:00Z,a.jones@example.com,2025-08-31T23:53:00Z,a.jones@example.com
+7118199a-d166-4db9-9f6e-bf7e51da1899,User reports the issue persists intermittently.,e4d64899-5cc7-4f6f-8ef8-a31d193732f8,2025-08-31T05:18:54Z,f.haddad@example.com,2025-08-31T05:18:54Z,f.haddad@example.com
+8d4d1d26-1a28-49ee-93a1-289493e982d2,Duplicate of an earlier related ticket.,e4d64899-5cc7-4f6f-8ef8-a31d193732f8,2025-08-28T15:48:17Z,n.rossi@example.com,2025-08-28T15:48:17Z,n.rossi@example.com
+cdc59f4d-7ff6-4a01-a600-32268eedaca9,User reports the issue persists intermittently.,e4d64899-5cc7-4f6f-8ef8-a31d193732f8,2025-08-30T11:27:48Z,c.silva@example.com,2025-08-30T11:27:48Z,c.silva@example.com
+c5e47dc6-9727-4199-ac48-e14dd4b825b9,Duplicate of an earlier related ticket.,e4d64899-5cc7-4f6f-8ef8-a31d193732f8,2025-09-01T10:40:31Z,r.lee@example.com,2025-09-01T10:40:31Z,r.lee@example.com
+dd414ca0-2eb5-4129-b8a0-7c680f636e4c,Assigned to the responsible team.,2fc53da4-2a9e-4986-bb86-7eb99b72b0b9,2025-12-26T10:59:56Z,a.jones@example.com,2025-12-26T10:59:56Z,a.jones@example.com
+f5374c90-ee66-47e0-a38f-ade7809bf328,Change scheduled for the next maintenance window.,2fc53da4-2a9e-4986-bb86-7eb99b72b0b9,2026-05-02T00:10:48Z,t.mueller@example.com,2026-05-02T00:10:48Z,t.mueller@example.com
+eae43229-5fa3-4794-8505-31ae68dcd548,User confirmed the problem is resolved.,2fc53da4-2a9e-4986-bb86-7eb99b72b0b9,2025-12-11T14:35:52Z,n.rossi@example.com,2025-12-11T14:35:52Z,n.rossi@example.com
+8fffc227-8069-473a-83c7-9a847dd76fb3,Awaiting user confirmation.,2fc53da4-2a9e-4986-bb86-7eb99b72b0b9,2026-05-26T04:33:37Z,e.dubois@example.com,2026-05-26T04:33:37Z,e.dubois@example.com
+bd97df26-edb3-4668-be4d-fd7f6205e335,User confirmed the problem is resolved.,2fc53da4-2a9e-4986-bb86-7eb99b72b0b9,2026-04-04T13:01:26Z,n.rossi@example.com,2026-04-04T13:01:26Z,n.rossi@example.com
+f9abaa97-d7c4-44f4-bebd-8b09ee1e899c,Awaiting user confirmation.,2fc53da4-2a9e-4986-bb86-7eb99b72b0b9,2025-11-25T12:43:03Z,p.novak@example.com,2025-11-25T12:43:03Z,p.novak@example.com
+08e53012-3593-4b42-806e-c51197a3c9b2,Awaiting user confirmation.,db87abd1-a21f-4481-b849-1ce9dde0afd5,2025-05-30T17:31:56Z,r.lee@example.com,2025-05-30T17:31:56Z,r.lee@example.com
+7db92b29-c865-46f6-a6b9-f60c8f0200b5,Workaround provided in the meantime.,db87abd1-a21f-4481-b849-1ce9dde0afd5,2025-05-31T08:48:32Z,t.mueller@example.com,2025-05-31T08:48:32Z,t.mueller@example.com
+0bd8bf5a-b914-4db5-9c62-d5e272f9dc1b,Priority raised after business impact review.,db87abd1-a21f-4481-b849-1ce9dde0afd5,2025-05-31T13:29:37Z,k.patel@example.com,2025-05-31T13:29:37Z,k.patel@example.com
+38639af8-4c00-443e-badd-4a2c3a524573,User reports the issue persists intermittently.,db87abd1-a21f-4481-b849-1ce9dde0afd5,2025-06-02T18:43:45Z,o.olsen@example.com,2025-06-02T18:43:45Z,o.olsen@example.com
+76205ba3-871a-4b06-a1e7-9ea023c6ce7b,Workaround provided in the meantime.,db87abd1-a21f-4481-b849-1ce9dde0afd5,2025-05-30T12:56:29Z,p.novak@example.com,2025-05-30T12:56:29Z,p.novak@example.com
+ac7be877-bf9c-44a4-8f9b-afcc9f4356c2,User confirmed the problem is resolved.,95ad7325-d465-45e0-8881-136996338ee9,2025-03-23T09:56:34Z,r.lee@example.com,2025-03-23T09:56:34Z,r.lee@example.com
+1acab620-dfd8-419c-990b-1f475ae5d69c,Change scheduled for the next maintenance window.,95ad7325-d465-45e0-8881-136996338ee9,2025-03-09T14:00:04Z,l.martin@example.com,2025-03-09T14:00:04Z,l.martin@example.com
+6c3166bb-5b96-4d26-9460-12a41557cef9,Root cause identified as a config drift.,95ad7325-d465-45e0-8881-136996338ee9,2025-03-22T01:57:56Z,p.novak@example.com,2025-03-22T01:57:56Z,p.novak@example.com
+402df073-c510-4723-8da2-3b8083b37b57,Root cause identified as a config drift.,95ad7325-d465-45e0-8881-136996338ee9,2025-03-08T18:04:52Z,t.mueller@example.com,2025-03-08T18:04:52Z,t.mueller@example.com
+7d0162f0-2e08-46db-8060-c30e21f70d25,Workaround provided in the meantime.,95ad7325-d465-45e0-8881-136996338ee9,2025-03-25T05:27:50Z,d.garcia@example.com,2025-03-25T05:27:50Z,d.garcia@example.com
+30b9e000-0524-4a88-a658-45739d4201a9,Workaround provided in the meantime.,95ad7325-d465-45e0-8881-136996338ee9,2025-03-10T03:01:02Z,d.garcia@example.com,2025-03-10T03:01:02Z,d.garcia@example.com

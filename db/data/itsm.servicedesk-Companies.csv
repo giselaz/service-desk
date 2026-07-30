@@ -1,5 +1,9 @@
 ID,name,description,timeToSpend,remainingTime
-a0000000-0000-0000-0000-000000000001,Contoso Ltd,Primary corporate customer,2400,2400
-a0000000-0000-0000-0000-000000000002,Northwind Traders,Retail partner,1200,1200
-a0000000-0000-0000-0000-000000000003,Globex Corporation,Enterprise client,4800,4800
-a0000000-0000-0000-0000-000000000004,Initech,Small business account,600,600
+05fd7cd3-9c16-49d0-8b94-5c08012b31ff,Acme Corporation,Manufacturing,5432400,933912
+5d94a023-b7ec-4405-a25b-ce965e6e87f8,Globex Ltd,Logistics,903600,777572
+f6512ae1-fcf7-413c-9399-245c9ebfb450,Initech GmbH,Software vendor,2746800,1027150
+38cb39aa-5134-4f19-8378-04df7402d061,Umbrella Health,Healthcare provider,2365200,585264
+5b0803a4-9090-450b-a590-68d05b6fa827,Stark Industries,Engineering,6148800,859791
+48d3096c-d93c-419b-a657-3bdeb352136d,Wayne Enterprises,Diversified holdings,5706000,4574866
+0ae67311-bcfc-4c55-bf3e-3d371e1a0036,Soylent Foods,Food & beverage,1360800,1238352
+bb188c58-aca1-437e-8e21-4f409052c048,Hooli,Technology,3830400,133306
