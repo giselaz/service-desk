@@ -1,8 +1,8 @@
-code,criticality
-NEW,5
-ASSIGNED,2
-IN_PROCESS,2
-STANDBY,0
-USER_RESPONDED,2
-CLOSED,3
-RESOLVED,3
+code,name,criticality
+NEW,New,5
+ASSIGNED,Assigned,2
+IN_PROCESS,In Process,2
+STANDBY,Stand by,0
+USER_RESPONDED,User Responded,2
+CLOSED,Closed,3
+RESOLVED,Resolved,3

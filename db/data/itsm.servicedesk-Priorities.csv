@@ -1,4 +1,4 @@
-code,criticality
-LOW,3
-MEDIUM,2
-HIGH,1
+code,name,criticality
+LOW,Low,3
+MEDIUM,Medium,2
+HIGH,High,1

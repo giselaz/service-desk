@@ -1,9 +1,9 @@
 ID,name,description,timeToSpend,remainingTime
-05fd7cd3-9c16-49d0-8b94-5c08012b31ff,Acme Corporation,Manufacturing,5432400,933912
-5d94a023-b7ec-4405-a25b-ce965e6e87f8,Globex Ltd,Logistics,903600,777572
-f6512ae1-fcf7-413c-9399-245c9ebfb450,Initech GmbH,Software vendor,2746800,1027150
-38cb39aa-5134-4f19-8378-04df7402d061,Umbrella Health,Healthcare provider,2365200,585264
-5b0803a4-9090-450b-a590-68d05b6fa827,Stark Industries,Engineering,6148800,859791
-48d3096c-d93c-419b-a657-3bdeb352136d,Wayne Enterprises,Diversified holdings,5706000,4574866
-0ae67311-bcfc-4c55-bf3e-3d371e1a0036,Soylent Foods,Food & beverage,1360800,1238352
-bb188c58-aca1-437e-8e21-4f409052c048,Hooli,Technology,3830400,133306
+80354fe4-420a-4d1b-9497-94d54c2914b7,Acme Corporation,Manufacturing,18360,18360
+e0042de7-14b2-4667-9365-538bc03e9993,Globex Ltd,Logistics,17063,17063
+ee06f354-8550-4814-a1be-5693bdc03abb,Initech GmbH,Software vendor,5760,5760
+c3cf8dc5-40a7-44b1-b636-5a04bfb84cc3,Umbrella Health,Healthcare provider,11450,10500
+2a8d55e8-50c3-4b35-bd00-cd26c4a8be1a,Stark Industries,Engineering,7160,7160
+10891b99-cbcc-4134-aa49-7a44d7576d6a,Wayne Enterprises,Diversified holdings,10500,10500
+1b25772d-fa50-46ac-8d7a-e26d3a39a4e8,Soylent Foods,Food & beverage,6780,10500
+be7e8983-5372-4063-9e21-44183fd10894,Hooli,Technology,7890,7890

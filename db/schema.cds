@@ -12,7 +12,7 @@ entity Operation: cuid, managed {
     worklogs: Composition of many Worklogs on worklogs.operation = $self;
     category: Association to  Categories;
     dueDate: Date;
-    closedAt: Timestamp;
+    closedAt: Timestamp; 
     company: Association to Companies;
 }
 

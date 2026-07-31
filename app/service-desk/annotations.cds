@@ -264,8 +264,8 @@ annotate service.Operations with {
     urgency @(
         Common.FieldControl : #Mandatory,
         Common.Text: urgency.name,
-        Common.TextArrangement: textOnly,
-        Common.ValueListWithFixedValues
+        Common.TextArrangement: #TextOnly,
+        Common.ValueListWithFixedValues,
     )
     
 };
@@ -276,6 +276,7 @@ annotate service.Operations with {
         Text: status.name,
         Common.ValueListWithFixedValues,
         Common.Text : status.name,
+        Common.TextArrangement: #TextOnly,
     )
     
 };
@@ -283,7 +284,9 @@ annotate service.Operations with {
     priority @(
         Common.FieldControl : #Mandatory,
         Text: priority.name,
-        Common.ValueListWithFixedValues
+        Common.ValueListWithFixedValues,
+        Common.Text : priority.name,
+        Common.TextArrangement: #TextOnly,
     )
     
 };
@@ -293,6 +296,19 @@ annotate service.Operations with {
         Text: serviceType.name,
         Common.ValueListWithFixedValues,
         Common.Text : serviceType.name,
+        Common.TextArrangement: #TextOnly,
     )
     
+};
+annotate service.Statuses with {
+  code @Common.Text: name @Common.TextArrangement: #TextOnly;
+};
+annotate service.Urgencies with {
+  code @Common.Text: name @Common.TextArrangement: #TextOnly;
+};
+annotate service.Priorities with {
+  code @Common.Text: name @Common.TextArrangement: #TextOnly;
+};
+annotate service.ServiceTypes with {
+  code @Common.Text: name @Common.TextArrangement: #TextOnly;
 };

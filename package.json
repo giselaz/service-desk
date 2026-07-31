@@ -61,8 +61,7 @@
               ]
             }
           }
-        }
-       
+        }         
       },
       "destinations": true,
       "html5-repo": true,

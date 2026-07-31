@@ -1,4 +1,4 @@
-code
-INCIDENT
-REQUEST
-CHANGE
+code,name
+INCIDENT,Incident
+REQUEST,Request
+CHANGE,Change
